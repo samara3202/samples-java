@@ -1,0 +1,4980 @@
+patientId,title,value
+P000001,Oxygen Saturation,99%
+P000001,Heart Rate,114 bpm
+P000001,Heart Rate,92 bpm
+P000001,Weight,149 lbs
+P000001,Heart Rate,72 bpm
+P000002,Heart Rate,73 bpm
+P000002,Oxygen Saturation,92%
+P000002,Heart Rate,105 bpm
+P000002,Diagnosis,Hyperlipidemia
+P000002,Prescription,Levothyroxine 50mcg once daily
+P000003,Oxygen Saturation,92%
+P000003,Oxygen Saturation,90%
+P000003,Temperature,101.7°F
+P000003,Temperature,101.8°F
+P000003,Diagnosis,Coronary Artery Disease
+P000004,Blood Pressure,124/87 mmHg
+P000004,Heart Rate,63 bpm
+P000004,Temperature,98.6°F
+P000004,Total Cholesterol,276 mg/dL
+P000005,Blood Pressure,137/86 mmHg
+P000005,Heart Rate,111 bpm
+P000005,Weight,245 lbs
+P000005,Heart Rate,118 bpm
+P000005,Total Cholesterol,292 mg/dL
+P000006,Temperature,101.5°F
+P000006,Weight,131 lbs
+P000006,Heart Rate,68 bpm
+P000006,Oxygen Saturation,95%
+P000006,Temperature,97.3°F
+P000007,Oxygen Saturation,91%
+P000007,Oxygen Saturation,94%
+P000007,Blood Pressure,119/72 mmHg
+P000007,Temperature,100.7°F
+P000007,Diagnosis,Osteoarthritis
+P000008,Temperature,101.6°F
+P000008,Weight,173 lbs
+P000008,Heart Rate,80 bpm
+P000008,Diagnosis,Hyperlipidemia
+P000008,Prescription,Omeprazole 20mg once daily
+P000009,Temperature,101.7°F
+P000009,Temperature,99.1°F
+P000009,Blood Pressure,118/99 mmHg
+P000009,Temperature,97.1°F
+P000009,Heart Rate,87 bpm
+P000010,Weight,160 lbs
+P000010,Weight,193 lbs
+P000010,Weight,276 lbs
+P000010,Diagnosis,Hypertension Stage 1
+P000010,HbA1c,12.0%
+P000011,Weight,118 lbs
+P000011,Heart Rate,110 bpm
+P000011,Weight,135 lbs
+P000011,Blood Pressure,116/75 mmHg
+P000011,Diagnosis,Depression
+P000012,Heart Rate,94 bpm
+P000012,Oxygen Saturation,93%
+P000012,Weight,251 lbs
+P000012,Weight,193 lbs
+P000012,Diagnosis,Hypertension Stage 1
+P000013,Oxygen Saturation,90%
+P000013,Oxygen Saturation,95%
+P000013,Oxygen Saturation,95%
+P000013,Heart Rate,116 bpm
+P000013,Diagnosis,Osteoarthritis
+P000014,Oxygen Saturation,94%
+P000014,Heart Rate,111 bpm
+P000014,Weight,189 lbs
+P000014,Diagnosis,Hyperlipidemia
+P000014,Prescription,Metformin 500mg twice daily
+P000015,Heart Rate,118 bpm
+P000015,Oxygen Saturation,91%
+P000015,Heart Rate,52 bpm
+P000015,Prescription,Atorvastatin 20mg at bedtime
+P000015,Prescription,Atorvastatin 20mg at bedtime
+P000016,Heart Rate,105 bpm
+P000016,Heart Rate,93 bpm
+P000016,Weight,155 lbs
+P000016,Heart Rate,56 bpm
+P000016,Diagnosis,Osteoarthritis
+P000017,Blood Pressure,146/105 mmHg
+P000017,Heart Rate,58 bpm
+P000017,Diagnosis,Depression
+P000017,Prescription,Metformin 500mg twice daily
+P000017,Prescription,Metformin 500mg twice daily
+P000018,Temperature,99.4°F
+P000018,Temperature,100.6°F
+P000018,Diagnosis,Hypertension Stage 1
+P000018,Prescription,Lisinopril 10mg once daily
+P000018,Prescription,Omeprazole 20mg once daily
+P000019,Temperature,100.6°F
+P000019,Blood Pressure,164/74 mmHg
+P000019,Diagnosis,Depression
+P000019,Prescription,Metformin 500mg twice daily
+P000019,Creatinine,2.16 mg/dL
+P000020,Weight,270 lbs
+P000020,Weight,250 lbs
+P000020,Oxygen Saturation,100%
+P000020,Oxygen Saturation,92%
+P000020,Blood Pressure,115/120 mmHg
+P000021,Temperature,100.0°F
+P000021,Heart Rate,71 bpm
+P000021,Heart Rate,50 bpm
+P000021,Temperature,101.6°F
+P000021,Diagnosis,Hypertension Stage 1
+P000022,Temperature,99.5°F
+P000022,Temperature,97.3°F
+P000022,Temperature,100.6°F
+P000022,Diagnosis,Osteoarthritis
+P000022,Prescription,Atorvastatin 20mg at bedtime
+P000023,Heart Rate,89 bpm
+P000023,Heart Rate,97 bpm
+P000023,Oxygen Saturation,95%
+P000023,Oxygen Saturation,91%
+P000023,Diagnosis,Depression
+P000024,Temperature,102.0°F
+P000024,Weight,268 lbs
+P000024,Temperature,98.8°F
+P000024,Weight,174 lbs
+P000024,Fasting Blood Glucose,178 mg/dL
+P000025,Heart Rate,66 bpm
+P000025,Heart Rate,101 bpm
+P000025,Weight,244 lbs
+P000025,Oxygen Saturation,99%
+P000025,Heart Rate,79 bpm
+P000026,Blood Pressure,110/118 mmHg
+P000026,Blood Pressure,125/65 mmHg
+P000026,Heart Rate,91 bpm
+P000026,HbA1c,6.1%
+P000026,Creatinine,2.42 mg/dL
+P000027,Heart Rate,82 bpm
+P000027,Weight,279 lbs
+P000027,Temperature,98.9°F
+P000027,Temperature,97.8°F
+P000027,Prescription,Metformin 500mg twice daily
+P000028,Heart Rate,72 bpm
+P000028,Temperature,98.3°F
+P000028,Weight,137 lbs
+P000028,Oxygen Saturation,99%
+P000028,Weight,153 lbs
+P000029,Blood Pressure,114/65 mmHg
+P000029,Oxygen Saturation,97%
+P000029,Weight,217 lbs
+P000029,Diagnosis,Osteoarthritis
+P000029,Fasting Blood Glucose,243 mg/dL
+P000030,Oxygen Saturation,96%
+P000030,Blood Pressure,179/79 mmHg
+P000030,Weight,243 lbs
+P000030,Heart Rate,109 bpm
+P000030,Fasting Blood Glucose,210 mg/dL
+P000031,Oxygen Saturation,95%
+P000031,Oxygen Saturation,96%
+P000031,Weight,201 lbs
+P000031,Diagnosis,Hypertension Stage 2
+P000031,Prescription,Lisinopril 10mg once daily
+P000032,Blood Pressure,102/85 mmHg
+P000032,Weight,115 lbs
+P000032,Diagnosis,Type 2 Diabetes Mellitus
+P000032,HbA1c,6.4%
+P000033,Weight,290 lbs
+P000033,Weight,133 lbs
+P000033,Weight,268 lbs
+P000033,Heart Rate,76 bpm
+P000033,Oxygen Saturation,91%
+P000034,Oxygen Saturation,91%
+P000034,Temperature,98.6°F
+P000034,Weight,118 lbs
+P000034,Temperature,99.3°F
+P000034,Prescription,Levothyroxine 50mcg once daily
+P000035,Blood Pressure,104/82 mmHg
+P000035,Temperature,101.5°F
+P000035,Heart Rate,102 bpm
+P000035,Weight,229 lbs
+P000035,Diagnosis,Depression
+P000036,Temperature,97.5°F
+P000036,Weight,179 lbs
+P000036,Temperature,99.1°F
+P000036,Blood Pressure,120/116 mmHg
+P000036,Weight,229 lbs
+P000037,Temperature,99.9°F
+P000037,Heart Rate,59 bpm
+P000037,Diagnosis,Hyperlipidemia
+P000037,Prescription,Metformin 500mg twice daily
+P000037,Prescription,Metformin 500mg twice daily
+P000038,Weight,233 lbs
+P000038,Heart Rate,83 bpm
+P000038,Blood Pressure,123/88 mmHg
+P000038,Heart Rate,99 bpm
+P000038,Oxygen Saturation,93%
+P000039,Heart Rate,103 bpm
+P000039,Heart Rate,58 bpm
+P000039,Oxygen Saturation,90%
+P000039,Diagnosis,Hypertension Stage 2
+P000039,Total Cholesterol,215 mg/dL
+P000040,Oxygen Saturation,93%
+P000040,Heart Rate,120 bpm
+P000040,Heart Rate,93 bpm
+P000040,Oxygen Saturation,93%
+P000040,Temperature,99.8°F
+P000041,Blood Pressure,159/89 mmHg
+P000041,Blood Pressure,151/71 mmHg
+P000041,Temperature,101.4°F
+P000041,Blood Pressure,177/84 mmHg
+P000041,Oxygen Saturation,98%
+P000042,Oxygen Saturation,97%
+P000042,Heart Rate,56 bpm
+P000042,Heart Rate,110 bpm
+P000042,Diagnosis,Type 2 Diabetes Mellitus
+P000042,Creatinine,1.63 mg/dL
+P000043,Blood Pressure,124/62 mmHg
+P000043,Oxygen Saturation,90%
+P000043,Blood Pressure,162/92 mmHg
+P000043,Temperature,101.4°F
+P000043,Prescription,Levothyroxine 50mcg once daily
+P000044,Oxygen Saturation,95%
+P000044,Blood Pressure,147/64 mmHg
+P000044,Temperature,97.8°F
+P000044,Heart Rate,86 bpm
+P000044,Diagnosis,Hyperlipidemia
+P000045,Blood Pressure,158/113 mmHg
+P000045,Weight,262 lbs
+P000045,Oxygen Saturation,96%
+P000045,Prescription,Aspirin 81mg once daily
+P000045,Prescription,Atorvastatin 20mg at bedtime
+P000046,Oxygen Saturation,97%
+P000046,Blood Pressure,114/73 mmHg
+P000046,Diagnosis,Coronary Artery Disease
+P000046,Fasting Blood Glucose,70 mg/dL
+P000046,Fasting Blood Glucose,239 mg/dL
+P000047,Oxygen Saturation,100%
+P000047,Oxygen Saturation,99%
+P000047,Heart Rate,104 bpm
+P000047,Weight,276 lbs
+P000047,Oxygen Saturation,92%
+P000048,Blood Pressure,110/68 mmHg
+P000048,Blood Pressure,127/88 mmHg
+P000048,Diagnosis,Hypertension Stage 1
+P000048,Prescription,Levothyroxine 50mcg once daily
+P000048,Prescription,Omeprazole 20mg once daily
+P000049,Blood Pressure,145/115 mmHg
+P000049,Oxygen Saturation,100%
+P000049,Diagnosis,Hypertension Stage 1
+P000049,Prescription,Aspirin 81mg once daily
+P000049,Prescription,Atorvastatin 20mg at bedtime
+P000050,Blood Pressure,146/61 mmHg
+P000050,Blood Pressure,97/66 mmHg
+P000050,Weight,147 lbs
+P000050,Temperature,101.9°F
+P000050,Heart Rate,78 bpm
+P000051,Weight,138 lbs
+P000051,Oxygen Saturation,95%
+P000051,Diagnosis,Type 2 Diabetes Mellitus
+P000051,Fasting Blood Glucose,131 mg/dL
+P000051,Creatinine,1.44 mg/dL
+P000052,Oxygen Saturation,92%
+P000052,Blood Pressure,169/111 mmHg
+P000052,Fasting Blood Glucose,154 mg/dL
+P000052,Total Cholesterol,293 mg/dL
+P000052,Creatinine,1.23 mg/dL
+P000053,Temperature,100.0°F
+P000053,Temperature,99.7°F
+P000053,Diagnosis,Type 2 Diabetes Mellitus
+P000053,Prescription,Aspirin 81mg once daily
+P000053,Prescription,Omeprazole 20mg once daily
+P000054,Blood Pressure,166/112 mmHg
+P000054,Heart Rate,80 bpm
+P000054,Weight,157 lbs
+P000054,Blood Pressure,147/68 mmHg
+P000054,Diagnosis,COPD
+P000055,Blood Pressure,177/107 mmHg
+P000055,Heart Rate,56 bpm
+P000055,Blood Pressure,133/76 mmHg
+P000055,Prescription,Atorvastatin 20mg at bedtime
+P000055,Prescription,Atorvastatin 20mg at bedtime
+P000056,Oxygen Saturation,99%
+P000056,Heart Rate,110 bpm
+P000056,Creatinine,1.07 mg/dL
+P000056,Creatinine,2.08 mg/dL
+P000056,Creatinine,0.83 mg/dL
+P000057,Heart Rate,106 bpm
+P000057,Blood Pressure,155/116 mmHg
+P000057,Blood Pressure,148/106 mmHg
+P000057,Diagnosis,Hyperlipidemia
+P000057,Prescription,Atorvastatin 20mg at bedtime
+P000058,Temperature,99.3°F
+P000058,Oxygen Saturation,99%
+P000058,Oxygen Saturation,98%
+P000058,Heart Rate,78 bpm
+P000058,Temperature,100.3°F
+P000059,Temperature,100.8°F
+P000059,Temperature,99.7°F
+P000059,Blood Pressure,126/91 mmHg
+P000059,Diagnosis,Chronic Kidney Disease Stage 3
+P000059,Prescription,Aspirin 81mg once daily
+P000060,Weight,143 lbs
+P000060,Temperature,99.8°F
+P000060,Diagnosis,Hypertension Stage 2
+P000060,Prescription,Lisinopril 10mg once daily
+P000060,Prescription,Aspirin 81mg once daily
+P000061,Oxygen Saturation,93%
+P000061,Temperature,98.1°F
+P000061,Oxygen Saturation,94%
+P000061,Oxygen Saturation,97%
+P000061,Blood Pressure,163/63 mmHg
+P000062,Temperature,97.4°F
+P000062,Blood Pressure,145/62 mmHg
+P000062,Weight,288 lbs
+P000062,Oxygen Saturation,92%
+P000062,Oxygen Saturation,93%
+P000063,Weight,249 lbs
+P000063,Weight,210 lbs
+P000063,Heart Rate,117 bpm
+P000063,Weight,138 lbs
+P000063,Diagnosis,Chronic Kidney Disease Stage 3
+P000064,Blood Pressure,104/108 mmHg
+P000064,Temperature,97.7°F
+P000064,Weight,109 lbs
+P000064,Heart Rate,107 bpm
+P000064,Temperature,99.9°F
+P000065,Oxygen Saturation,98%
+P000065,Oxygen Saturation,97%
+P000065,Temperature,102.0°F
+P000065,Diagnosis,Osteoarthritis
+P000065,Prescription,Metformin 500mg twice daily
+P000066,Temperature,99.6°F
+P000066,Weight,122 lbs
+P000066,Prescription,Omeprazole 20mg once daily
+P000066,Creatinine,0.99 mg/dL
+P000066,HbA1c,11.2%
+P000067,Heart Rate,51 bpm
+P000067,Heart Rate,101 bpm
+P000067,Diagnosis,Type 2 Diabetes Mellitus
+P000067,Prescription,Omeprazole 20mg once daily
+P000067,Prescription,Aspirin 81mg once daily
+P000068,Heart Rate,104 bpm
+P000068,Weight,289 lbs
+P000068,Blood Pressure,172/115 mmHg
+P000068,Temperature,97.5°F
+P000068,Diagnosis,Asthma
+P000069,Weight,278 lbs
+P000069,Heart Rate,120 bpm
+P000069,Diagnosis,Coronary Artery Disease
+P000069,Prescription,Metformin 500mg twice daily
+P000069,Prescription,Atorvastatin 20mg at bedtime
+P000070,Weight,112 lbs
+P000070,Weight,249 lbs
+P000070,Prescription,Omeprazole 20mg once daily
+P000070,Prescription,Aspirin 81mg once daily
+P000070,HbA1c,8.6%
+P000071,Weight,248 lbs
+P000071,Heart Rate,101 bpm
+P000071,Oxygen Saturation,90%
+P000071,Heart Rate,87 bpm
+P000071,Oxygen Saturation,92%
+P000072,Temperature,98.2°F
+P000072,Heart Rate,63 bpm
+P000072,Temperature,97.6°F
+P000072,Temperature,100.4°F
+P000072,Prescription,Metformin 500mg twice daily
+P000073,Oxygen Saturation,94%
+P000073,Temperature,100.0°F
+P000073,Heart Rate,66 bpm
+P000073,Blood Pressure,104/85 mmHg
+P000073,Diagnosis,Hypertension Stage 2
+P000074,Oxygen Saturation,99%
+P000074,Blood Pressure,94/61 mmHg
+P000074,Blood Pressure,94/89 mmHg
+P000074,Prescription,Metformin 500mg twice daily
+P000074,Prescription,Metformin 500mg twice daily
+P000075,Weight,274 lbs
+P000075,Oxygen Saturation,100%
+P000075,Oxygen Saturation,92%
+P000075,Diagnosis,Hypertension Stage 2
+P000075,Prescription,Atorvastatin 20mg at bedtime
+P000076,Weight,138 lbs
+P000076,Oxygen Saturation,90%
+P000076,Weight,209 lbs
+P000076,Oxygen Saturation,92%
+P000076,Oxygen Saturation,93%
+P000077,Heart Rate,57 bpm
+P000077,Oxygen Saturation,96%
+P000077,Heart Rate,101 bpm
+P000077,Diagnosis,Osteoarthritis
+P000077,Prescription,Aspirin 81mg once daily
+P000078,Heart Rate,117 bpm
+P000078,Temperature,101.0°F
+P000078,Prescription,Metformin 500mg twice daily
+P000078,Total Cholesterol,172 mg/dL
+P000078,Fasting Blood Glucose,247 mg/dL
+P000079,Weight,220 lbs
+P000079,Heart Rate,107 bpm
+P000079,Weight,279 lbs
+P000079,Diagnosis,Hypertension Stage 2
+P000079,Prescription,Metformin 500mg twice daily
+P000080,Weight,134 lbs
+P000080,Oxygen Saturation,95%
+P000080,Heart Rate,68 bpm
+P000080,Weight,187 lbs
+P000080,Oxygen Saturation,100%
+P000081,Weight,121 lbs
+P000081,Temperature,101.6°F
+P000081,Weight,266 lbs
+P000081,Weight,208 lbs
+P000081,Heart Rate,65 bpm
+P000082,Oxygen Saturation,91%
+P000082,Oxygen Saturation,100%
+P000082,Weight,172 lbs
+P000082,Temperature,101.8°F
+P000082,Blood Pressure,121/66 mmHg
+P000083,Blood Pressure,92/80 mmHg
+P000083,Blood Pressure,112/109 mmHg
+P000083,Heart Rate,113 bpm
+P000083,Diagnosis,Asthma
+P000083,Fasting Blood Glucose,98 mg/dL
+P000084,Oxygen Saturation,96%
+P000084,Temperature,98.1°F
+P000084,Oxygen Saturation,98%
+P000084,Temperature,101.5°F
+P000084,Weight,108 lbs
+P000085,Oxygen Saturation,98%
+P000085,Weight,268 lbs
+P000085,Temperature,97.6°F
+P000085,Weight,145 lbs
+P000085,Diagnosis,COPD
+P000086,Oxygen Saturation,90%
+P000086,Oxygen Saturation,91%
+P000086,Diagnosis,Hypertension Stage 1
+P000086,Prescription,Levothyroxine 50mcg once daily
+P000086,Prescription,Omeprazole 20mg once daily
+P000087,Oxygen Saturation,96%
+P000087,Weight,224 lbs
+P000087,Blood Pressure,132/80 mmHg
+P000087,Temperature,97.1°F
+P000087,Diagnosis,COPD
+P000088,Blood Pressure,128/107 mmHg
+P000088,Oxygen Saturation,92%
+P000088,Blood Pressure,165/92 mmHg
+P000088,Diagnosis,Hyperlipidemia
+P000088,Prescription,Atorvastatin 20mg at bedtime
+P000089,Heart Rate,60 bpm
+P000089,Heart Rate,90 bpm
+P000089,Oxygen Saturation,99%
+P000089,Weight,231 lbs
+P000089,Diagnosis,Hypertension Stage 2
+P000090,Heart Rate,68 bpm
+P000090,Temperature,98.3°F
+P000090,Oxygen Saturation,98%
+P000090,Weight,194 lbs
+P000090,Diagnosis,Asthma
+P000091,Weight,261 lbs
+P000091,Weight,295 lbs
+P000091,Blood Pressure,110/104 mmHg
+P000091,Blood Pressure,162/112 mmHg
+P000091,Weight,229 lbs
+P000092,Oxygen Saturation,90%
+P000092,Temperature,101.8°F
+P000092,Blood Pressure,112/98 mmHg
+P000092,Blood Pressure,174/115 mmHg
+P000092,Diagnosis,Hypertension Stage 1
+P000093,Heart Rate,74 bpm
+P000093,Blood Pressure,95/67 mmHg
+P000093,Heart Rate,66 bpm
+P000093,Oxygen Saturation,100%
+P000093,Heart Rate,72 bpm
+P000094,Heart Rate,116 bpm
+P000094,Heart Rate,54 bpm
+P000094,Blood Pressure,138/80 mmHg
+P000094,Diagnosis,Chronic Kidney Disease Stage 3
+P000094,Fasting Blood Glucose,128 mg/dL
+P000095,Temperature,100.6°F
+P000095,Blood Pressure,155/62 mmHg
+P000095,Blood Pressure,142/85 mmHg
+P000095,Diagnosis,Coronary Artery Disease
+P000095,Prescription,Lisinopril 10mg once daily
+P000096,Blood Pressure,173/114 mmHg
+P000096,Heart Rate,68 bpm
+P000096,Weight,227 lbs
+P000096,Diagnosis,Hypertension Stage 1
+P000096,HbA1c,11.8%
+P000097,Blood Pressure,130/70 mmHg
+P000097,Blood Pressure,172/104 mmHg
+P000097,Blood Pressure,128/93 mmHg
+P000097,Prescription,Atorvastatin 20mg at bedtime
+P000097,Prescription,Omeprazole 20mg once daily
+P000098,Blood Pressure,155/87 mmHg
+P000098,Heart Rate,107 bpm
+P000098,Prescription,Aspirin 81mg once daily
+P000098,HbA1c,8.9%
+P000098,HbA1c,6.3%
+P000099,Blood Pressure,128/90 mmHg
+P000099,Blood Pressure,159/88 mmHg
+P000099,Oxygen Saturation,100%
+P000099,Blood Pressure,177/67 mmHg
+P000099,Diagnosis,Osteoarthritis
+P000100,Oxygen Saturation,96%
+P000100,Heart Rate,53 bpm
+P000100,Blood Pressure,113/74 mmHg
+P000100,Heart Rate,78 bpm
+P000100,Creatinine,1.91 mg/dL
+P000101,Heart Rate,86 bpm
+P000101,Temperature,101.0°F
+P000101,Fasting Blood Glucose,116 mg/dL
+P000101,Fasting Blood Glucose,223 mg/dL
+P000101,Creatinine,2.35 mg/dL
+P000102,Weight,260 lbs
+P000102,Blood Pressure,141/109 mmHg
+P000102,Weight,206 lbs
+P000102,Weight,164 lbs
+P000102,Diagnosis,Hyperlipidemia
+P000103,Temperature,97.3°F
+P000103,Blood Pressure,107/86 mmHg
+P000103,Temperature,97.1°F
+P000103,Oxygen Saturation,96%
+P000103,Blood Pressure,123/74 mmHg
+P000104,Weight,135 lbs
+P000104,Heart Rate,54 bpm
+P000104,Heart Rate,78 bpm
+P000104,Heart Rate,76 bpm
+P000104,Diagnosis,Osteoarthritis
+P000105,Heart Rate,63 bpm
+P000105,Heart Rate,120 bpm
+P000105,Heart Rate,78 bpm
+P000105,Heart Rate,50 bpm
+P000105,Diagnosis,Type 2 Diabetes Mellitus
+P000106,Heart Rate,78 bpm
+P000106,Temperature,101.5°F
+P000106,Heart Rate,77 bpm
+P000106,Prescription,Lisinopril 10mg once daily
+P000106,Prescription,Omeprazole 20mg once daily
+P000107,Oxygen Saturation,90%
+P000107,Heart Rate,61 bpm
+P000107,Total Cholesterol,213 mg/dL
+P000107,HbA1c,9.2%
+P000107,Fasting Blood Glucose,104 mg/dL
+P000108,Temperature,99.9°F
+P000108,Temperature,99.8°F
+P000108,Oxygen Saturation,94%
+P000108,Heart Rate,52 bpm
+P000108,Temperature,101.3°F
+P000109,Heart Rate,84 bpm
+P000109,Heart Rate,63 bpm
+P000109,Oxygen Saturation,96%
+P000109,Blood Pressure,104/79 mmHg
+P000109,Blood Pressure,151/74 mmHg
+P000110,Oxygen Saturation,90%
+P000110,Weight,153 lbs
+P000110,Diagnosis,Hypertension Stage 1
+P000110,Prescription,Lisinopril 10mg once daily
+P000110,Prescription,Atorvastatin 20mg at bedtime
+P000111,Blood Pressure,107/66 mmHg
+P000111,Oxygen Saturation,98%
+P000111,Heart Rate,105 bpm
+P000111,Weight,248 lbs
+P000111,Diagnosis,Osteoarthritis
+P000112,Oxygen Saturation,95%
+P000112,Heart Rate,85 bpm
+P000112,Prescription,Levothyroxine 50mcg once daily
+P000112,Prescription,Omeprazole 20mg once daily
+P000112,Total Cholesterol,283 mg/dL
+P000113,Oxygen Saturation,90%
+P000113,Oxygen Saturation,98%
+P000113,Weight,225 lbs
+P000113,Diagnosis,Asthma
+P000113,Prescription,Levothyroxine 50mcg once daily
+P000114,Weight,108 lbs
+P000114,Weight,277 lbs
+P000114,Oxygen Saturation,90%
+P000114,Blood Pressure,166/87 mmHg
+P000114,Heart Rate,109 bpm
+P000115,Blood Pressure,129/94 mmHg
+P000115,Weight,246 lbs
+P000115,Blood Pressure,131/113 mmHg
+P000115,Diagnosis,COPD
+P000115,Prescription,Metformin 500mg twice daily
+P000116,Temperature,101.2°F
+P000116,Blood Pressure,155/75 mmHg
+P000116,Diagnosis,Chronic Kidney Disease Stage 3
+P000116,Prescription,Lisinopril 10mg once daily
+P000116,Prescription,Metformin 500mg twice daily
+P000117,Temperature,98.3°F
+P000117,Weight,129 lbs
+P000117,Blood Pressure,137/115 mmHg
+P000117,Weight,277 lbs
+P000117,Temperature,97.2°F
+P000118,Temperature,101.9°F
+P000118,Blood Pressure,117/68 mmHg
+P000118,Heart Rate,85 bpm
+P000118,Heart Rate,96 bpm
+P000118,Blood Pressure,146/107 mmHg
+P000119,Blood Pressure,170/118 mmHg
+P000119,Heart Rate,119 bpm
+P000119,Blood Pressure,170/89 mmHg
+P000119,Temperature,97.0°F
+P000119,Diagnosis,Coronary Artery Disease
+P000120,Temperature,100.9°F
+P000120,Oxygen Saturation,100%
+P000120,Temperature,100.5°F
+P000120,Oxygen Saturation,92%
+P000120,Diagnosis,Depression
+P000121,Oxygen Saturation,93%
+P000121,Temperature,98.4°F
+P000121,Prescription,Lisinopril 10mg once daily
+P000121,Prescription,Metformin 500mg twice daily
+P000121,Prescription,Aspirin 81mg once daily
+P000122,Oxygen Saturation,100%
+P000122,Weight,242 lbs
+P000122,Weight,264 lbs
+P000122,Diagnosis,Chronic Kidney Disease Stage 3
+P000122,Prescription,Metformin 500mg twice daily
+P000123,Heart Rate,62 bpm
+P000123,Temperature,98.8°F
+P000123,Heart Rate,101 bpm
+P000123,Blood Pressure,160/99 mmHg
+P000123,Creatinine,0.51 mg/dL
+P000124,Blood Pressure,159/72 mmHg
+P000124,Blood Pressure,144/70 mmHg
+P000124,Weight,166 lbs
+P000124,Blood Pressure,175/60 mmHg
+P000124,Heart Rate,92 bpm
+P000125,Blood Pressure,139/90 mmHg
+P000125,Blood Pressure,156/117 mmHg
+P000125,Diagnosis,Depression
+P000125,Prescription,Omeprazole 20mg once daily
+P000125,HbA1c,9.0%
+P000126,Oxygen Saturation,91%
+P000126,Oxygen Saturation,100%
+P000126,Oxygen Saturation,92%
+P000126,Diagnosis,Chronic Kidney Disease Stage 3
+P000126,Prescription,Lisinopril 10mg once daily
+P000127,Oxygen Saturation,96%
+P000127,Temperature,99.8°F
+P000127,Oxygen Saturation,97%
+P000127,Temperature,98.5°F
+P000127,Oxygen Saturation,95%
+P000128,Weight,268 lbs
+P000128,Heart Rate,64 bpm
+P000128,Heart Rate,109 bpm
+P000128,Oxygen Saturation,98%
+P000128,Diagnosis,Chronic Kidney Disease Stage 3
+P000129,Blood Pressure,132/97 mmHg
+P000129,Weight,143 lbs
+P000129,Diagnosis,Asthma
+P000129,Fasting Blood Glucose,229 mg/dL
+P000129,Creatinine,1.35 mg/dL
+P000130,Temperature,101.2°F
+P000130,Blood Pressure,120/119 mmHg
+P000130,Temperature,101.2°F
+P000130,Prescription,Levothyroxine 50mcg once daily
+P000130,Prescription,Metformin 500mg twice daily
+P000131,Blood Pressure,126/65 mmHg
+P000131,Heart Rate,67 bpm
+P000131,Temperature,100.0°F
+P000131,Temperature,97.2°F
+P000131,Weight,192 lbs
+P000132,Temperature,100.0°F
+P000132,Oxygen Saturation,93%
+P000132,Diagnosis,Type 2 Diabetes Mellitus
+P000132,HbA1c,9.0%
+P000132,Creatinine,0.52 mg/dL
+P000133,Temperature,101.5°F
+P000133,Oxygen Saturation,90%
+P000133,Oxygen Saturation,99%
+P000133,Blood Pressure,118/91 mmHg
+P000133,Temperature,97.3°F
+P000134,Oxygen Saturation,91%
+P000134,Temperature,100.2°F
+P000134,Blood Pressure,136/98 mmHg
+P000134,Heart Rate,82 bpm
+P000134,Temperature,100.9°F
+P000135,Blood Pressure,99/118 mmHg
+P000135,Blood Pressure,91/101 mmHg
+P000135,Weight,198 lbs
+P000135,Blood Pressure,146/96 mmHg
+P000135,Oxygen Saturation,97%
+P000136,Heart Rate,104 bpm
+P000136,Blood Pressure,130/62 mmHg
+P000136,Blood Pressure,135/106 mmHg
+P000136,Temperature,98.9°F
+P000136,Oxygen Saturation,98%
+P000137,Weight,165 lbs
+P000137,Weight,233 lbs
+P000137,Weight,167 lbs
+P000137,Prescription,Metformin 500mg twice daily
+P000137,Prescription,Omeprazole 20mg once daily
+P000138,Weight,221 lbs
+P000138,Oxygen Saturation,93%
+P000138,Diagnosis,Depression
+P000138,Prescription,Levothyroxine 50mcg once daily
+P000138,Prescription,Levothyroxine 50mcg once daily
+P000139,Blood Pressure,180/75 mmHg
+P000139,Weight,272 lbs
+P000139,Diagnosis,Asthma
+P000139,Prescription,Lisinopril 10mg once daily
+P000139,HbA1c,9.4%
+P000140,Oxygen Saturation,96%
+P000140,Temperature,98.5°F
+P000140,Heart Rate,93 bpm
+P000140,Oxygen Saturation,97%
+P000140,Diagnosis,Hyperlipidemia
+P000141,Blood Pressure,94/120 mmHg
+P000141,Oxygen Saturation,93%
+P000141,Heart Rate,56 bpm
+P000141,Diagnosis,Type 2 Diabetes Mellitus
+P000141,Prescription,Lisinopril 10mg once daily
+P000142,Heart Rate,90 bpm
+P000142,Oxygen Saturation,90%
+P000142,Blood Pressure,124/89 mmHg
+P000142,Oxygen Saturation,90%
+P000142,Weight,185 lbs
+P000143,Oxygen Saturation,92%
+P000143,Temperature,100.1°F
+P000143,Prescription,Levothyroxine 50mcg once daily
+P000143,Prescription,Levothyroxine 50mcg once daily
+P000143,Total Cholesterol,258 mg/dL
+P000144,Oxygen Saturation,100%
+P000144,Oxygen Saturation,91%
+P000144,Heart Rate,77 bpm
+P000144,Oxygen Saturation,98%
+P000144,Prescription,Lisinopril 10mg once daily
+P000145,Blood Pressure,141/82 mmHg
+P000145,Oxygen Saturation,91%
+P000145,Diagnosis,Chronic Kidney Disease Stage 3
+P000145,Prescription,Metformin 500mg twice daily
+P000145,Prescription,Levothyroxine 50mcg once daily
+P000146,Temperature,101.4°F
+P000146,Temperature,98.6°F
+P000146,Temperature,100.3°F
+P000146,Weight,220 lbs
+P000146,Oxygen Saturation,93%
+P000147,Weight,133 lbs
+P000147,Temperature,98.4°F
+P000147,Weight,145 lbs
+P000147,Temperature,100.2°F
+P000147,Diagnosis,Hypertension Stage 2
+P000148,Blood Pressure,144/63 mmHg
+P000148,Heart Rate,114 bpm
+P000148,Temperature,101.8°F
+P000148,Weight,296 lbs
+P000148,Heart Rate,68 bpm
+P000149,Temperature,100.9°F
+P000149,Oxygen Saturation,99%
+P000149,Heart Rate,69 bpm
+P000149,Diagnosis,Coronary Artery Disease
+P000149,Prescription,Aspirin 81mg once daily
+P000150,Weight,295 lbs
+P000150,Blood Pressure,95/88 mmHg
+P000150,Prescription,Aspirin 81mg once daily
+P000150,Prescription,Metformin 500mg twice daily
+P000150,Prescription,Levothyroxine 50mcg once daily
+P000151,Blood Pressure,93/76 mmHg
+P000151,Oxygen Saturation,95%
+P000151,Oxygen Saturation,91%
+P000151,Diagnosis,Hyperlipidemia
+P000151,Total Cholesterol,165 mg/dL
+P000152,Weight,183 lbs
+P000152,Heart Rate,107 bpm
+P000152,Oxygen Saturation,91%
+P000152,Diagnosis,Hypertension Stage 1
+P000152,Creatinine,2.11 mg/dL
+P000153,Heart Rate,91 bpm
+P000153,Heart Rate,72 bpm
+P000153,Diagnosis,Asthma
+P000153,Prescription,Levothyroxine 50mcg once daily
+P000153,Prescription,Metformin 500mg twice daily
+P000154,Temperature,100.7°F
+P000154,Temperature,97.9°F
+P000154,Prescription,Levothyroxine 50mcg once daily
+P000154,Prescription,Omeprazole 20mg once daily
+P000154,HbA1c,11.1%
+P000155,Temperature,101.9°F
+P000155,Oxygen Saturation,100%
+P000155,Heart Rate,103 bpm
+P000155,Diagnosis,Depression
+P000155,Prescription,Omeprazole 20mg once daily
+P000156,Oxygen Saturation,98%
+P000156,Temperature,97.7°F
+P000156,Weight,161 lbs
+P000156,Diagnosis,Depression
+P000156,Prescription,Levothyroxine 50mcg once daily
+P000157,Oxygen Saturation,98%
+P000157,Blood Pressure,178/90 mmHg
+P000157,Diagnosis,Type 2 Diabetes Mellitus
+P000157,Prescription,Metformin 500mg twice daily
+P000157,Prescription,Metformin 500mg twice daily
+P000158,Weight,207 lbs
+P000158,Temperature,100.0°F
+P000158,Oxygen Saturation,94%
+P000158,Blood Pressure,120/79 mmHg
+P000158,Heart Rate,58 bpm
+P000159,Temperature,98.1°F
+P000159,Temperature,101.5°F
+P000159,Prescription,Omeprazole 20mg once daily
+P000159,Prescription,Atorvastatin 20mg at bedtime
+P000159,Creatinine,1.14 mg/dL
+P000160,Blood Pressure,138/74 mmHg
+P000160,Blood Pressure,161/100 mmHg
+P000160,Prescription,Metformin 500mg twice daily
+P000160,Prescription,Lisinopril 10mg once daily
+P000160,Creatinine,2.21 mg/dL
+P000161,Weight,264 lbs
+P000161,Heart Rate,86 bpm
+P000161,Blood Pressure,144/116 mmHg
+P000161,Heart Rate,75 bpm
+P000161,Blood Pressure,92/98 mmHg
+P000162,Oxygen Saturation,93%
+P000162,Blood Pressure,154/62 mmHg
+P000162,Weight,225 lbs
+P000162,Blood Pressure,136/62 mmHg
+P000162,Prescription,Aspirin 81mg once daily
+P000163,Heart Rate,94 bpm
+P000163,Oxygen Saturation,98%
+P000163,Oxygen Saturation,95%
+P000163,Weight,212 lbs
+P000163,Oxygen Saturation,99%
+P000164,Blood Pressure,146/72 mmHg
+P000164,Oxygen Saturation,90%
+P000164,Diagnosis,Hypertension Stage 1
+P000164,HbA1c,11.6%
+P000164,HbA1c,6.5%
+P000165,Weight,249 lbs
+P000165,Weight,136 lbs
+P000165,Weight,104 lbs
+P000165,Oxygen Saturation,91%
+P000165,Diagnosis,Chronic Kidney Disease Stage 3
+P000166,Weight,139 lbs
+P000166,Weight,263 lbs
+P000166,Diagnosis,Osteoarthritis
+P000166,Creatinine,1.61 mg/dL
+P000167,Weight,228 lbs
+P000167,Blood Pressure,180/101 mmHg
+P000167,Oxygen Saturation,97%
+P000167,Heart Rate,74 bpm
+P000167,Heart Rate,112 bpm
+P000168,Blood Pressure,173/120 mmHg
+P000168,Oxygen Saturation,92%
+P000168,Heart Rate,54 bpm
+P000168,Creatinine,1.99 mg/dL
+P000168,Fasting Blood Glucose,215 mg/dL
+P000169,Blood Pressure,148/94 mmHg
+P000169,Heart Rate,109 bpm
+P000169,Diagnosis,Hyperlipidemia
+P000169,Prescription,Metformin 500mg twice daily
+P000169,Fasting Blood Glucose,207 mg/dL
+P000170,Blood Pressure,112/92 mmHg
+P000170,Oxygen Saturation,96%
+P000170,Temperature,98.1°F
+P000170,Diagnosis,Chronic Kidney Disease Stage 3
+P000170,Prescription,Omeprazole 20mg once daily
+P000171,Heart Rate,65 bpm
+P000171,Temperature,99.3°F
+P000171,Oxygen Saturation,94%
+P000171,Oxygen Saturation,98%
+P000171,Diagnosis,Hyperlipidemia
+P000172,Oxygen Saturation,90%
+P000172,Blood Pressure,114/80 mmHg
+P000172,Weight,297 lbs
+P000172,Diagnosis,Coronary Artery Disease
+P000172,HbA1c,9.7%
+P000173,Temperature,99.1°F
+P000173,Weight,287 lbs
+P000173,Weight,175 lbs
+P000173,Prescription,Levothyroxine 50mcg once daily
+P000173,Prescription,Metformin 500mg twice daily
+P000174,Weight,256 lbs
+P000174,Oxygen Saturation,92%
+P000174,Temperature,98.9°F
+P000174,Heart Rate,58 bpm
+P000174,Prescription,Levothyroxine 50mcg once daily
+P000175,Oxygen Saturation,94%
+P000175,Oxygen Saturation,92%
+P000175,Heart Rate,115 bpm
+P000175,Oxygen Saturation,94%
+P000175,Temperature,100.3°F
+P000176,Weight,195 lbs
+P000176,Heart Rate,67 bpm
+P000176,Oxygen Saturation,92%
+P000176,Temperature,101.6°F
+P000176,Temperature,99.6°F
+P000177,Heart Rate,111 bpm
+P000177,Weight,233 lbs
+P000177,Temperature,100.8°F
+P000177,Heart Rate,108 bpm
+P000177,Heart Rate,56 bpm
+P000178,Temperature,98.1°F
+P000178,Oxygen Saturation,100%
+P000178,Heart Rate,57 bpm
+P000178,Blood Pressure,158/68 mmHg
+P000178,Diagnosis,Coronary Artery Disease
+P000179,Heart Rate,69 bpm
+P000179,Weight,183 lbs
+P000179,Oxygen Saturation,92%
+P000179,Blood Pressure,146/68 mmHg
+P000179,Temperature,98.3°F
+P000180,Temperature,99.0°F
+P000180,Temperature,99.1°F
+P000180,Weight,282 lbs
+P000180,Oxygen Saturation,100%
+P000180,Diagnosis,COPD
+P000181,Temperature,100.7°F
+P000181,Weight,227 lbs
+P000181,Weight,114 lbs
+P000181,Oxygen Saturation,90%
+P000181,Diagnosis,Hyperlipidemia
+P000182,Weight,160 lbs
+P000182,Oxygen Saturation,99%
+P000182,Blood Pressure,110/80 mmHg
+P000182,Blood Pressure,153/61 mmHg
+P000182,Prescription,Atorvastatin 20mg at bedtime
+P000183,Blood Pressure,94/97 mmHg
+P000183,Weight,188 lbs
+P000183,Prescription,Aspirin 81mg once daily
+P000183,Prescription,Aspirin 81mg once daily
+P000183,Prescription,Lisinopril 10mg once daily
+P000184,Weight,228 lbs
+P000184,Oxygen Saturation,95%
+P000184,Creatinine,2.01 mg/dL
+P000184,HbA1c,6.3%
+P000184,Fasting Blood Glucose,185 mg/dL
+P000185,Temperature,98.0°F
+P000185,Weight,105 lbs
+P000185,Weight,172 lbs
+P000185,Weight,210 lbs
+P000185,Oxygen Saturation,92%
+P000186,Temperature,101.6°F
+P000186,Temperature,97.9°F
+P000186,Oxygen Saturation,98%
+P000186,Prescription,Lisinopril 10mg once daily
+P000186,Creatinine,0.70 mg/dL
+P000187,Heart Rate,52 bpm
+P000187,Heart Rate,120 bpm
+P000187,Oxygen Saturation,95%
+P000187,Temperature,99.8°F
+P000187,Diagnosis,Asthma
+P000188,Heart Rate,113 bpm
+P000188,Blood Pressure,111/82 mmHg
+P000188,Prescription,Atorvastatin 20mg at bedtime
+P000188,Prescription,Omeprazole 20mg once daily
+P000188,Creatinine,0.53 mg/dL
+P000189,Blood Pressure,98/112 mmHg
+P000189,Weight,219 lbs
+P000189,Blood Pressure,177/62 mmHg
+P000189,Oxygen Saturation,99%
+P000189,Heart Rate,102 bpm
+P000190,Temperature,99.7°F
+P000190,Blood Pressure,176/68 mmHg
+P000190,Prescription,Levothyroxine 50mcg once daily
+P000190,Creatinine,1.19 mg/dL
+P000190,Creatinine,2.00 mg/dL
+P000191,Weight,236 lbs
+P000191,Temperature,101.5°F
+P000191,Blood Pressure,125/88 mmHg
+P000191,Heart Rate,119 bpm
+P000191,Diagnosis,Hypertension Stage 2
+P000192,Weight,125 lbs
+P000192,Weight,246 lbs
+P000192,Temperature,97.6°F
+P000192,Blood Pressure,121/78 mmHg
+P000192,Diagnosis,Depression
+P000193,Oxygen Saturation,92%
+P000193,Oxygen Saturation,92%
+P000193,Prescription,Levothyroxine 50mcg once daily
+P000193,Prescription,Metformin 500mg twice daily
+P000193,Creatinine,2.19 mg/dL
+P000194,Temperature,101.0°F
+P000194,Temperature,99.8°F
+P000194,Temperature,101.7°F
+P000194,Diagnosis,Asthma
+P000194,HbA1c,11.3%
+P000195,Heart Rate,76 bpm
+P000195,Blood Pressure,105/105 mmHg
+P000195,Temperature,101.1°F
+P000195,Temperature,101.3°F
+P000195,Diagnosis,Hypertension Stage 2
+P000196,Weight,112 lbs
+P000196,Blood Pressure,135/62 mmHg
+P000196,Diagnosis,Chronic Kidney Disease Stage 3
+P000196,Fasting Blood Glucose,84 mg/dL
+P000196,Creatinine,1.79 mg/dL
+P000197,Temperature,99.5°F
+P000197,Heart Rate,58 bpm
+P000197,Diagnosis,Coronary Artery Disease
+P000197,Creatinine,0.57 mg/dL
+P000197,Total Cholesterol,165 mg/dL
+P000198,Weight,106 lbs
+P000198,Oxygen Saturation,94%
+P000198,Temperature,98.0°F
+P000198,Temperature,98.8°F
+P000198,Diagnosis,Coronary Artery Disease
+P000199,Temperature,101.4°F
+P000199,Temperature,101.7°F
+P000199,Oxygen Saturation,96%
+P000199,Weight,270 lbs
+P000199,Diagnosis,Hypertension Stage 2
+P000200,Weight,161 lbs
+P000200,Temperature,97.9°F
+P000200,Blood Pressure,122/67 mmHg
+P000200,Blood Pressure,124/87 mmHg
+P000200,Heart Rate,56 bpm
+P000201,Heart Rate,64 bpm
+P000201,Heart Rate,109 bpm
+P000201,Diagnosis,Hypertension Stage 2
+P000201,Prescription,Omeprazole 20mg once daily
+P000201,Prescription,Aspirin 81mg once daily
+P000202,Weight,121 lbs
+P000202,Heart Rate,96 bpm
+P000202,Temperature,99.2°F
+P000202,Heart Rate,55 bpm
+P000202,HbA1c,9.8%
+P000203,Oxygen Saturation,91%
+P000203,Heart Rate,104 bpm
+P000203,Heart Rate,78 bpm
+P000203,Heart Rate,59 bpm
+P000203,Temperature,99.8°F
+P000204,Weight,141 lbs
+P000204,Blood Pressure,147/62 mmHg
+P000204,Temperature,99.8°F
+P000204,Blood Pressure,98/99 mmHg
+P000204,Diagnosis,Chronic Kidney Disease Stage 3
+P000205,Heart Rate,58 bpm
+P000205,Blood Pressure,178/118 mmHg
+P000205,Blood Pressure,172/81 mmHg
+P000205,Oxygen Saturation,93%
+P000205,Oxygen Saturation,92%
+P000206,Weight,167 lbs
+P000206,Weight,154 lbs
+P000206,Diagnosis,Depression
+P000206,Prescription,Omeprazole 20mg once daily
+P000206,Prescription,Aspirin 81mg once daily
+P000207,Temperature,99.5°F
+P000207,Weight,102 lbs
+P000207,Temperature,100.1°F
+P000207,Weight,284 lbs
+P000207,Prescription,Metformin 500mg twice daily
+P000208,Weight,282 lbs
+P000208,Blood Pressure,169/87 mmHg
+P000208,Total Cholesterol,215 mg/dL
+P000208,Creatinine,0.56 mg/dL
+P000208,HbA1c,9.3%
+P000209,Blood Pressure,97/87 mmHg
+P000209,Weight,256 lbs
+P000209,Oxygen Saturation,94%
+P000209,Prescription,Omeprazole 20mg once daily
+P000209,Prescription,Metformin 500mg twice daily
+P000210,Oxygen Saturation,92%
+P000210,Temperature,98.3°F
+P000210,Oxygen Saturation,90%
+P000210,Diagnosis,Hyperlipidemia
+P000210,Total Cholesterol,220 mg/dL
+P000211,Blood Pressure,109/84 mmHg
+P000211,Heart Rate,102 bpm
+P000211,Oxygen Saturation,92%
+P000211,Temperature,99.3°F
+P000211,Prescription,Omeprazole 20mg once daily
+P000212,Blood Pressure,153/110 mmHg
+P000212,Weight,125 lbs
+P000212,Prescription,Omeprazole 20mg once daily
+P000212,Prescription,Levothyroxine 50mcg once daily
+P000212,Prescription,Atorvastatin 20mg at bedtime
+P000213,Blood Pressure,150/91 mmHg
+P000213,Weight,111 lbs
+P000213,Heart Rate,57 bpm
+P000213,Blood Pressure,177/113 mmHg
+P000213,Oxygen Saturation,94%
+P000214,Oxygen Saturation,95%
+P000214,Heart Rate,52 bpm
+P000214,Weight,227 lbs
+P000214,Blood Pressure,176/66 mmHg
+P000214,Diagnosis,Coronary Artery Disease
+P000215,Blood Pressure,136/71 mmHg
+P000215,Temperature,99.1°F
+P000215,Blood Pressure,178/84 mmHg
+P000215,Oxygen Saturation,93%
+P000215,Blood Pressure,91/69 mmHg
+P000216,Oxygen Saturation,99%
+P000216,Temperature,99.8°F
+P000216,Diagnosis,Type 2 Diabetes Mellitus
+P000216,Prescription,Atorvastatin 20mg at bedtime
+P000216,Prescription,Aspirin 81mg once daily
+P000217,Weight,126 lbs
+P000217,Oxygen Saturation,90%
+P000217,Temperature,99.3°F
+P000217,Oxygen Saturation,94%
+P000217,Oxygen Saturation,90%
+P000218,Temperature,97.3°F
+P000218,Blood Pressure,140/64 mmHg
+P000218,Diagnosis,Hyperlipidemia
+P000218,Prescription,Atorvastatin 20mg at bedtime
+P000218,Prescription,Omeprazole 20mg once daily
+P000219,Blood Pressure,110/62 mmHg
+P000219,Blood Pressure,177/104 mmHg
+P000219,Oxygen Saturation,99%
+P000219,Weight,220 lbs
+P000219,Diagnosis,Asthma
+P000220,Weight,127 lbs
+P000220,Weight,162 lbs
+P000220,Heart Rate,111 bpm
+P000220,Heart Rate,112 bpm
+P000220,Blood Pressure,139/94 mmHg
+P000221,Temperature,100.0°F
+P000221,Temperature,98.7°F
+P000221,Diagnosis,Depression
+P000221,Prescription,Metformin 500mg twice daily
+P000221,Prescription,Lisinopril 10mg once daily
+P000222,Heart Rate,114 bpm
+P000222,Weight,179 lbs
+P000222,Oxygen Saturation,98%
+P000222,Diagnosis,Osteoarthritis
+P000222,Prescription,Atorvastatin 20mg at bedtime
+P000223,Oxygen Saturation,99%
+P000223,Heart Rate,105 bpm
+P000223,Temperature,97.8°F
+P000223,Weight,168 lbs
+P000223,Temperature,97.6°F
+P000224,Blood Pressure,160/114 mmHg
+P000224,Temperature,100.6°F
+P000224,Temperature,98.3°F
+P000224,Blood Pressure,108/94 mmHg
+P000224,Diagnosis,Hypertension Stage 1
+P000225,Heart Rate,78 bpm
+P000225,Oxygen Saturation,93%
+P000225,Weight,281 lbs
+P000225,Diagnosis,Depression
+P000225,Prescription,Metformin 500mg twice daily
+P000226,Blood Pressure,128/103 mmHg
+P000226,Heart Rate,74 bpm
+P000226,Weight,234 lbs
+P000226,Blood Pressure,137/62 mmHg
+P000226,HbA1c,11.2%
+P000227,Temperature,101.1°F
+P000227,Temperature,97.9°F
+P000227,Heart Rate,66 bpm
+P000227,Heart Rate,90 bpm
+P000227,Oxygen Saturation,99%
+P000228,Blood Pressure,129/66 mmHg
+P000228,Weight,190 lbs
+P000228,Heart Rate,117 bpm
+P000228,Diagnosis,Asthma
+P000228,Prescription,Metformin 500mg twice daily
+P000229,Temperature,100.2°F
+P000229,Heart Rate,56 bpm
+P000229,Weight,178 lbs
+P000229,Weight,272 lbs
+P000229,Weight,129 lbs
+P000230,Temperature,98.8°F
+P000230,Temperature,99.3°F
+P000230,Prescription,Aspirin 81mg once daily
+P000230,Prescription,Levothyroxine 50mcg once daily
+P000230,Prescription,Omeprazole 20mg once daily
+P000231,Heart Rate,84 bpm
+P000231,Blood Pressure,144/88 mmHg
+P000231,Diagnosis,Coronary Artery Disease
+P000231,Prescription,Aspirin 81mg once daily
+P000231,Prescription,Lisinopril 10mg once daily
+P000232,Oxygen Saturation,93%
+P000232,Heart Rate,117 bpm
+P000232,Blood Pressure,113/104 mmHg
+P000232,Diagnosis,Chronic Kidney Disease Stage 3
+P000232,Prescription,Aspirin 81mg once daily
+P000233,Oxygen Saturation,97%
+P000233,Heart Rate,59 bpm
+P000233,Temperature,98.0°F
+P000233,Prescription,Levothyroxine 50mcg once daily
+P000233,Prescription,Levothyroxine 50mcg once daily
+P000234,Temperature,99.5°F
+P000234,Heart Rate,74 bpm
+P000234,Temperature,101.4°F
+P000234,Temperature,101.4°F
+P000234,Diagnosis,Hypertension Stage 1
+P000235,Weight,189 lbs
+P000235,Oxygen Saturation,97%
+P000235,Oxygen Saturation,96%
+P000235,Weight,247 lbs
+P000235,Heart Rate,74 bpm
+P000236,Temperature,100.7°F
+P000236,Weight,100 lbs
+P000236,Weight,100 lbs
+P000236,Diagnosis,Hyperlipidemia
+P000236,Prescription,Metformin 500mg twice daily
+P000237,Weight,194 lbs
+P000237,Oxygen Saturation,92%
+P000237,Diagnosis,Depression
+P000237,Prescription,Omeprazole 20mg once daily
+P000237,Total Cholesterol,188 mg/dL
+P000238,Blood Pressure,117/74 mmHg
+P000238,Temperature,97.5°F
+P000238,Temperature,98.2°F
+P000238,Weight,141 lbs
+P000238,Heart Rate,109 bpm
+P000239,Blood Pressure,163/89 mmHg
+P000239,Blood Pressure,135/93 mmHg
+P000239,Temperature,97.9°F
+P000239,Oxygen Saturation,100%
+P000239,Heart Rate,109 bpm
+P000240,Blood Pressure,126/64 mmHg
+P000240,Weight,185 lbs
+P000240,Prescription,Metformin 500mg twice daily
+P000240,HbA1c,11.8%
+P000240,Fasting Blood Glucose,219 mg/dL
+P000241,Heart Rate,95 bpm
+P000241,Oxygen Saturation,91%
+P000241,Oxygen Saturation,91%
+P000241,Heart Rate,99 bpm
+P000241,Blood Pressure,139/97 mmHg
+P000242,Blood Pressure,113/119 mmHg
+P000242,Blood Pressure,95/76 mmHg
+P000242,Prescription,Levothyroxine 50mcg once daily
+P000242,Prescription,Atorvastatin 20mg at bedtime
+P000242,Prescription,Aspirin 81mg once daily
+P000243,Blood Pressure,173/68 mmHg
+P000243,Heart Rate,100 bpm
+P000243,Diagnosis,Type 2 Diabetes Mellitus
+P000243,Prescription,Omeprazole 20mg once daily
+P000243,Prescription,Lisinopril 10mg once daily
+P000244,Blood Pressure,141/108 mmHg
+P000244,Temperature,97.5°F
+P000244,Blood Pressure,132/102 mmHg
+P000244,Prescription,Atorvastatin 20mg at bedtime
+P000244,Fasting Blood Glucose,79 mg/dL
+P000245,Blood Pressure,127/62 mmHg
+P000245,Oxygen Saturation,95%
+P000245,Heart Rate,75 bpm
+P000245,Prescription,Lisinopril 10mg once daily
+P000245,Prescription,Aspirin 81mg once daily
+P000246,Heart Rate,80 bpm
+P000246,Heart Rate,87 bpm
+P000246,Diagnosis,Hypertension Stage 2
+P000246,Prescription,Omeprazole 20mg once daily
+P000246,Prescription,Omeprazole 20mg once daily
+P000247,Temperature,101.2°F
+P000247,Blood Pressure,108/75 mmHg
+P000247,Oxygen Saturation,97%
+P000247,Temperature,99.5°F
+P000247,Total Cholesterol,197 mg/dL
+P000248,Oxygen Saturation,93%
+P000248,Temperature,98.4°F
+P000248,Oxygen Saturation,94%
+P000248,Oxygen Saturation,97%
+P000248,Diagnosis,Depression
+P000249,Temperature,97.2°F
+P000249,Heart Rate,93 bpm
+P000249,Heart Rate,59 bpm
+P000249,Blood Pressure,145/103 mmHg
+P000249,Diagnosis,COPD
+P000250,Blood Pressure,100/60 mmHg
+P000250,Temperature,97.7°F
+P000250,Temperature,98.9°F
+P000250,Temperature,98.7°F
+P000250,Diagnosis,Asthma
+P000251,Oxygen Saturation,98%
+P000251,Temperature,98.1°F
+P000251,Prescription,Omeprazole 20mg once daily
+P000251,Prescription,Omeprazole 20mg once daily
+P000251,HbA1c,10.8%
+P000252,Temperature,99.2°F
+P000252,Temperature,97.8°F
+P000252,Blood Pressure,91/77 mmHg
+P000252,Diagnosis,Hypertension Stage 1
+P000252,Creatinine,0.94 mg/dL
+P000253,Temperature,100.7°F
+P000253,Weight,163 lbs
+P000253,Diagnosis,Hypertension Stage 1
+P000253,Prescription,Lisinopril 10mg once daily
+P000253,Prescription,Metformin 500mg twice daily
+P000254,Heart Rate,61 bpm
+P000254,Heart Rate,56 bpm
+P000254,Oxygen Saturation,98%
+P000254,Temperature,99.5°F
+P000254,Prescription,Levothyroxine 50mcg once daily
+P000255,Blood Pressure,127/118 mmHg
+P000255,Heart Rate,50 bpm
+P000255,Weight,271 lbs
+P000255,Prescription,Levothyroxine 50mcg once daily
+P000255,Prescription,Lisinopril 10mg once daily
+P000256,Blood Pressure,106/95 mmHg
+P000256,Blood Pressure,154/84 mmHg
+P000256,Oxygen Saturation,97%
+P000256,Diagnosis,Hypertension Stage 2
+P000256,Prescription,Omeprazole 20mg once daily
+P000257,Heart Rate,107 bpm
+P000257,Weight,287 lbs
+P000257,Weight,196 lbs
+P000257,Temperature,100.8°F
+P000257,Heart Rate,100 bpm
+P000258,Oxygen Saturation,96%
+P000258,Blood Pressure,172/94 mmHg
+P000258,Temperature,99.1°F
+P000258,Heart Rate,54 bpm
+P000258,Heart Rate,84 bpm
+P000259,Heart Rate,103 bpm
+P000259,Heart Rate,59 bpm
+P000259,Temperature,97.7°F
+P000259,Diagnosis,Hyperlipidemia
+P000259,Prescription,Metformin 500mg twice daily
+P000260,Oxygen Saturation,92%
+P000260,Heart Rate,67 bpm
+P000260,Diagnosis,Hypertension Stage 2
+P000260,Prescription,Lisinopril 10mg once daily
+P000260,Prescription,Atorvastatin 20mg at bedtime
+P000261,Temperature,100.6°F
+P000261,Oxygen Saturation,99%
+P000261,Heart Rate,84 bpm
+P000261,Blood Pressure,133/79 mmHg
+P000261,Diagnosis,Osteoarthritis
+P000262,Blood Pressure,109/88 mmHg
+P000262,Weight,239 lbs
+P000262,Heart Rate,102 bpm
+P000262,Blood Pressure,148/87 mmHg
+P000262,Heart Rate,120 bpm
+P000263,Weight,151 lbs
+P000263,Weight,239 lbs
+P000263,Oxygen Saturation,95%
+P000263,Oxygen Saturation,97%
+P000263,Diagnosis,Chronic Kidney Disease Stage 3
+P000264,Temperature,101.0°F
+P000264,Oxygen Saturation,91%
+P000264,Temperature,101.8°F
+P000264,Oxygen Saturation,97%
+P000264,Temperature,98.9°F
+P000265,Temperature,99.4°F
+P000265,Heart Rate,73 bpm
+P000265,Diagnosis,Coronary Artery Disease
+P000265,Prescription,Metformin 500mg twice daily
+P000265,Prescription,Omeprazole 20mg once daily
+P000266,Heart Rate,69 bpm
+P000266,Weight,229 lbs
+P000266,Blood Pressure,112/107 mmHg
+P000266,Temperature,101.2°F
+P000266,Diagnosis,Hyperlipidemia
+P000267,Temperature,100.5°F
+P000267,Temperature,97.4°F
+P000267,Weight,204 lbs
+P000267,Weight,214 lbs
+P000267,Blood Pressure,158/118 mmHg
+P000268,Oxygen Saturation,98%
+P000268,Temperature,100.2°F
+P000268,Temperature,101.4°F
+P000268,Blood Pressure,154/106 mmHg
+P000268,Diagnosis,Depression
+P000269,Blood Pressure,146/82 mmHg
+P000269,Blood Pressure,163/113 mmHg
+P000269,Oxygen Saturation,100%
+P000269,Diagnosis,Coronary Artery Disease
+P000269,Prescription,Aspirin 81mg once daily
+P000270,Blood Pressure,135/60 mmHg
+P000270,Heart Rate,70 bpm
+P000270,Prescription,Aspirin 81mg once daily
+P000270,HbA1c,8.4%
+P000271,Weight,149 lbs
+P000271,Weight,216 lbs
+P000271,Oxygen Saturation,98%
+P000271,Weight,181 lbs
+P000271,Diagnosis,COPD
+P000272,Heart Rate,115 bpm
+P000272,Temperature,100.8°F
+P000272,Prescription,Omeprazole 20mg once daily
+P000272,Prescription,Omeprazole 20mg once daily
+P000272,Prescription,Metformin 500mg twice daily
+P000273,Blood Pressure,107/61 mmHg
+P000273,Oxygen Saturation,95%
+P000273,Diagnosis,Type 2 Diabetes Mellitus
+P000273,Prescription,Aspirin 81mg once daily
+P000273,Prescription,Omeprazole 20mg once daily
+P000274,Weight,230 lbs
+P000274,Blood Pressure,180/115 mmHg
+P000274,Heart Rate,111 bpm
+P000274,Diagnosis,Hypertension Stage 2
+P000274,Creatinine,1.84 mg/dL
+P000275,Heart Rate,120 bpm
+P000275,Oxygen Saturation,91%
+P000275,Weight,229 lbs
+P000275,Temperature,97.3°F
+P000275,Diagnosis,Chronic Kidney Disease Stage 3
+P000276,Weight,234 lbs
+P000276,Blood Pressure,117/111 mmHg
+P000276,Diagnosis,Chronic Kidney Disease Stage 3
+P000276,Prescription,Aspirin 81mg once daily
+P000276,Total Cholesterol,289 mg/dL
+P000277,Temperature,100.4°F
+P000277,Temperature,98.1°F
+P000277,Weight,161 lbs
+P000277,Temperature,99.5°F
+P000277,Oxygen Saturation,97%
+P000278,Heart Rate,108 bpm
+P000278,Weight,203 lbs
+P000278,Heart Rate,85 bpm
+P000278,Prescription,Lisinopril 10mg once daily
+P000278,HbA1c,9.7%
+P000279,Weight,149 lbs
+P000279,Blood Pressure,95/66 mmHg
+P000279,Weight,227 lbs
+P000279,Prescription,Atorvastatin 20mg at bedtime
+P000279,HbA1c,11.6%
+P000280,Weight,221 lbs
+P000280,Oxygen Saturation,98%
+P000280,Blood Pressure,147/117 mmHg
+P000280,Diagnosis,Depression
+P000280,Fasting Blood Glucose,128 mg/dL
+P000281,Weight,183 lbs
+P000281,Temperature,100.7°F
+P000281,Weight,185 lbs
+P000281,Weight,252 lbs
+P000281,HbA1c,7.0%
+P000282,Oxygen Saturation,98%
+P000282,Oxygen Saturation,91%
+P000282,Weight,228 lbs
+P000282,Diagnosis,Depression
+P000282,HbA1c,5.6%
+P000283,Temperature,100.3°F
+P000283,Oxygen Saturation,100%
+P000283,Weight,221 lbs
+P000283,Temperature,100.7°F
+P000283,Temperature,99.7°F
+P000284,Oxygen Saturation,98%
+P000284,Oxygen Saturation,97%
+P000284,Diagnosis,Hyperlipidemia
+P000284,Prescription,Omeprazole 20mg once daily
+P000284,Total Cholesterol,278 mg/dL
+P000285,Weight,217 lbs
+P000285,Heart Rate,78 bpm
+P000285,Prescription,Atorvastatin 20mg at bedtime
+P000285,Total Cholesterol,167 mg/dL
+P000285,Total Cholesterol,159 mg/dL
+P000286,Blood Pressure,128/73 mmHg
+P000286,Temperature,97.4°F
+P000286,Diagnosis,Osteoarthritis
+P000286,Total Cholesterol,203 mg/dL
+P000286,Creatinine,0.98 mg/dL
+P000287,Temperature,97.0°F
+P000287,Oxygen Saturation,92%
+P000287,Diagnosis,Depression
+P000287,Prescription,Omeprazole 20mg once daily
+P000287,Prescription,Lisinopril 10mg once daily
+P000288,Blood Pressure,168/118 mmHg
+P000288,Heart Rate,79 bpm
+P000288,Blood Pressure,108/67 mmHg
+P000288,Oxygen Saturation,93%
+P000288,Weight,144 lbs
+P000289,Weight,252 lbs
+P000289,Weight,272 lbs
+P000289,Oxygen Saturation,92%
+P000289,Temperature,98.2°F
+P000289,Temperature,99.6°F
+P000290,Weight,290 lbs
+P000290,Heart Rate,69 bpm
+P000290,Blood Pressure,154/106 mmHg
+P000290,Heart Rate,63 bpm
+P000290,Diagnosis,Type 2 Diabetes Mellitus
+P000291,Weight,161 lbs
+P000291,Temperature,98.7°F
+P000291,Heart Rate,81 bpm
+P000291,Blood Pressure,104/113 mmHg
+P000291,Diagnosis,COPD
+P000292,Temperature,100.5°F
+P000292,Oxygen Saturation,98%
+P000292,Blood Pressure,117/84 mmHg
+P000292,Blood Pressure,164/81 mmHg
+P000292,Diagnosis,Chronic Kidney Disease Stage 3
+P000293,Weight,135 lbs
+P000293,Weight,260 lbs
+P000293,Prescription,Atorvastatin 20mg at bedtime
+P000293,Prescription,Lisinopril 10mg once daily
+P000293,Creatinine,1.52 mg/dL
+P000294,Heart Rate,62 bpm
+P000294,Weight,187 lbs
+P000294,Oxygen Saturation,90%
+P000294,Blood Pressure,146/95 mmHg
+P000294,Prescription,Aspirin 81mg once daily
+P000295,Temperature,100.6°F
+P000295,Heart Rate,81 bpm
+P000295,Heart Rate,70 bpm
+P000295,Oxygen Saturation,98%
+P000295,Oxygen Saturation,92%
+P000296,Weight,228 lbs
+P000296,Heart Rate,113 bpm
+P000296,Weight,136 lbs
+P000296,Oxygen Saturation,92%
+P000296,Weight,292 lbs
+P000297,Temperature,98.0°F
+P000297,Weight,211 lbs
+P000297,Temperature,97.5°F
+P000297,Temperature,97.1°F
+P000297,Temperature,100.6°F
+P000298,Weight,120 lbs
+P000298,Temperature,100.1°F
+P000298,Diagnosis,Asthma
+P000298,Prescription,Lisinopril 10mg once daily
+P000298,HbA1c,9.5%
+P000299,Oxygen Saturation,100%
+P000299,Temperature,100.1°F
+P000299,Temperature,100.8°F
+P000299,Blood Pressure,152/119 mmHg
+P000299,Oxygen Saturation,99%
+P000300,Weight,200 lbs
+P000300,Temperature,101.4°F
+P000300,Oxygen Saturation,91%
+P000300,Heart Rate,79 bpm
+P000300,Diagnosis,Hypertension Stage 2
+P000301,Heart Rate,109 bpm
+P000301,Weight,180 lbs
+P000301,Oxygen Saturation,93%
+P000301,Blood Pressure,167/115 mmHg
+P000301,Oxygen Saturation,96%
+P000302,Weight,195 lbs
+P000302,Temperature,98.7°F
+P000302,Heart Rate,55 bpm
+P000302,Blood Pressure,117/101 mmHg
+P000302,Diagnosis,Asthma
+P000303,Heart Rate,75 bpm
+P000303,Oxygen Saturation,100%
+P000303,Heart Rate,118 bpm
+P000303,Temperature,101.6°F
+P000303,Diagnosis,Asthma
+P000304,Blood Pressure,164/89 mmHg
+P000304,Temperature,101.1°F
+P000304,Weight,206 lbs
+P000304,Heart Rate,68 bpm
+P000304,Blood Pressure,159/87 mmHg
+P000305,Weight,264 lbs
+P000305,Blood Pressure,148/80 mmHg
+P000305,Blood Pressure,93/77 mmHg
+P000305,Creatinine,2.31 mg/dL
+P000305,HbA1c,6.0%
+P000306,Weight,121 lbs
+P000306,Oxygen Saturation,99%
+P000306,Blood Pressure,96/101 mmHg
+P000306,Diagnosis,COPD
+P000306,Prescription,Lisinopril 10mg once daily
+P000307,Weight,206 lbs
+P000307,Temperature,100.3°F
+P000307,Temperature,99.2°F
+P000307,Diagnosis,Chronic Kidney Disease Stage 3
+P000307,Prescription,Omeprazole 20mg once daily
+P000308,Oxygen Saturation,95%
+P000308,Temperature,97.9°F
+P000308,Oxygen Saturation,92%
+P000308,Blood Pressure,153/97 mmHg
+P000308,Oxygen Saturation,94%
+P000309,Weight,112 lbs
+P000309,Temperature,97.9°F
+P000309,Blood Pressure,134/64 mmHg
+P000309,Diagnosis,Chronic Kidney Disease Stage 3
+P000309,Prescription,Metformin 500mg twice daily
+P000310,Temperature,99.9°F
+P000310,Heart Rate,116 bpm
+P000310,Blood Pressure,124/82 mmHg
+P000310,Prescription,Metformin 500mg twice daily
+P000310,Prescription,Lisinopril 10mg once daily
+P000311,Blood Pressure,130/102 mmHg
+P000311,Heart Rate,76 bpm
+P000311,Diagnosis,Type 2 Diabetes Mellitus
+P000311,Prescription,Lisinopril 10mg once daily
+P000311,Fasting Blood Glucose,82 mg/dL
+P000312,Weight,147 lbs
+P000312,Blood Pressure,168/111 mmHg
+P000312,Blood Pressure,126/92 mmHg
+P000312,Prescription,Lisinopril 10mg once daily
+P000312,Total Cholesterol,200 mg/dL
+P000313,Heart Rate,99 bpm
+P000313,Temperature,100.7°F
+P000313,Oxygen Saturation,91%
+P000313,Blood Pressure,122/100 mmHg
+P000313,Weight,128 lbs
+P000314,Weight,146 lbs
+P000314,Blood Pressure,93/104 mmHg
+P000314,Heart Rate,93 bpm
+P000314,Temperature,98.8°F
+P000314,Blood Pressure,142/97 mmHg
+P000315,Blood Pressure,155/90 mmHg
+P000315,Weight,168 lbs
+P000315,Temperature,99.1°F
+P000315,Oxygen Saturation,90%
+P000315,Diagnosis,COPD
+P000316,Heart Rate,85 bpm
+P000316,Oxygen Saturation,91%
+P000316,Blood Pressure,95/120 mmHg
+P000316,Diagnosis,Coronary Artery Disease
+P000316,Prescription,Atorvastatin 20mg at bedtime
+P000317,Blood Pressure,95/77 mmHg
+P000317,Heart Rate,91 bpm
+P000317,Heart Rate,88 bpm
+P000317,Diagnosis,Coronary Artery Disease
+P000317,Creatinine,2.09 mg/dL
+P000318,Blood Pressure,121/75 mmHg
+P000318,Blood Pressure,145/101 mmHg
+P000318,Blood Pressure,106/120 mmHg
+P000318,Temperature,97.3°F
+P000318,Prescription,Omeprazole 20mg once daily
+P000319,Heart Rate,113 bpm
+P000319,Blood Pressure,177/120 mmHg
+P000319,Temperature,100.7°F
+P000319,Temperature,101.9°F
+P000319,Diagnosis,Hyperlipidemia
+P000320,Oxygen Saturation,99%
+P000320,Blood Pressure,175/83 mmHg
+P000320,Temperature,101.7°F
+P000320,Temperature,97.7°F
+P000320,Diagnosis,Chronic Kidney Disease Stage 3
+P000321,Weight,203 lbs
+P000321,Blood Pressure,157/81 mmHg
+P000321,Diagnosis,Type 2 Diabetes Mellitus
+P000321,Prescription,Omeprazole 20mg once daily
+P000321,Fasting Blood Glucose,118 mg/dL
+P000322,Heart Rate,108 bpm
+P000322,Oxygen Saturation,99%
+P000322,Weight,159 lbs
+P000322,Blood Pressure,136/62 mmHg
+P000322,Diagnosis,Depression
+P000323,Weight,158 lbs
+P000323,Oxygen Saturation,94%
+P000323,Blood Pressure,101/116 mmHg
+P000323,Temperature,98.0°F
+P000323,Diagnosis,Asthma
+P000324,Weight,123 lbs
+P000324,Temperature,97.4°F
+P000324,Oxygen Saturation,93%
+P000324,Temperature,99.1°F
+P000324,Diagnosis,Type 2 Diabetes Mellitus
+P000325,Blood Pressure,152/93 mmHg
+P000325,Blood Pressure,167/101 mmHg
+P000325,Blood Pressure,171/115 mmHg
+P000325,Diagnosis,Chronic Kidney Disease Stage 3
+P000325,Creatinine,1.23 mg/dL
+P000326,Heart Rate,112 bpm
+P000326,Temperature,100.2°F
+P000326,Weight,216 lbs
+P000326,Weight,295 lbs
+P000326,Heart Rate,107 bpm
+P000327,Weight,192 lbs
+P000327,Oxygen Saturation,91%
+P000327,Diagnosis,Chronic Kidney Disease Stage 3
+P000327,Prescription,Atorvastatin 20mg at bedtime
+P000327,Prescription,Levothyroxine 50mcg once daily
+P000328,Heart Rate,69 bpm
+P000328,Weight,175 lbs
+P000328,Diagnosis,Chronic Kidney Disease Stage 3
+P000328,Creatinine,0.52 mg/dL
+P000329,Blood Pressure,172/114 mmHg
+P000329,Weight,156 lbs
+P000329,Weight,262 lbs
+P000329,Blood Pressure,179/79 mmHg
+P000329,Oxygen Saturation,94%
+P000330,Weight,129 lbs
+P000330,Heart Rate,89 bpm
+P000330,Temperature,100.4°F
+P000330,Oxygen Saturation,90%
+P000330,Total Cholesterol,271 mg/dL
+P000331,Blood Pressure,139/70 mmHg
+P000331,Weight,183 lbs
+P000331,Diagnosis,Osteoarthritis
+P000331,Prescription,Atorvastatin 20mg at bedtime
+P000331,Total Cholesterol,237 mg/dL
+P000332,Blood Pressure,130/68 mmHg
+P000332,Temperature,99.9°F
+P000332,Weight,105 lbs
+P000332,Blood Pressure,126/86 mmHg
+P000332,Diagnosis,Type 2 Diabetes Mellitus
+P000333,Temperature,100.4°F
+P000333,Heart Rate,80 bpm
+P000333,Diagnosis,COPD
+P000333,Prescription,Lisinopril 10mg once daily
+P000333,Creatinine,1.70 mg/dL
+P000334,Blood Pressure,170/101 mmHg
+P000334,Weight,154 lbs
+P000334,Oxygen Saturation,93%
+P000334,Diagnosis,COPD
+P000334,Prescription,Metformin 500mg twice daily
+P000335,Temperature,99.5°F
+P000335,Weight,228 lbs
+P000335,Weight,221 lbs
+P000335,Weight,260 lbs
+P000335,Diagnosis,COPD
+P000336,Blood Pressure,177/101 mmHg
+P000336,Blood Pressure,152/120 mmHg
+P000336,Oxygen Saturation,99%
+P000336,Blood Pressure,151/99 mmHg
+P000336,HbA1c,7.0%
+P000337,Blood Pressure,158/81 mmHg
+P000337,Weight,217 lbs
+P000337,Oxygen Saturation,90%
+P000337,Diagnosis,Chronic Kidney Disease Stage 3
+P000337,Prescription,Aspirin 81mg once daily
+P000338,Oxygen Saturation,97%
+P000338,Heart Rate,84 bpm
+P000338,Temperature,100.2°F
+P000338,Weight,149 lbs
+P000338,Diagnosis,Asthma
+P000339,Temperature,98.7°F
+P000339,Oxygen Saturation,97%
+P000339,Oxygen Saturation,99%
+P000339,Diagnosis,Asthma
+P000339,Prescription,Omeprazole 20mg once daily
+P000340,Temperature,99.7°F
+P000340,Weight,130 lbs
+P000340,Oxygen Saturation,92%
+P000340,Blood Pressure,174/67 mmHg
+P000340,Diagnosis,Hypertension Stage 2
+P000341,Heart Rate,89 bpm
+P000341,Heart Rate,102 bpm
+P000341,Diagnosis,Osteoarthritis
+P000341,Prescription,Aspirin 81mg once daily
+P000341,Creatinine,1.91 mg/dL
+P000342,Weight,294 lbs
+P000342,Temperature,101.0°F
+P000342,Prescription,Aspirin 81mg once daily
+P000342,Prescription,Levothyroxine 50mcg once daily
+P000342,Prescription,Aspirin 81mg once daily
+P000343,Heart Rate,72 bpm
+P000343,Weight,140 lbs
+P000343,Weight,230 lbs
+P000343,Temperature,98.4°F
+P000343,Diagnosis,Hyperlipidemia
+P000344,Blood Pressure,124/63 mmHg
+P000344,Blood Pressure,172/118 mmHg
+P000344,Oxygen Saturation,97%
+P000344,Prescription,Atorvastatin 20mg at bedtime
+P000344,HbA1c,11.4%
+P000345,Weight,231 lbs
+P000345,Oxygen Saturation,93%
+P000345,Diagnosis,Type 2 Diabetes Mellitus
+P000345,Prescription,Aspirin 81mg once daily
+P000345,Prescription,Aspirin 81mg once daily
+P000346,Weight,253 lbs
+P000346,Oxygen Saturation,94%
+P000346,Heart Rate,84 bpm
+P000346,Diagnosis,Type 2 Diabetes Mellitus
+P000346,Prescription,Levothyroxine 50mcg once daily
+P000347,Oxygen Saturation,90%
+P000347,Oxygen Saturation,98%
+P000347,Diagnosis,Hyperlipidemia
+P000347,Creatinine,1.75 mg/dL
+P000347,Total Cholesterol,265 mg/dL
+P000348,Heart Rate,120 bpm
+P000348,Blood Pressure,175/103 mmHg
+P000348,Blood Pressure,180/98 mmHg
+P000348,Prescription,Omeprazole 20mg once daily
+P000348,Total Cholesterol,255 mg/dL
+P000349,Temperature,97.7°F
+P000349,Temperature,99.1°F
+P000349,Oxygen Saturation,99%
+P000349,Weight,151 lbs
+P000349,Diagnosis,Osteoarthritis
+P000350,Heart Rate,112 bpm
+P000350,Heart Rate,66 bpm
+P000350,Diagnosis,Hypertension Stage 2
+P000350,HbA1c,11.0%
+P000350,Total Cholesterol,278 mg/dL
+P000351,Weight,215 lbs
+P000351,Blood Pressure,157/104 mmHg
+P000351,Prescription,Atorvastatin 20mg at bedtime
+P000351,Prescription,Aspirin 81mg once daily
+P000351,Fasting Blood Glucose,177 mg/dL
+P000352,Heart Rate,92 bpm
+P000352,Heart Rate,56 bpm
+P000352,Blood Pressure,114/98 mmHg
+P000352,Weight,108 lbs
+P000352,Weight,247 lbs
+P000353,Oxygen Saturation,99%
+P000353,Weight,264 lbs
+P000353,Temperature,101.2°F
+P000353,Prescription,Atorvastatin 20mg at bedtime
+P000353,Fasting Blood Glucose,84 mg/dL
+P000354,Weight,220 lbs
+P000354,Temperature,100.6°F
+P000354,Heart Rate,57 bpm
+P000354,Weight,291 lbs
+P000354,Diagnosis,COPD
+P000355,Oxygen Saturation,93%
+P000355,Heart Rate,61 bpm
+P000355,Temperature,99.6°F
+P000355,Weight,156 lbs
+P000355,Prescription,Metformin 500mg twice daily
+P000356,Temperature,100.8°F
+P000356,Oxygen Saturation,96%
+P000356,Oxygen Saturation,93%
+P000356,Diagnosis,Chronic Kidney Disease Stage 3
+P000356,Creatinine,0.93 mg/dL
+P000357,Blood Pressure,90/75 mmHg
+P000357,Oxygen Saturation,91%
+P000357,Heart Rate,50 bpm
+P000357,Heart Rate,112 bpm
+P000357,Prescription,Atorvastatin 20mg at bedtime
+P000358,Blood Pressure,172/85 mmHg
+P000358,Blood Pressure,100/107 mmHg
+P000358,Temperature,97.5°F
+P000358,Weight,265 lbs
+P000358,Diagnosis,Hypertension Stage 1
+P000359,Weight,259 lbs
+P000359,Oxygen Saturation,93%
+P000359,Diagnosis,Asthma
+P000359,Prescription,Levothyroxine 50mcg once daily
+P000359,Prescription,Atorvastatin 20mg at bedtime
+P000360,Blood Pressure,106/96 mmHg
+P000360,Weight,216 lbs
+P000360,Diagnosis,Chronic Kidney Disease Stage 3
+P000360,Fasting Blood Glucose,144 mg/dL
+P000360,Total Cholesterol,245 mg/dL
+P000361,Blood Pressure,156/81 mmHg
+P000361,Heart Rate,71 bpm
+P000361,Weight,225 lbs
+P000361,Heart Rate,72 bpm
+P000361,Diagnosis,Depression
+P000362,Weight,248 lbs
+P000362,Blood Pressure,115/105 mmHg
+P000362,Weight,110 lbs
+P000362,Oxygen Saturation,97%
+P000362,Weight,214 lbs
+P000363,Temperature,100.0°F
+P000363,Blood Pressure,122/75 mmHg
+P000363,Diagnosis,Depression
+P000363,Prescription,Levothyroxine 50mcg once daily
+P000363,Prescription,Lisinopril 10mg once daily
+P000364,Heart Rate,65 bpm
+P000364,Weight,154 lbs
+P000364,Temperature,101.5°F
+P000364,Oxygen Saturation,90%
+P000364,Diagnosis,Coronary Artery Disease
+P000365,Heart Rate,113 bpm
+P000365,Oxygen Saturation,98%
+P000365,Diagnosis,Hypertension Stage 1
+P000365,Fasting Blood Glucose,224 mg/dL
+P000365,Total Cholesterol,216 mg/dL
+P000366,Heart Rate,67 bpm
+P000366,Heart Rate,111 bpm
+P000366,Diagnosis,Hyperlipidemia
+P000366,Prescription,Lisinopril 10mg once daily
+P000366,Prescription,Omeprazole 20mg once daily
+P000367,Weight,258 lbs
+P000367,Heart Rate,65 bpm
+P000367,Blood Pressure,96/118 mmHg
+P000367,Blood Pressure,154/120 mmHg
+P000367,Weight,156 lbs
+P000368,Heart Rate,88 bpm
+P000368,Weight,294 lbs
+P000368,Temperature,98.6°F
+P000368,Oxygen Saturation,100%
+P000368,Diagnosis,Chronic Kidney Disease Stage 3
+P000369,Blood Pressure,93/84 mmHg
+P000369,Temperature,100.6°F
+P000369,Heart Rate,105 bpm
+P000369,Diagnosis,Depression
+P000369,Prescription,Levothyroxine 50mcg once daily
+P000370,Weight,211 lbs
+P000370,Heart Rate,92 bpm
+P000370,Weight,198 lbs
+P000370,Weight,187 lbs
+P000370,Creatinine,0.83 mg/dL
+P000371,Blood Pressure,95/95 mmHg
+P000371,Weight,103 lbs
+P000371,Oxygen Saturation,100%
+P000371,Temperature,99.0°F
+P000371,Diagnosis,Hypertension Stage 1
+P000372,Heart Rate,102 bpm
+P000372,Heart Rate,102 bpm
+P000372,Blood Pressure,121/81 mmHg
+P000372,Diagnosis,Depression
+P000372,Prescription,Omeprazole 20mg once daily
+P000373,Temperature,99.3°F
+P000373,Blood Pressure,178/87 mmHg
+P000373,Heart Rate,109 bpm
+P000373,Weight,206 lbs
+P000373,Oxygen Saturation,98%
+P000374,Temperature,98.7°F
+P000374,Oxygen Saturation,100%
+P000374,Heart Rate,59 bpm
+P000374,Blood Pressure,161/102 mmHg
+P000374,Diagnosis,Hypertension Stage 1
+P000375,Weight,263 lbs
+P000375,Weight,242 lbs
+P000375,Diagnosis,COPD
+P000375,Prescription,Lisinopril 10mg once daily
+P000375,Prescription,Atorvastatin 20mg at bedtime
+P000376,Temperature,97.6°F
+P000376,Heart Rate,115 bpm
+P000376,Prescription,Lisinopril 10mg once daily
+P000376,Total Cholesterol,279 mg/dL
+P000376,Total Cholesterol,197 mg/dL
+P000377,Oxygen Saturation,94%
+P000377,Oxygen Saturation,94%
+P000377,Temperature,101.7°F
+P000377,Blood Pressure,119/62 mmHg
+P000377,Blood Pressure,150/92 mmHg
+P000378,Oxygen Saturation,95%
+P000378,Temperature,98.5°F
+P000378,Blood Pressure,145/61 mmHg
+P000378,Diagnosis,Asthma
+P000378,Prescription,Atorvastatin 20mg at bedtime
+P000379,Weight,283 lbs
+P000379,Temperature,101.0°F
+P000379,Weight,179 lbs
+P000379,Heart Rate,105 bpm
+P000379,Weight,154 lbs
+P000380,Weight,300 lbs
+P000380,Weight,277 lbs
+P000380,Temperature,97.3°F
+P000380,Diagnosis,Hypertension Stage 1
+P000380,Prescription,Levothyroxine 50mcg once daily
+P000381,Heart Rate,103 bpm
+P000381,Oxygen Saturation,97%
+P000381,Weight,135 lbs
+P000381,Diagnosis,Hypertension Stage 1
+P000381,Prescription,Aspirin 81mg once daily
+P000382,Weight,284 lbs
+P000382,Heart Rate,71 bpm
+P000382,Heart Rate,96 bpm
+P000382,Blood Pressure,169/103 mmHg
+P000382,Diagnosis,Asthma
+P000383,Heart Rate,75 bpm
+P000383,Oxygen Saturation,97%
+P000383,Blood Pressure,104/72 mmHg
+P000383,Diagnosis,Type 2 Diabetes Mellitus
+P000383,Prescription,Atorvastatin 20mg at bedtime
+P000384,Oxygen Saturation,90%
+P000384,Temperature,100.4°F
+P000384,Diagnosis,Hypertension Stage 1
+P000384,Prescription,Lisinopril 10mg once daily
+P000384,Prescription,Metformin 500mg twice daily
+P000385,Weight,192 lbs
+P000385,Blood Pressure,172/93 mmHg
+P000385,Blood Pressure,149/91 mmHg
+P000385,Heart Rate,73 bpm
+P000385,Heart Rate,75 bpm
+P000386,Temperature,101.8°F
+P000386,Heart Rate,111 bpm
+P000386,Temperature,97.3°F
+P000386,Diagnosis,Hyperlipidemia
+P000386,HbA1c,6.2%
+P000387,Temperature,101.0°F
+P000387,Oxygen Saturation,90%
+P000387,Prescription,Lisinopril 10mg once daily
+P000387,Prescription,Omeprazole 20mg once daily
+P000387,Fasting Blood Glucose,120 mg/dL
+P000388,Weight,140 lbs
+P000388,Oxygen Saturation,91%
+P000388,Diagnosis,COPD
+P000388,Prescription,Lisinopril 10mg once daily
+P000388,Prescription,Atorvastatin 20mg at bedtime
+P000389,Weight,218 lbs
+P000389,Weight,148 lbs
+P000389,Blood Pressure,163/63 mmHg
+P000389,Diagnosis,COPD
+P000389,Prescription,Atorvastatin 20mg at bedtime
+P000390,Oxygen Saturation,100%
+P000390,Temperature,101.1°F
+P000390,Prescription,Aspirin 81mg once daily
+P000390,Creatinine,1.66 mg/dL
+P000390,HbA1c,7.8%
+P000391,Blood Pressure,122/62 mmHg
+P000391,Oxygen Saturation,98%
+P000391,Oxygen Saturation,95%
+P000391,Heart Rate,60 bpm
+P000391,Blood Pressure,174/79 mmHg
+P000392,Heart Rate,84 bpm
+P000392,Blood Pressure,137/97 mmHg
+P000392,Temperature,97.9°F
+P000392,Diagnosis,Hyperlipidemia
+P000392,Prescription,Atorvastatin 20mg at bedtime
+P000393,Heart Rate,99 bpm
+P000393,Temperature,101.9°F
+P000393,Diagnosis,Coronary Artery Disease
+P000393,Total Cholesterol,183 mg/dL
+P000393,Creatinine,1.64 mg/dL
+P000394,Weight,166 lbs
+P000394,Blood Pressure,172/94 mmHg
+P000394,Blood Pressure,112/70 mmHg
+P000394,Temperature,100.1°F
+P000394,Weight,153 lbs
+P000395,Weight,248 lbs
+P000395,Blood Pressure,122/93 mmHg
+P000395,Heart Rate,68 bpm
+P000395,Weight,234 lbs
+P000395,Heart Rate,62 bpm
+P000396,Weight,155 lbs
+P000396,Oxygen Saturation,90%
+P000396,Temperature,98.7°F
+P000396,Blood Pressure,109/109 mmHg
+P000396,Prescription,Aspirin 81mg once daily
+P000397,Blood Pressure,160/105 mmHg
+P000397,Temperature,97.2°F
+P000397,Diagnosis,COPD
+P000397,Prescription,Omeprazole 20mg once daily
+P000397,Prescription,Atorvastatin 20mg at bedtime
+P000398,Blood Pressure,141/96 mmHg
+P000398,Heart Rate,82 bpm
+P000398,Temperature,99.7°F
+P000398,Oxygen Saturation,97%
+P000398,Weight,112 lbs
+P000399,Weight,270 lbs
+P000399,Temperature,101.6°F
+P000399,Temperature,99.5°F
+P000399,Diagnosis,Coronary Artery Disease
+P000399,Creatinine,1.14 mg/dL
+P000400,Temperature,101.0°F
+P000400,Blood Pressure,120/119 mmHg
+P000400,Oxygen Saturation,90%
+P000400,Heart Rate,53 bpm
+P000400,Diagnosis,Chronic Kidney Disease Stage 3
+P000401,Oxygen Saturation,93%
+P000401,Heart Rate,112 bpm
+P000401,Diagnosis,Coronary Artery Disease
+P000401,Total Cholesterol,161 mg/dL
+P000401,HbA1c,9.8%
+P000402,Blood Pressure,145/63 mmHg
+P000402,Heart Rate,64 bpm
+P000402,Oxygen Saturation,100%
+P000402,Oxygen Saturation,94%
+P000402,Blood Pressure,91/93 mmHg
+P000403,Weight,159 lbs
+P000403,Temperature,101.1°F
+P000403,Oxygen Saturation,96%
+P000403,Blood Pressure,121/60 mmHg
+P000403,Diagnosis,COPD
+P000404,Blood Pressure,111/78 mmHg
+P000404,Heart Rate,61 bpm
+P000404,Temperature,101.2°F
+P000404,Weight,230 lbs
+P000404,Oxygen Saturation,97%
+P000405,Heart Rate,118 bpm
+P000405,Blood Pressure,159/66 mmHg
+P000405,Weight,216 lbs
+P000405,Weight,269 lbs
+P000405,Prescription,Levothyroxine 50mcg once daily
+P000406,Heart Rate,74 bpm
+P000406,Weight,153 lbs
+P000406,Blood Pressure,155/66 mmHg
+P000406,Prescription,Omeprazole 20mg once daily
+P000406,Prescription,Atorvastatin 20mg at bedtime
+P000407,Heart Rate,93 bpm
+P000407,Temperature,101.0°F
+P000407,Diagnosis,Asthma
+P000407,Prescription,Metformin 500mg twice daily
+P000407,Prescription,Omeprazole 20mg once daily
+P000408,Weight,246 lbs
+P000408,Weight,224 lbs
+P000408,Temperature,97.6°F
+P000408,Weight,138 lbs
+P000408,Blood Pressure,176/65 mmHg
+P000409,Weight,185 lbs
+P000409,Weight,244 lbs
+P000409,Temperature,98.8°F
+P000409,Weight,193 lbs
+P000409,Diagnosis,Coronary Artery Disease
+P000410,Weight,262 lbs
+P000410,Oxygen Saturation,90%
+P000410,Weight,113 lbs
+P000410,Creatinine,2.46 mg/dL
+P000411,Blood Pressure,116/100 mmHg
+P000411,Heart Rate,70 bpm
+P000411,Temperature,101.0°F
+P000411,Blood Pressure,104/85 mmHg
+P000411,Prescription,Omeprazole 20mg once daily
+P000412,Temperature,99.1°F
+P000412,Heart Rate,63 bpm
+P000412,Diagnosis,Osteoarthritis
+P000412,Prescription,Aspirin 81mg once daily
+P000412,Prescription,Atorvastatin 20mg at bedtime
+P000413,Blood Pressure,151/86 mmHg
+P000413,Blood Pressure,132/118 mmHg
+P000413,Heart Rate,64 bpm
+P000413,Heart Rate,62 bpm
+P000413,Oxygen Saturation,95%
+P000414,Oxygen Saturation,93%
+P000414,Heart Rate,89 bpm
+P000414,Total Cholesterol,261 mg/dL
+P000414,Total Cholesterol,171 mg/dL
+P000414,Total Cholesterol,227 mg/dL
+P000415,Oxygen Saturation,98%
+P000415,Oxygen Saturation,95%
+P000415,Heart Rate,63 bpm
+P000415,Blood Pressure,175/80 mmHg
+P000415,Diagnosis,Asthma
+P000416,Oxygen Saturation,90%
+P000416,Heart Rate,67 bpm
+P000416,Weight,249 lbs
+P000416,Temperature,101.6°F
+P000416,Oxygen Saturation,95%
+P000417,Heart Rate,52 bpm
+P000417,Heart Rate,85 bpm
+P000417,Heart Rate,114 bpm
+P000417,Prescription,Lisinopril 10mg once daily
+P000417,Creatinine,0.68 mg/dL
+P000418,Weight,169 lbs
+P000418,Temperature,99.8°F
+P000418,Oxygen Saturation,96%
+P000418,Weight,148 lbs
+P000418,Prescription,Omeprazole 20mg once daily
+P000419,Weight,109 lbs
+P000419,Heart Rate,98 bpm
+P000419,Oxygen Saturation,99%
+P000419,Diagnosis,Depression
+P000419,Prescription,Aspirin 81mg once daily
+P000420,Oxygen Saturation,97%
+P000420,Oxygen Saturation,92%
+P000420,Blood Pressure,99/116 mmHg
+P000420,Heart Rate,86 bpm
+P000420,Oxygen Saturation,98%
+P000421,Oxygen Saturation,96%
+P000421,Oxygen Saturation,99%
+P000421,Heart Rate,91 bpm
+P000421,Prescription,Atorvastatin 20mg at bedtime
+P000421,Fasting Blood Glucose,121 mg/dL
+P000422,Oxygen Saturation,92%
+P000422,Temperature,101.1°F
+P000422,Diagnosis,Coronary Artery Disease
+P000422,Prescription,Metformin 500mg twice daily
+P000422,Total Cholesterol,253 mg/dL
+P000423,Weight,185 lbs
+P000423,Weight,202 lbs
+P000423,Oxygen Saturation,90%
+P000423,Prescription,Lisinopril 10mg once daily
+P000423,Prescription,Aspirin 81mg once daily
+P000424,Temperature,99.0°F
+P000424,Heart Rate,75 bpm
+P000424,Temperature,99.0°F
+P000424,Prescription,Aspirin 81mg once daily
+P000424,Prescription,Aspirin 81mg once daily
+P000425,Weight,110 lbs
+P000425,Blood Pressure,122/84 mmHg
+P000425,Temperature,98.5°F
+P000425,Diagnosis,COPD
+P000425,Prescription,Atorvastatin 20mg at bedtime
+P000426,Blood Pressure,149/119 mmHg
+P000426,Oxygen Saturation,92%
+P000426,Blood Pressure,177/91 mmHg
+P000426,Oxygen Saturation,95%
+P000426,Diagnosis,Hypertension Stage 1
+P000427,Temperature,99.3°F
+P000427,Heart Rate,100 bpm
+P000427,Blood Pressure,159/113 mmHg
+P000427,Blood Pressure,177/112 mmHg
+P000427,Diagnosis,COPD
+P000428,Blood Pressure,98/73 mmHg
+P000428,Temperature,97.6°F
+P000428,Heart Rate,74 bpm
+P000428,Fasting Blood Glucose,213 mg/dL
+P000428,Creatinine,0.78 mg/dL
+P000429,Weight,281 lbs
+P000429,Blood Pressure,94/108 mmHg
+P000429,Oxygen Saturation,97%
+P000429,Oxygen Saturation,99%
+P000429,Weight,180 lbs
+P000430,Oxygen Saturation,91%
+P000430,Temperature,101.2°F
+P000430,Temperature,100.9°F
+P000430,Heart Rate,76 bpm
+P000430,Weight,152 lbs
+P000431,Heart Rate,87 bpm
+P000431,Weight,199 lbs
+P000431,Temperature,100.9°F
+P000431,Diagnosis,Asthma
+P000431,Prescription,Omeprazole 20mg once daily
+P000432,Weight,145 lbs
+P000432,Weight,116 lbs
+P000432,Weight,154 lbs
+P000432,Temperature,98.7°F
+P000432,Blood Pressure,164/101 mmHg
+P000433,Oxygen Saturation,96%
+P000433,Heart Rate,59 bpm
+P000433,Heart Rate,85 bpm
+P000433,Diagnosis,Hyperlipidemia
+P000433,Prescription,Omeprazole 20mg once daily
+P000434,Weight,208 lbs
+P000434,Weight,140 lbs
+P000434,Prescription,Metformin 500mg twice daily
+P000434,Prescription,Lisinopril 10mg once daily
+P000434,Prescription,Aspirin 81mg once daily
+P000435,Oxygen Saturation,99%
+P000435,Oxygen Saturation,92%
+P000435,Weight,152 lbs
+P000435,Blood Pressure,98/85 mmHg
+P000435,Heart Rate,89 bpm
+P000436,Weight,284 lbs
+P000436,Weight,205 lbs
+P000436,Diagnosis,Depression
+P000436,Creatinine,2.17 mg/dL
+P000436,Creatinine,1.29 mg/dL
+P000437,Oxygen Saturation,91%
+P000437,Oxygen Saturation,96%
+P000437,Heart Rate,55 bpm
+P000437,Weight,159 lbs
+P000437,Creatinine,0.60 mg/dL
+P000438,Weight,203 lbs
+P000438,Oxygen Saturation,91%
+P000438,Blood Pressure,155/106 mmHg
+P000438,Oxygen Saturation,90%
+P000438,Heart Rate,98 bpm
+P000439,Temperature,101.5°F
+P000439,Oxygen Saturation,92%
+P000439,Temperature,98.1°F
+P000439,Weight,143 lbs
+P000439,Prescription,Atorvastatin 20mg at bedtime
+P000440,Heart Rate,109 bpm
+P000440,Blood Pressure,112/70 mmHg
+P000440,Weight,149 lbs
+P000440,Diagnosis,Type 2 Diabetes Mellitus
+P000440,Creatinine,0.84 mg/dL
+P000441,Blood Pressure,94/60 mmHg
+P000441,Blood Pressure,115/80 mmHg
+P000441,Diagnosis,Osteoarthritis
+P000441,Prescription,Omeprazole 20mg once daily
+P000441,Prescription,Levothyroxine 50mcg once daily
+P000442,Oxygen Saturation,95%
+P000442,Weight,156 lbs
+P000442,Heart Rate,97 bpm
+P000442,Prescription,Metformin 500mg twice daily
+P000442,Total Cholesterol,288 mg/dL
+P000443,Oxygen Saturation,90%
+P000443,Heart Rate,96 bpm
+P000443,Oxygen Saturation,94%
+P000443,Blood Pressure,98/99 mmHg
+P000443,Heart Rate,79 bpm
+P000444,Temperature,99.1°F
+P000444,Oxygen Saturation,99%
+P000444,Temperature,98.3°F
+P000444,Diagnosis,Coronary Artery Disease
+P000444,Prescription,Metformin 500mg twice daily
+P000445,Temperature,99.2°F
+P000445,Weight,216 lbs
+P000445,Diagnosis,Osteoarthritis
+P000445,Prescription,Metformin 500mg twice daily
+P000445,Prescription,Omeprazole 20mg once daily
+P000446,Heart Rate,81 bpm
+P000446,Heart Rate,104 bpm
+P000446,Temperature,98.8°F
+P000446,Blood Pressure,153/71 mmHg
+P000446,Diagnosis,Coronary Artery Disease
+P000447,Heart Rate,61 bpm
+P000447,Temperature,101.8°F
+P000447,Blood Pressure,160/101 mmHg
+P000447,Prescription,Omeprazole 20mg once daily
+P000447,Prescription,Lisinopril 10mg once daily
+P000448,Blood Pressure,180/72 mmHg
+P000448,Temperature,98.9°F
+P000448,Heart Rate,70 bpm
+P000448,Temperature,101.9°F
+P000448,Blood Pressure,143/65 mmHg
+P000449,Blood Pressure,117/107 mmHg
+P000449,Blood Pressure,116/80 mmHg
+P000449,Blood Pressure,176/92 mmHg
+P000449,Weight,136 lbs
+P000449,Temperature,100.7°F
+P000450,Oxygen Saturation,97%
+P000450,Weight,224 lbs
+P000450,Weight,131 lbs
+P000450,Diagnosis,Type 2 Diabetes Mellitus
+P000450,Prescription,Atorvastatin 20mg at bedtime
+P000451,Weight,181 lbs
+P000451,Oxygen Saturation,93%
+P000451,Oxygen Saturation,91%
+P000451,Blood Pressure,93/64 mmHg
+P000451,Temperature,100.1°F
+P000452,Oxygen Saturation,91%
+P000452,Heart Rate,58 bpm
+P000452,Blood Pressure,124/70 mmHg
+P000452,Diagnosis,Hyperlipidemia
+P000452,Prescription,Levothyroxine 50mcg once daily
+P000453,Oxygen Saturation,90%
+P000453,Weight,239 lbs
+P000453,Weight,267 lbs
+P000453,Heart Rate,108 bpm
+P000453,Prescription,Aspirin 81mg once daily
+P000454,Temperature,99.8°F
+P000454,Weight,201 lbs
+P000454,Diagnosis,Type 2 Diabetes Mellitus
+P000454,HbA1c,8.5%
+P000454,Total Cholesterol,150 mg/dL
+P000455,Weight,173 lbs
+P000455,Blood Pressure,131/69 mmHg
+P000455,Temperature,100.8°F
+P000455,Weight,250 lbs
+P000455,Temperature,100.5°F
+P000456,Blood Pressure,111/88 mmHg
+P000456,Blood Pressure,176/105 mmHg
+P000456,Temperature,100.7°F
+P000456,Blood Pressure,128/85 mmHg
+P000456,Prescription,Lisinopril 10mg once daily
+P000457,Heart Rate,82 bpm
+P000457,Heart Rate,78 bpm
+P000457,Diagnosis,COPD
+P000457,Total Cholesterol,243 mg/dL
+P000458,Oxygen Saturation,90%
+P000458,Oxygen Saturation,96%
+P000458,Heart Rate,102 bpm
+P000458,Temperature,100.2°F
+P000458,Heart Rate,53 bpm
+P000459,Weight,126 lbs
+P000459,Temperature,98.8°F
+P000459,Temperature,98.3°F
+P000459,Oxygen Saturation,98%
+P000459,Diagnosis,COPD
+P000460,Heart Rate,113 bpm
+P000460,Oxygen Saturation,97%
+P000460,Diagnosis,Hyperlipidemia
+P000460,Prescription,Metformin 500mg twice daily
+P000460,Fasting Blood Glucose,70 mg/dL
+P000461,Weight,125 lbs
+P000461,Blood Pressure,105/114 mmHg
+P000461,Blood Pressure,151/68 mmHg
+P000461,Oxygen Saturation,93%
+P000461,Temperature,100.4°F
+P000462,Temperature,97.4°F
+P000462,Temperature,99.8°F
+P000462,Diagnosis,Coronary Artery Disease
+P000462,Prescription,Lisinopril 10mg once daily
+P000462,Prescription,Aspirin 81mg once daily
+P000463,Oxygen Saturation,97%
+P000463,Weight,165 lbs
+P000463,Blood Pressure,112/90 mmHg
+P000463,Weight,114 lbs
+P000463,Blood Pressure,94/109 mmHg
+P000464,Blood Pressure,123/95 mmHg
+P000464,Oxygen Saturation,90%
+P000464,Total Cholesterol,290 mg/dL
+P000464,Total Cholesterol,266 mg/dL
+P000465,Heart Rate,98 bpm
+P000465,Oxygen Saturation,92%
+P000465,Heart Rate,86 bpm
+P000465,Oxygen Saturation,91%
+P000465,Oxygen Saturation,96%
+P000466,Temperature,99.4°F
+P000466,Blood Pressure,150/103 mmHg
+P000466,Blood Pressure,118/88 mmHg
+P000466,Diagnosis,Type 2 Diabetes Mellitus
+P000466,Prescription,Metformin 500mg twice daily
+P000467,Blood Pressure,103/65 mmHg
+P000467,Oxygen Saturation,96%
+P000467,Temperature,97.6°F
+P000467,Temperature,100.5°F
+P000467,Prescription,Atorvastatin 20mg at bedtime
+P000468,Oxygen Saturation,90%
+P000468,Weight,220 lbs
+P000468,Weight,276 lbs
+P000468,Temperature,101.2°F
+P000468,Prescription,Omeprazole 20mg once daily
+P000469,Weight,265 lbs
+P000469,Blood Pressure,118/62 mmHg
+P000469,Heart Rate,64 bpm
+P000469,Temperature,99.8°F
+P000469,Blood Pressure,173/93 mmHg
+P000470,Temperature,99.0°F
+P000470,Oxygen Saturation,100%
+P000470,Heart Rate,68 bpm
+P000470,Prescription,Lisinopril 10mg once daily
+P000470,Prescription,Omeprazole 20mg once daily
+P000471,Heart Rate,102 bpm
+P000471,Oxygen Saturation,94%
+P000471,Diagnosis,Asthma
+P000471,Prescription,Metformin 500mg twice daily
+P000471,Prescription,Lisinopril 10mg once daily
+P000472,Blood Pressure,162/92 mmHg
+P000472,Temperature,97.0°F
+P000472,Diagnosis,COPD
+P000472,Prescription,Omeprazole 20mg once daily
+P000472,Prescription,Levothyroxine 50mcg once daily
+P000473,Weight,206 lbs
+P000473,Heart Rate,68 bpm
+P000473,Temperature,101.6°F
+P000473,Diagnosis,Hypertension Stage 1
+P000473,HbA1c,10.1%
+P000474,Oxygen Saturation,94%
+P000474,Oxygen Saturation,98%
+P000474,Diagnosis,COPD
+P000474,Prescription,Atorvastatin 20mg at bedtime
+P000474,Prescription,Atorvastatin 20mg at bedtime
+P000475,Heart Rate,76 bpm
+P000475,Heart Rate,50 bpm
+P000475,Blood Pressure,174/89 mmHg
+P000475,Weight,175 lbs
+P000475,Diagnosis,Hypertension Stage 2
+P000476,Blood Pressure,164/87 mmHg
+P000476,Temperature,97.5°F
+P000476,Diagnosis,Hypertension Stage 2
+P000476,HbA1c,11.4%
+P000476,HbA1c,11.6%
+P000477,Heart Rate,82 bpm
+P000477,Oxygen Saturation,97%
+P000477,Prescription,Levothyroxine 50mcg once daily
+P000477,Prescription,Levothyroxine 50mcg once daily
+P000477,Total Cholesterol,234 mg/dL
+P000478,Weight,258 lbs
+P000478,Temperature,101.8°F
+P000478,Weight,236 lbs
+P000478,Diagnosis,Osteoarthritis
+P000478,Prescription,Aspirin 81mg once daily
+P000479,Heart Rate,86 bpm
+P000479,Weight,210 lbs
+P000479,Heart Rate,117 bpm
+P000479,Diagnosis,COPD
+P000479,Prescription,Aspirin 81mg once daily
+P000480,Blood Pressure,172/91 mmHg
+P000480,Heart Rate,111 bpm
+P000480,Oxygen Saturation,98%
+P000480,Temperature,100.4°F
+P000480,HbA1c,5.4%
+P000481,Oxygen Saturation,94%
+P000481,Blood Pressure,120/64 mmHg
+P000481,Prescription,Aspirin 81mg once daily
+P000481,HbA1c,7.5%
+P000481,Fasting Blood Glucose,181 mg/dL
+P000482,Oxygen Saturation,92%
+P000482,Weight,201 lbs
+P000482,Weight,111 lbs
+P000482,Prescription,Aspirin 81mg once daily
+P000482,Prescription,Metformin 500mg twice daily
+P000483,Temperature,100.8°F
+P000483,Temperature,98.7°F
+P000483,Oxygen Saturation,99%
+P000483,Weight,116 lbs
+P000483,Diagnosis,Coronary Artery Disease
+P000484,Oxygen Saturation,97%
+P000484,Weight,147 lbs
+P000484,Heart Rate,86 bpm
+P000484,Oxygen Saturation,94%
+P000484,Temperature,99.0°F
+P000485,Heart Rate,61 bpm
+P000485,Oxygen Saturation,97%
+P000485,Blood Pressure,154/102 mmHg
+P000485,Diagnosis,COPD
+P000485,HbA1c,9.1%
+P000486,Heart Rate,84 bpm
+P000486,Weight,129 lbs
+P000486,Weight,203 lbs
+P000486,Blood Pressure,107/76 mmHg
+P000486,Diagnosis,Hyperlipidemia
+P000487,Heart Rate,120 bpm
+P000487,Temperature,99.5°F
+P000487,Temperature,98.6°F
+P000487,Diagnosis,Hypertension Stage 2
+P000487,Prescription,Metformin 500mg twice daily
+P000488,Weight,291 lbs
+P000488,Heart Rate,85 bpm
+P000488,Weight,138 lbs
+P000488,Heart Rate,85 bpm
+P000488,Diagnosis,Osteoarthritis
+P000489,Heart Rate,87 bpm
+P000489,Heart Rate,106 bpm
+P000489,Weight,187 lbs
+P000489,Weight,298 lbs
+P000489,Heart Rate,69 bpm
+P000490,Weight,136 lbs
+P000490,Weight,169 lbs
+P000490,Blood Pressure,153/92 mmHg
+P000490,Temperature,98.9°F
+P000490,Weight,169 lbs
+P000491,Temperature,97.2°F
+P000491,Weight,118 lbs
+P000491,Heart Rate,111 bpm
+P000491,Blood Pressure,155/119 mmHg
+P000491,Heart Rate,120 bpm
+P000492,Weight,260 lbs
+P000492,Temperature,101.5°F
+P000492,Prescription,Lisinopril 10mg once daily
+P000492,Prescription,Metformin 500mg twice daily
+P000492,HbA1c,6.1%
+P000493,Heart Rate,59 bpm
+P000493,Oxygen Saturation,100%
+P000493,Weight,179 lbs
+P000493,Oxygen Saturation,90%
+P000493,Prescription,Omeprazole 20mg once daily
+P000494,Heart Rate,119 bpm
+P000494,Blood Pressure,165/94 mmHg
+P000494,Weight,187 lbs
+P000494,Diagnosis,Depression
+P000494,HbA1c,5.4%
+P000495,Temperature,101.3°F
+P000495,Blood Pressure,120/89 mmHg
+P000495,Diagnosis,Chronic Kidney Disease Stage 3
+P000495,HbA1c,5.7%
+P000495,Fasting Blood Glucose,163 mg/dL
+P000496,Temperature,98.6°F
+P000496,Oxygen Saturation,96%
+P000496,Weight,121 lbs
+P000496,Diagnosis,Depression
+P000496,Prescription,Lisinopril 10mg once daily
+P000497,Temperature,98.2°F
+P000497,Blood Pressure,164/64 mmHg
+P000497,Heart Rate,107 bpm
+P000497,Heart Rate,89 bpm
+P000497,Oxygen Saturation,91%
+P000498,Temperature,97.5°F
+P000498,Oxygen Saturation,96%
+P000498,Temperature,100.3°F
+P000498,Diagnosis,Coronary Artery Disease
+P000498,Total Cholesterol,239 mg/dL
+P000499,Heart Rate,102 bpm
+P000499,Temperature,97.4°F
+P000499,Heart Rate,114 bpm
+P000499,Weight,102 lbs
+P000499,Oxygen Saturation,100%
+P000500,Oxygen Saturation,97%
+P000500,Oxygen Saturation,95%
+P000500,Prescription,Omeprazole 20mg once daily
+P000500,Prescription,Lisinopril 10mg once daily
+P000500,Prescription,Metformin 500mg twice daily
+P000501,Temperature,97.1°F
+P000501,Temperature,101.9°F
+P000501,Diagnosis,Asthma
+P000501,Creatinine,1.39 mg/dL
+P000501,Fasting Blood Glucose,135 mg/dL
+P000502,Temperature,100.3°F
+P000502,Heart Rate,56 bpm
+P000502,Blood Pressure,131/102 mmHg
+P000502,Heart Rate,89 bpm
+P000502,Oxygen Saturation,92%
+P000503,Temperature,97.4°F
+P000503,Weight,152 lbs
+P000503,Oxygen Saturation,96%
+P000503,Temperature,98.2°F
+P000503,Diagnosis,Depression
+P000504,Heart Rate,76 bpm
+P000504,Temperature,101.3°F
+P000504,Blood Pressure,140/91 mmHg
+P000504,Diagnosis,Depression
+P000504,Prescription,Metformin 500mg twice daily
+P000505,Temperature,101.6°F
+P000505,Oxygen Saturation,92%
+P000505,Diagnosis,Asthma
+P000505,Prescription,Metformin 500mg twice daily
+P000505,Prescription,Lisinopril 10mg once daily
+P000506,Oxygen Saturation,92%
+P000506,Heart Rate,62 bpm
+P000506,Heart Rate,63 bpm
+P000506,Oxygen Saturation,92%
+P000506,Diagnosis,Hyperlipidemia
+P000507,Weight,212 lbs
+P000507,Heart Rate,74 bpm
+P000507,Diagnosis,Chronic Kidney Disease Stage 3
+P000507,Prescription,Levothyroxine 50mcg once daily
+P000507,Prescription,Metformin 500mg twice daily
+P000508,Weight,227 lbs
+P000508,Heart Rate,52 bpm
+P000508,Prescription,Aspirin 81mg once daily
+P000508,Prescription,Omeprazole 20mg once daily
+P000508,Creatinine,0.51 mg/dL
+P000509,Heart Rate,117 bpm
+P000509,Blood Pressure,159/65 mmHg
+P000509,Blood Pressure,109/88 mmHg
+P000509,Temperature,101.0°F
+P000509,Total Cholesterol,176 mg/dL
+P000510,Oxygen Saturation,91%
+P000510,Blood Pressure,124/75 mmHg
+P000510,Blood Pressure,105/115 mmHg
+P000510,Temperature,100.4°F
+P000510,Weight,217 lbs
+P000511,Temperature,98.2°F
+P000511,Temperature,98.3°F
+P000511,Blood Pressure,149/96 mmHg
+P000511,Oxygen Saturation,91%
+P000511,Blood Pressure,167/89 mmHg
+P000512,Weight,140 lbs
+P000512,Temperature,101.6°F
+P000512,Weight,144 lbs
+P000512,Diagnosis,Hypertension Stage 2
+P000512,Prescription,Atorvastatin 20mg at bedtime
+P000513,Temperature,99.3°F
+P000513,Heart Rate,95 bpm
+P000513,Weight,150 lbs
+P000513,Prescription,Metformin 500mg twice daily
+P000513,Prescription,Atorvastatin 20mg at bedtime
+P000514,Oxygen Saturation,92%
+P000514,Oxygen Saturation,94%
+P000514,Blood Pressure,174/85 mmHg
+P000514,Heart Rate,108 bpm
+P000514,Oxygen Saturation,98%
+P000515,Heart Rate,64 bpm
+P000515,Oxygen Saturation,91%
+P000515,Diagnosis,Asthma
+P000515,Fasting Blood Glucose,236 mg/dL
+P000515,Fasting Blood Glucose,171 mg/dL
+P000516,Heart Rate,56 bpm
+P000516,Blood Pressure,126/87 mmHg
+P000516,Oxygen Saturation,94%
+P000516,Prescription,Metformin 500mg twice daily
+P000516,Fasting Blood Glucose,77 mg/dL
+P000517,Heart Rate,81 bpm
+P000517,Oxygen Saturation,94%
+P000517,Weight,170 lbs
+P000517,Diagnosis,Hypertension Stage 1
+P000517,Prescription,Levothyroxine 50mcg once daily
+P000518,Heart Rate,98 bpm
+P000518,Temperature,98.4°F
+P000518,Weight,176 lbs
+P000518,Oxygen Saturation,98%
+P000518,Temperature,97.6°F
+P000519,Weight,118 lbs
+P000519,Temperature,99.8°F
+P000519,Heart Rate,82 bpm
+P000519,Weight,240 lbs
+P000519,Diagnosis,Hypertension Stage 1
+P000520,Heart Rate,75 bpm
+P000520,Blood Pressure,106/83 mmHg
+P000520,Weight,192 lbs
+P000520,Diagnosis,Coronary Artery Disease
+P000520,Prescription,Lisinopril 10mg once daily
+P000521,Blood Pressure,136/65 mmHg
+P000521,Weight,109 lbs
+P000521,Diagnosis,Chronic Kidney Disease Stage 3
+P000521,Prescription,Omeprazole 20mg once daily
+P000521,Prescription,Metformin 500mg twice daily
+P000522,Weight,266 lbs
+P000522,Temperature,101.7°F
+P000522,Diagnosis,Hyperlipidemia
+P000522,Prescription,Omeprazole 20mg once daily
+P000522,Prescription,Aspirin 81mg once daily
+P000523,Temperature,101.7°F
+P000523,Blood Pressure,102/63 mmHg
+P000523,Creatinine,0.82 mg/dL
+P000523,Total Cholesterol,219 mg/dL
+P000523,Total Cholesterol,217 mg/dL
+P000524,Temperature,98.6°F
+P000524,Oxygen Saturation,93%
+P000524,Diagnosis,Coronary Artery Disease
+P000524,Prescription,Lisinopril 10mg once daily
+P000524,Creatinine,1.85 mg/dL
+P000525,Weight,284 lbs
+P000525,Blood Pressure,134/113 mmHg
+P000525,Blood Pressure,141/85 mmHg
+P000525,Temperature,98.5°F
+P000525,Blood Pressure,126/100 mmHg
+P000526,Weight,124 lbs
+P000526,Weight,189 lbs
+P000526,Oxygen Saturation,97%
+P000526,Weight,275 lbs
+P000526,Blood Pressure,95/73 mmHg
+P000527,Weight,214 lbs
+P000527,Weight,172 lbs
+P000527,Oxygen Saturation,93%
+P000527,Diagnosis,Asthma
+P000527,Prescription,Metformin 500mg twice daily
+P000528,Oxygen Saturation,93%
+P000528,Blood Pressure,164/85 mmHg
+P000528,Weight,248 lbs
+P000528,Diagnosis,Hypertension Stage 1
+P000528,Fasting Blood Glucose,230 mg/dL
+P000529,Weight,276 lbs
+P000529,Oxygen Saturation,98%
+P000529,Diagnosis,Hypertension Stage 2
+P000529,Prescription,Omeprazole 20mg once daily
+P000529,Prescription,Lisinopril 10mg once daily
+P000530,Oxygen Saturation,93%
+P000530,Oxygen Saturation,98%
+P000530,Weight,256 lbs
+P000530,Oxygen Saturation,94%
+P000530,Temperature,101.4°F
+P000531,Blood Pressure,113/74 mmHg
+P000531,Weight,198 lbs
+P000531,Heart Rate,102 bpm
+P000531,Blood Pressure,159/115 mmHg
+P000531,Heart Rate,113 bpm
+P000532,Weight,259 lbs
+P000532,Heart Rate,71 bpm
+P000532,Temperature,97.6°F
+P000532,Blood Pressure,173/95 mmHg
+P000532,Diagnosis,Type 2 Diabetes Mellitus
+P000533,Temperature,98.6°F
+P000533,Blood Pressure,115/80 mmHg
+P000533,Temperature,98.4°F
+P000533,Temperature,98.1°F
+P000533,Diagnosis,Type 2 Diabetes Mellitus
+P000534,Temperature,98.3°F
+P000534,Oxygen Saturation,99%
+P000534,Heart Rate,76 bpm
+P000534,Weight,164 lbs
+P000534,Oxygen Saturation,98%
+P000535,Oxygen Saturation,97%
+P000535,Oxygen Saturation,95%
+P000535,Blood Pressure,177/112 mmHg
+P000535,Blood Pressure,98/61 mmHg
+P000535,Oxygen Saturation,100%
+P000536,Blood Pressure,110/105 mmHg
+P000536,Weight,184 lbs
+P000536,Blood Pressure,144/100 mmHg
+P000536,Blood Pressure,103/107 mmHg
+P000536,Temperature,100.3°F
+P000537,Temperature,100.9°F
+P000537,Oxygen Saturation,91%
+P000537,Temperature,98.2°F
+P000537,Weight,107 lbs
+P000537,Temperature,99.8°F
+P000538,Blood Pressure,168/117 mmHg
+P000538,Blood Pressure,128/71 mmHg
+P000538,Weight,163 lbs
+P000538,Diagnosis,Hypertension Stage 2
+P000538,Prescription,Omeprazole 20mg once daily
+P000539,Blood Pressure,96/112 mmHg
+P000539,Temperature,97.9°F
+P000539,Temperature,97.7°F
+P000539,Temperature,100.0°F
+P000539,Heart Rate,66 bpm
+P000540,Temperature,98.2°F
+P000540,Blood Pressure,131/119 mmHg
+P000540,Oxygen Saturation,95%
+P000540,Oxygen Saturation,96%
+P000540,Temperature,99.1°F
+P000541,Temperature,97.5°F
+P000541,Temperature,101.3°F
+P000541,Temperature,97.6°F
+P000541,Diagnosis,Depression
+P000541,Prescription,Aspirin 81mg once daily
+P000542,Oxygen Saturation,96%
+P000542,Heart Rate,93 bpm
+P000542,Diagnosis,Hyperlipidemia
+P000542,Prescription,Aspirin 81mg once daily
+P000542,Prescription,Aspirin 81mg once daily
+P000543,Heart Rate,93 bpm
+P000543,Blood Pressure,173/103 mmHg
+P000543,Oxygen Saturation,96%
+P000543,Oxygen Saturation,98%
+P000543,Temperature,97.8°F
+P000544,Blood Pressure,100/114 mmHg
+P000544,Oxygen Saturation,97%
+P000544,Oxygen Saturation,99%
+P000544,Heart Rate,54 bpm
+P000544,Temperature,98.7°F
+P000545,Oxygen Saturation,100%
+P000545,Weight,168 lbs
+P000545,Weight,292 lbs
+P000545,Heart Rate,100 bpm
+P000545,Heart Rate,84 bpm
+P000546,Heart Rate,109 bpm
+P000546,Oxygen Saturation,95%
+P000546,Diagnosis,Type 2 Diabetes Mellitus
+P000546,Prescription,Omeprazole 20mg once daily
+P000546,Prescription,Lisinopril 10mg once daily
+P000547,Heart Rate,109 bpm
+P000547,Heart Rate,116 bpm
+P000547,Oxygen Saturation,98%
+P000547,Temperature,102.0°F
+P000547,Temperature,97.1°F
+P000548,Blood Pressure,92/110 mmHg
+P000548,Blood Pressure,157/83 mmHg
+P000548,Weight,109 lbs
+P000548,Weight,108 lbs
+P000548,Temperature,101.9°F
+P000549,Blood Pressure,169/73 mmHg
+P000549,Blood Pressure,95/96 mmHg
+P000549,Prescription,Lisinopril 10mg once daily
+P000549,Fasting Blood Glucose,211 mg/dL
+P000550,Heart Rate,101 bpm
+P000550,Weight,268 lbs
+P000550,Blood Pressure,132/95 mmHg
+P000550,Weight,227 lbs
+P000550,Heart Rate,56 bpm
+P000551,Heart Rate,88 bpm
+P000551,Oxygen Saturation,95%
+P000551,Weight,243 lbs
+P000551,Temperature,98.0°F
+P000551,Diagnosis,Depression
+P000552,Temperature,100.2°F
+P000552,Blood Pressure,134/73 mmHg
+P000552,Heart Rate,117 bpm
+P000552,Heart Rate,71 bpm
+P000552,Prescription,Atorvastatin 20mg at bedtime
+P000553,Temperature,97.6°F
+P000553,Blood Pressure,135/118 mmHg
+P000553,Oxygen Saturation,95%
+P000553,Temperature,98.8°F
+P000553,Heart Rate,80 bpm
+P000554,Oxygen Saturation,94%
+P000554,Blood Pressure,167/83 mmHg
+P000554,Blood Pressure,155/87 mmHg
+P000554,Diagnosis,COPD
+P000554,Prescription,Atorvastatin 20mg at bedtime
+P000555,Oxygen Saturation,97%
+P000555,Weight,287 lbs
+P000555,Oxygen Saturation,94%
+P000555,Diagnosis,Osteoarthritis
+P000555,Prescription,Aspirin 81mg once daily
+P000556,Oxygen Saturation,96%
+P000556,Oxygen Saturation,91%
+P000556,Diagnosis,Depression
+P000556,HbA1c,10.5%
+P000556,Total Cholesterol,268 mg/dL
+P000557,Oxygen Saturation,90%
+P000557,Temperature,99.1°F
+P000557,Temperature,100.2°F
+P000557,Diagnosis,Osteoarthritis
+P000557,Prescription,Lisinopril 10mg once daily
+P000558,Temperature,97.1°F
+P000558,Blood Pressure,159/108 mmHg
+P000558,Diagnosis,Osteoarthritis
+P000558,Prescription,Atorvastatin 20mg at bedtime
+P000558,Prescription,Levothyroxine 50mcg once daily
+P000559,Weight,151 lbs
+P000559,Weight,214 lbs
+P000559,Weight,116 lbs
+P000559,Diagnosis,Hyperlipidemia
+P000559,Prescription,Lisinopril 10mg once daily
+P000560,Blood Pressure,166/81 mmHg
+P000560,Weight,240 lbs
+P000560,Heart Rate,84 bpm
+P000560,Diagnosis,Type 2 Diabetes Mellitus
+P000560,Prescription,Aspirin 81mg once daily
+P000561,Heart Rate,97 bpm
+P000561,Oxygen Saturation,96%
+P000561,Diagnosis,Type 2 Diabetes Mellitus
+P000561,Prescription,Metformin 500mg twice daily
+P000561,Prescription,Aspirin 81mg once daily
+P000562,Blood Pressure,150/97 mmHg
+P000562,Blood Pressure,174/66 mmHg
+P000562,Blood Pressure,149/77 mmHg
+P000562,Diagnosis,Coronary Artery Disease
+P000562,Prescription,Levothyroxine 50mcg once daily
+P000563,Weight,292 lbs
+P000563,Blood Pressure,151/100 mmHg
+P000563,Blood Pressure,103/104 mmHg
+P000563,Diagnosis,Hyperlipidemia
+P000563,Prescription,Atorvastatin 20mg at bedtime
+P000564,Blood Pressure,153/69 mmHg
+P000564,Temperature,100.3°F
+P000564,Diagnosis,Type 2 Diabetes Mellitus
+P000564,Prescription,Lisinopril 10mg once daily
+P000564,Prescription,Omeprazole 20mg once daily
+P000565,Oxygen Saturation,93%
+P000565,Oxygen Saturation,90%
+P000565,Temperature,97.6°F
+P000565,Diagnosis,Hypertension Stage 2
+P000565,Creatinine,1.74 mg/dL
+P000566,Blood Pressure,156/105 mmHg
+P000566,Oxygen Saturation,90%
+P000566,Temperature,101.0°F
+P000566,Oxygen Saturation,100%
+P000566,Weight,177 lbs
+P000567,Oxygen Saturation,97%
+P000567,Weight,251 lbs
+P000567,Weight,289 lbs
+P000567,Blood Pressure,177/72 mmHg
+P000567,Blood Pressure,172/89 mmHg
+P000568,Oxygen Saturation,99%
+P000568,Temperature,97.5°F
+P000568,Blood Pressure,137/87 mmHg
+P000568,Prescription,Omeprazole 20mg once daily
+P000568,Prescription,Levothyroxine 50mcg once daily
+P000569,Blood Pressure,168/87 mmHg
+P000569,Temperature,100.6°F
+P000569,Weight,166 lbs
+P000569,Heart Rate,86 bpm
+P000569,Diagnosis,Type 2 Diabetes Mellitus
+P000570,Weight,288 lbs
+P000570,Weight,253 lbs
+P000570,Heart Rate,97 bpm
+P000570,Oxygen Saturation,93%
+P000570,Diagnosis,Chronic Kidney Disease Stage 3
+P000571,Oxygen Saturation,92%
+P000571,Temperature,101.7°F
+P000571,Diagnosis,Coronary Artery Disease
+P000571,Prescription,Lisinopril 10mg once daily
+P000571,Prescription,Omeprazole 20mg once daily
+P000572,Oxygen Saturation,100%
+P000572,Weight,155 lbs
+P000572,Blood Pressure,115/64 mmHg
+P000572,Temperature,97.2°F
+P000572,Prescription,Aspirin 81mg once daily
+P000573,Weight,277 lbs
+P000573,Blood Pressure,179/68 mmHg
+P000573,Temperature,98.0°F
+P000573,Temperature,99.7°F
+P000573,Prescription,Omeprazole 20mg once daily
+P000574,Heart Rate,82 bpm
+P000574,Heart Rate,103 bpm
+P000574,Oxygen Saturation,96%
+P000574,Blood Pressure,158/88 mmHg
+P000574,Prescription,Metformin 500mg twice daily
+P000575,Oxygen Saturation,95%
+P000575,Temperature,99.8°F
+P000575,Blood Pressure,107/85 mmHg
+P000575,Diagnosis,COPD
+P000575,Prescription,Levothyroxine 50mcg once daily
+P000576,Blood Pressure,123/86 mmHg
+P000576,Blood Pressure,113/62 mmHg
+P000576,Blood Pressure,164/62 mmHg
+P000576,Weight,204 lbs
+P000576,Diagnosis,Chronic Kidney Disease Stage 3
+P000577,Oxygen Saturation,95%
+P000577,Heart Rate,74 bpm
+P000577,Diagnosis,COPD
+P000577,Total Cholesterol,213 mg/dL
+P000577,Creatinine,1.59 mg/dL
+P000578,Heart Rate,76 bpm
+P000578,Oxygen Saturation,95%
+P000578,Blood Pressure,123/105 mmHg
+P000578,Weight,237 lbs
+P000578,Prescription,Levothyroxine 50mcg once daily
+P000579,Weight,264 lbs
+P000579,Temperature,100.5°F
+P000579,Oxygen Saturation,94%
+P000579,Blood Pressure,97/95 mmHg
+P000579,Diagnosis,Depression
+P000580,Oxygen Saturation,91%
+P000580,Blood Pressure,108/110 mmHg
+P000580,Temperature,100.6°F
+P000580,Weight,269 lbs
+P000580,Blood Pressure,123/69 mmHg
+P000581,Weight,276 lbs
+P000581,Temperature,99.2°F
+P000581,Weight,110 lbs
+P000581,Blood Pressure,177/85 mmHg
+P000581,Weight,104 lbs
+P000582,Temperature,98.3°F
+P000582,Temperature,100.0°F
+P000582,Temperature,99.0°F
+P000582,Heart Rate,107 bpm
+P000582,Weight,251 lbs
+P000583,Weight,107 lbs
+P000583,Weight,189 lbs
+P000583,Heart Rate,108 bpm
+P000583,Heart Rate,97 bpm
+P000583,Diagnosis,COPD
+P000584,Blood Pressure,103/91 mmHg
+P000584,Temperature,97.4°F
+P000584,Temperature,97.2°F
+P000584,Temperature,97.2°F
+P000584,Oxygen Saturation,90%
+P000585,Temperature,98.9°F
+P000585,Temperature,98.1°F
+P000585,Weight,145 lbs
+P000585,Weight,119 lbs
+P000585,Diagnosis,Osteoarthritis
+P000586,Oxygen Saturation,98%
+P000586,Oxygen Saturation,91%
+P000586,Heart Rate,68 bpm
+P000586,Prescription,Metformin 500mg twice daily
+P000586,Prescription,Aspirin 81mg once daily
+P000587,Oxygen Saturation,97%
+P000587,Heart Rate,99 bpm
+P000587,Blood Pressure,162/85 mmHg
+P000587,Blood Pressure,122/80 mmHg
+P000587,HbA1c,5.5%
+P000588,Temperature,98.4°F
+P000588,Weight,267 lbs
+P000588,Heart Rate,99 bpm
+P000588,Heart Rate,72 bpm
+P000588,Heart Rate,66 bpm
+P000589,Heart Rate,99 bpm
+P000589,Blood Pressure,151/116 mmHg
+P000589,Diagnosis,Asthma
+P000589,Prescription,Levothyroxine 50mcg once daily
+P000589,Creatinine,1.65 mg/dL
+P000590,Heart Rate,83 bpm
+P000590,Oxygen Saturation,97%
+P000590,Diagnosis,Coronary Artery Disease
+P000590,Total Cholesterol,262 mg/dL
+P000590,Total Cholesterol,260 mg/dL
+P000591,Blood Pressure,97/70 mmHg
+P000591,Weight,222 lbs
+P000591,Diagnosis,Hypertension Stage 2
+P000591,Prescription,Omeprazole 20mg once daily
+P000591,Prescription,Omeprazole 20mg once daily
+P000592,Weight,189 lbs
+P000592,Heart Rate,90 bpm
+P000592,Diagnosis,Hypertension Stage 1
+P000592,Prescription,Lisinopril 10mg once daily
+P000592,Prescription,Lisinopril 10mg once daily
+P000593,Heart Rate,110 bpm
+P000593,Heart Rate,81 bpm
+P000593,Diagnosis,Asthma
+P000593,Fasting Blood Glucose,207 mg/dL
+P000594,Blood Pressure,147/63 mmHg
+P000594,Temperature,100.0°F
+P000594,Blood Pressure,125/74 mmHg
+P000594,Heart Rate,84 bpm
+P000594,Diagnosis,Osteoarthritis
+P000595,Temperature,100.5°F
+P000595,Blood Pressure,119/103 mmHg
+P000595,Diagnosis,Hypertension Stage 2
+P000595,HbA1c,5.4%
+P000596,Temperature,98.9°F
+P000596,Oxygen Saturation,99%
+P000596,Diagnosis,Chronic Kidney Disease Stage 3
+P000596,Total Cholesterol,265 mg/dL
+P000596,Total Cholesterol,223 mg/dL
+P000597,Oxygen Saturation,96%
+P000597,Oxygen Saturation,92%
+P000597,Oxygen Saturation,98%
+P000597,Oxygen Saturation,96%
+P000597,Weight,238 lbs
+P000598,Blood Pressure,114/106 mmHg
+P000598,Weight,116 lbs
+P000598,Temperature,98.3°F
+P000598,Diagnosis,Depression
+P000598,Prescription,Omeprazole 20mg once daily
+P000599,Blood Pressure,132/66 mmHg
+P000599,Blood Pressure,124/102 mmHg
+P000599,Weight,145 lbs
+P000599,Heart Rate,61 bpm
+P000599,Diagnosis,Hypertension Stage 2
+P000600,Temperature,99.6°F
+P000600,Temperature,97.6°F
+P000600,Diagnosis,Hyperlipidemia
+P000600,Prescription,Metformin 500mg twice daily
+P000600,Fasting Blood Glucose,81 mg/dL
+P000601,Temperature,97.4°F
+P000601,Blood Pressure,110/120 mmHg
+P000601,Heart Rate,86 bpm
+P000601,Oxygen Saturation,93%
+P000601,Diagnosis,Coronary Artery Disease
+P000602,Temperature,97.8°F
+P000602,Heart Rate,54 bpm
+P000602,Blood Pressure,163/61 mmHg
+P000602,Oxygen Saturation,90%
+P000602,Oxygen Saturation,92%
+P000603,Heart Rate,78 bpm
+P000603,Blood Pressure,134/119 mmHg
+P000603,Diagnosis,COPD
+P000603,Prescription,Metformin 500mg twice daily
+P000603,Creatinine,0.87 mg/dL
+P000604,Weight,258 lbs
+P000604,Temperature,99.6°F
+P000604,Blood Pressure,179/120 mmHg
+P000604,Weight,275 lbs
+P000604,Diagnosis,Type 2 Diabetes Mellitus
+P000605,Temperature,98.8°F
+P000605,Heart Rate,91 bpm
+P000605,Diagnosis,COPD
+P000605,Creatinine,2.45 mg/dL
+P000606,Blood Pressure,160/114 mmHg
+P000606,Weight,121 lbs
+P000606,Blood Pressure,124/88 mmHg
+P000606,Oxygen Saturation,93%
+P000606,Heart Rate,119 bpm
+P000607,Oxygen Saturation,100%
+P000607,Oxygen Saturation,100%
+P000607,Prescription,Metformin 500mg twice daily
+P000607,Prescription,Lisinopril 10mg once daily
+P000607,Creatinine,2.40 mg/dL
+P000608,Heart Rate,119 bpm
+P000608,Temperature,100.6°F
+P000608,Blood Pressure,142/73 mmHg
+P000608,Temperature,98.9°F
+P000608,Diagnosis,Coronary Artery Disease
+P000609,Weight,241 lbs
+P000609,Temperature,99.0°F
+P000609,Blood Pressure,174/81 mmHg
+P000609,Blood Pressure,107/77 mmHg
+P000609,Diagnosis,Osteoarthritis
+P000610,Heart Rate,92 bpm
+P000610,Weight,212 lbs
+P000610,Oxygen Saturation,99%
+P000610,Diagnosis,Hypertension Stage 1
+P000610,Prescription,Atorvastatin 20mg at bedtime
+P000611,Heart Rate,118 bpm
+P000611,Weight,185 lbs
+P000611,Heart Rate,90 bpm
+P000611,Oxygen Saturation,92%
+P000611,Temperature,99.1°F
+P000612,Weight,140 lbs
+P000612,Blood Pressure,164/87 mmHg
+P000612,Temperature,97.6°F
+P000612,Heart Rate,70 bpm
+P000612,Diagnosis,Asthma
+P000613,Oxygen Saturation,100%
+P000613,Weight,110 lbs
+P000613,Heart Rate,115 bpm
+P000613,Heart Rate,74 bpm
+P000613,Heart Rate,78 bpm
+P000614,Weight,254 lbs
+P000614,Blood Pressure,163/68 mmHg
+P000614,Blood Pressure,133/61 mmHg
+P000614,Heart Rate,72 bpm
+P000614,Diagnosis,Type 2 Diabetes Mellitus
+P000615,Heart Rate,70 bpm
+P000615,Weight,237 lbs
+P000615,Blood Pressure,102/109 mmHg
+P000615,Heart Rate,110 bpm
+P000615,Diagnosis,Hypertension Stage 1
+P000616,Oxygen Saturation,97%
+P000616,Blood Pressure,92/63 mmHg
+P000616,Weight,188 lbs
+P000616,Diagnosis,Type 2 Diabetes Mellitus
+P000616,Prescription,Aspirin 81mg once daily
+P000617,Weight,241 lbs
+P000617,Temperature,98.9°F
+P000617,Diagnosis,Hypertension Stage 1
+P000617,Prescription,Lisinopril 10mg once daily
+P000617,Prescription,Omeprazole 20mg once daily
+P000618,Oxygen Saturation,99%
+P000618,Oxygen Saturation,90%
+P000618,Blood Pressure,128/119 mmHg
+P000618,Temperature,98.7°F
+P000618,Oxygen Saturation,99%
+P000619,Temperature,99.4°F
+P000619,Heart Rate,100 bpm
+P000619,Diagnosis,COPD
+P000619,Prescription,Metformin 500mg twice daily
+P000619,Prescription,Levothyroxine 50mcg once daily
+P000620,Blood Pressure,115/71 mmHg
+P000620,Weight,103 lbs
+P000620,Diagnosis,Hypertension Stage 2
+P000620,Prescription,Lisinopril 10mg once daily
+P000620,Prescription,Omeprazole 20mg once daily
+P000621,Oxygen Saturation,100%
+P000621,Heart Rate,88 bpm
+P000621,Oxygen Saturation,99%
+P000621,Temperature,102.0°F
+P000621,Oxygen Saturation,91%
+P000622,Temperature,99.1°F
+P000622,Oxygen Saturation,97%
+P000622,Blood Pressure,132/96 mmHg
+P000622,Weight,220 lbs
+P000622,HbA1c,8.2%
+P000623,Temperature,101.4°F
+P000623,Weight,274 lbs
+P000623,Blood Pressure,114/88 mmHg
+P000623,Oxygen Saturation,95%
+P000623,Heart Rate,108 bpm
+P000624,Heart Rate,89 bpm
+P000624,Temperature,101.7°F
+P000624,Diagnosis,Chronic Kidney Disease Stage 3
+P000624,Creatinine,2.36 mg/dL
+P000625,Blood Pressure,160/98 mmHg
+P000625,Oxygen Saturation,93%
+P000625,Oxygen Saturation,90%
+P000625,HbA1c,10.6%
+P000625,Creatinine,1.92 mg/dL
+P000626,Weight,174 lbs
+P000626,Oxygen Saturation,97%
+P000626,Oxygen Saturation,90%
+P000626,Oxygen Saturation,90%
+P000626,Prescription,Omeprazole 20mg once daily
+P000627,Blood Pressure,148/104 mmHg
+P000627,Oxygen Saturation,90%
+P000627,Oxygen Saturation,95%
+P000627,Weight,297 lbs
+P000627,Temperature,99.0°F
+P000628,Weight,241 lbs
+P000628,Blood Pressure,130/61 mmHg
+P000628,Weight,125 lbs
+P000628,Diagnosis,Hyperlipidemia
+P000628,Prescription,Omeprazole 20mg once daily
+P000629,Heart Rate,101 bpm
+P000629,Heart Rate,74 bpm
+P000629,Heart Rate,50 bpm
+P000629,Weight,113 lbs
+P000629,Diagnosis,Depression
+P000630,Heart Rate,67 bpm
+P000630,Blood Pressure,169/104 mmHg
+P000630,Oxygen Saturation,97%
+P000630,Heart Rate,67 bpm
+P000630,Heart Rate,103 bpm
+P000631,Temperature,101.7°F
+P000631,Heart Rate,61 bpm
+P000631,Temperature,97.8°F
+P000631,Temperature,98.3°F
+P000631,Weight,189 lbs
+P000632,Heart Rate,105 bpm
+P000632,Oxygen Saturation,93%
+P000632,Weight,146 lbs
+P000632,Diagnosis,Type 2 Diabetes Mellitus
+P000632,Prescription,Aspirin 81mg once daily
+P000633,Heart Rate,118 bpm
+P000633,Temperature,98.2°F
+P000633,Weight,287 lbs
+P000633,Prescription,Levothyroxine 50mcg once daily
+P000633,Prescription,Lisinopril 10mg once daily
+P000634,Temperature,98.5°F
+P000634,Blood Pressure,159/89 mmHg
+P000634,Oxygen Saturation,98%
+P000634,Blood Pressure,95/109 mmHg
+P000634,Prescription,Metformin 500mg twice daily
+P000635,Blood Pressure,116/61 mmHg
+P000635,Temperature,100.9°F
+P000635,Weight,223 lbs
+P000635,Temperature,100.6°F
+P000635,Blood Pressure,96/103 mmHg
+P000636,Oxygen Saturation,93%
+P000636,Weight,163 lbs
+P000636,Diagnosis,Hyperlipidemia
+P000636,Prescription,Metformin 500mg twice daily
+P000636,Prescription,Levothyroxine 50mcg once daily
+P000637,Blood Pressure,108/89 mmHg
+P000637,Temperature,99.2°F
+P000637,Diagnosis,Hypertension Stage 2
+P000637,Prescription,Levothyroxine 50mcg once daily
+P000637,Creatinine,1.78 mg/dL
+P000638,Temperature,97.5°F
+P000638,Heart Rate,119 bpm
+P000638,Prescription,Lisinopril 10mg once daily
+P000638,Prescription,Omeprazole 20mg once daily
+P000638,Prescription,Omeprazole 20mg once daily
+P000639,Weight,115 lbs
+P000639,Temperature,101.8°F
+P000639,Heart Rate,82 bpm
+P000639,Heart Rate,65 bpm
+P000639,Weight,124 lbs
+P000640,Oxygen Saturation,91%
+P000640,Heart Rate,57 bpm
+P000640,Prescription,Levothyroxine 50mcg once daily
+P000640,Fasting Blood Glucose,218 mg/dL
+P000641,Weight,162 lbs
+P000641,Blood Pressure,162/98 mmHg
+P000641,Diagnosis,Chronic Kidney Disease Stage 3
+P000641,Prescription,Lisinopril 10mg once daily
+P000641,Prescription,Atorvastatin 20mg at bedtime
+P000642,Blood Pressure,159/119 mmHg
+P000642,Blood Pressure,167/117 mmHg
+P000642,Blood Pressure,113/102 mmHg
+P000642,Temperature,101.0°F
+P000642,Prescription,Lisinopril 10mg once daily
+P000643,Oxygen Saturation,91%
+P000643,Weight,158 lbs
+P000643,Heart Rate,112 bpm
+P000643,Diagnosis,Depression
+P000643,Creatinine,2.43 mg/dL
+P000644,Temperature,98.3°F
+P000644,Weight,153 lbs
+P000644,Weight,106 lbs
+P000644,Diagnosis,Osteoarthritis
+P000644,Prescription,Aspirin 81mg once daily
+P000645,Heart Rate,88 bpm
+P000645,Weight,279 lbs
+P000645,Diagnosis,Asthma
+P000645,Prescription,Lisinopril 10mg once daily
+P000645,Prescription,Omeprazole 20mg once daily
+P000646,Heart Rate,107 bpm
+P000646,Temperature,98.6°F
+P000646,Diagnosis,Depression
+P000646,Prescription,Lisinopril 10mg once daily
+P000646,Prescription,Aspirin 81mg once daily
+P000647,Blood Pressure,96/64 mmHg
+P000647,Heart Rate,80 bpm
+P000647,Diagnosis,Chronic Kidney Disease Stage 3
+P000647,Total Cholesterol,250 mg/dL
+P000647,Total Cholesterol,183 mg/dL
+P000648,Heart Rate,83 bpm
+P000648,Oxygen Saturation,93%
+P000648,Heart Rate,115 bpm
+P000648,Weight,203 lbs
+P000648,Diagnosis,Osteoarthritis
+P000649,Weight,257 lbs
+P000649,Blood Pressure,132/99 mmHg
+P000649,Weight,168 lbs
+P000649,Blood Pressure,104/120 mmHg
+P000649,Diagnosis,Hyperlipidemia
+P000650,Heart Rate,90 bpm
+P000650,Blood Pressure,108/103 mmHg
+P000650,Blood Pressure,111/83 mmHg
+P000650,Creatinine,0.95 mg/dL
+P000650,Fasting Blood Glucose,209 mg/dL
+P000651,Heart Rate,82 bpm
+P000651,Temperature,98.5°F
+P000651,Weight,223 lbs
+P000651,Oxygen Saturation,100%
+P000651,Diagnosis,Hyperlipidemia
+P000652,Heart Rate,60 bpm
+P000652,Heart Rate,61 bpm
+P000652,Oxygen Saturation,90%
+P000652,Blood Pressure,130/95 mmHg
+P000652,Diagnosis,Hyperlipidemia
+P000653,Heart Rate,93 bpm
+P000653,Temperature,100.5°F
+P000653,Diagnosis,Asthma
+P000653,Prescription,Levothyroxine 50mcg once daily
+P000653,Prescription,Omeprazole 20mg once daily
+P000654,Weight,177 lbs
+P000654,Temperature,101.1°F
+P000654,Diagnosis,Asthma
+P000654,Prescription,Aspirin 81mg once daily
+P000654,Creatinine,0.61 mg/dL
+P000655,Weight,129 lbs
+P000655,Temperature,97.8°F
+P000655,Heart Rate,74 bpm
+P000655,Blood Pressure,129/112 mmHg
+P000655,Blood Pressure,153/97 mmHg
+P000656,Heart Rate,62 bpm
+P000656,Temperature,97.9°F
+P000656,Diagnosis,Chronic Kidney Disease Stage 3
+P000656,Prescription,Omeprazole 20mg once daily
+P000656,Prescription,Atorvastatin 20mg at bedtime
+P000657,Heart Rate,54 bpm
+P000657,Blood Pressure,93/106 mmHg
+P000657,Temperature,98.6°F
+P000657,Weight,143 lbs
+P000657,Weight,120 lbs
+P000658,Oxygen Saturation,90%
+P000658,Temperature,101.3°F
+P000658,Blood Pressure,122/108 mmHg
+P000658,Weight,162 lbs
+P000658,Oxygen Saturation,95%
+P000659,Heart Rate,60 bpm
+P000659,Heart Rate,76 bpm
+P000659,Prescription,Metformin 500mg twice daily
+P000659,HbA1c,9.2%
+P000659,Fasting Blood Glucose,131 mg/dL
+P000660,Weight,153 lbs
+P000660,Weight,207 lbs
+P000660,Heart Rate,51 bpm
+P000660,Temperature,102.0°F
+P000660,Diagnosis,Osteoarthritis
+P000661,Blood Pressure,142/82 mmHg
+P000661,Temperature,101.2°F
+P000661,Oxygen Saturation,98%
+P000661,Temperature,99.4°F
+P000661,Prescription,Omeprazole 20mg once daily
+P000662,Temperature,99.6°F
+P000662,Heart Rate,69 bpm
+P000662,Weight,159 lbs
+P000662,Diagnosis,Hypertension Stage 2
+P000662,Creatinine,1.94 mg/dL
+P000663,Temperature,98.1°F
+P000663,Temperature,101.9°F
+P000663,Blood Pressure,153/98 mmHg
+P000663,Oxygen Saturation,96%
+P000663,Temperature,100.6°F
+P000664,Blood Pressure,96/114 mmHg
+P000664,Blood Pressure,138/79 mmHg
+P000664,Heart Rate,116 bpm
+P000664,Weight,177 lbs
+P000664,Oxygen Saturation,94%
+P000665,Temperature,97.7°F
+P000665,Heart Rate,67 bpm
+P000665,Temperature,100.1°F
+P000665,Prescription,Aspirin 81mg once daily
+P000665,Total Cholesterol,187 mg/dL
+P000666,Heart Rate,107 bpm
+P000666,Weight,279 lbs
+P000666,Heart Rate,55 bpm
+P000666,Diagnosis,COPD
+P000666,HbA1c,8.5%
+P000667,Weight,280 lbs
+P000667,Oxygen Saturation,97%
+P000667,Temperature,101.6°F
+P000667,Weight,244 lbs
+P000667,Diagnosis,Type 2 Diabetes Mellitus
+P000668,Heart Rate,108 bpm
+P000668,Temperature,99.4°F
+P000668,Oxygen Saturation,98%
+P000668,Diagnosis,COPD
+P000668,Total Cholesterol,262 mg/dL
+P000669,Temperature,101.4°F
+P000669,Temperature,100.3°F
+P000669,Temperature,101.1°F
+P000669,Blood Pressure,149/71 mmHg
+P000669,Diagnosis,Asthma
+P000670,Weight,141 lbs
+P000670,Blood Pressure,168/91 mmHg
+P000670,Blood Pressure,110/101 mmHg
+P000670,Heart Rate,55 bpm
+P000670,Weight,247 lbs
+P000671,Temperature,99.7°F
+P000671,Blood Pressure,115/112 mmHg
+P000671,Weight,176 lbs
+P000671,Heart Rate,84 bpm
+P000671,Blood Pressure,102/81 mmHg
+P000672,Oxygen Saturation,96%
+P000672,Blood Pressure,162/78 mmHg
+P000672,Blood Pressure,113/82 mmHg
+P000672,Heart Rate,120 bpm
+P000672,Temperature,98.4°F
+P000673,Heart Rate,111 bpm
+P000673,Weight,164 lbs
+P000673,Prescription,Lisinopril 10mg once daily
+P000673,Prescription,Atorvastatin 20mg at bedtime
+P000673,Prescription,Levothyroxine 50mcg once daily
+P000674,Weight,102 lbs
+P000674,Temperature,98.3°F
+P000674,Temperature,100.6°F
+P000674,Weight,208 lbs
+P000674,Weight,264 lbs
+P000675,Blood Pressure,98/77 mmHg
+P000675,Heart Rate,116 bpm
+P000675,Oxygen Saturation,96%
+P000675,Prescription,Lisinopril 10mg once daily
+P000675,Prescription,Levothyroxine 50mcg once daily
+P000676,Temperature,98.2°F
+P000676,Temperature,99.4°F
+P000676,Heart Rate,50 bpm
+P000676,Diagnosis,Coronary Artery Disease
+P000676,Prescription,Levothyroxine 50mcg once daily
+P000677,Weight,204 lbs
+P000677,Weight,223 lbs
+P000677,Oxygen Saturation,93%
+P000677,Blood Pressure,106/87 mmHg
+P000677,Prescription,Lisinopril 10mg once daily
+P000678,Oxygen Saturation,90%
+P000678,Heart Rate,65 bpm
+P000678,Prescription,Metformin 500mg twice daily
+P000678,Prescription,Lisinopril 10mg once daily
+P000678,Total Cholesterol,194 mg/dL
+P000679,Temperature,98.9°F
+P000679,Heart Rate,102 bpm
+P000679,Creatinine,1.87 mg/dL
+P000679,Creatinine,1.25 mg/dL
+P000679,Fasting Blood Glucose,79 mg/dL
+P000680,Weight,237 lbs
+P000680,Weight,132 lbs
+P000680,Weight,270 lbs
+P000680,Diagnosis,Hyperlipidemia
+P000680,Prescription,Omeprazole 20mg once daily
+P000681,Blood Pressure,105/120 mmHg
+P000681,Heart Rate,106 bpm
+P000681,Weight,226 lbs
+P000681,Diagnosis,Hypertension Stage 1
+P000681,Prescription,Omeprazole 20mg once daily
+P000682,Temperature,100.3°F
+P000682,Oxygen Saturation,98%
+P000682,Heart Rate,67 bpm
+P000682,Weight,251 lbs
+P000682,Diagnosis,Hyperlipidemia
+P000683,Temperature,99.0°F
+P000683,Heart Rate,92 bpm
+P000683,Diagnosis,Hypertension Stage 2
+P000683,Total Cholesterol,162 mg/dL
+P000683,Fasting Blood Glucose,199 mg/dL
+P000684,Temperature,100.1°F
+P000684,Oxygen Saturation,97%
+P000684,Weight,149 lbs
+P000684,Weight,210 lbs
+P000684,Heart Rate,108 bpm
+P000685,Temperature,99.4°F
+P000685,Heart Rate,91 bpm
+P000685,Oxygen Saturation,94%
+P000685,Heart Rate,115 bpm
+P000685,Diagnosis,Osteoarthritis
+P000686,Blood Pressure,160/69 mmHg
+P000686,Temperature,97.4°F
+P000686,Oxygen Saturation,91%
+P000686,Blood Pressure,150/78 mmHg
+P000686,Prescription,Atorvastatin 20mg at bedtime
+P000687,Blood Pressure,154/107 mmHg
+P000687,Weight,143 lbs
+P000687,Blood Pressure,173/102 mmHg
+P000687,Blood Pressure,90/120 mmHg
+P000687,Temperature,99.9°F
+P000688,Temperature,97.6°F
+P000688,Weight,296 lbs
+P000688,Blood Pressure,159/89 mmHg
+P000688,Prescription,Omeprazole 20mg once daily
+P000688,Prescription,Metformin 500mg twice daily
+P000689,Oxygen Saturation,96%
+P000689,Oxygen Saturation,96%
+P000689,Weight,149 lbs
+P000689,Temperature,100.1°F
+P000689,Oxygen Saturation,91%
+P000690,Heart Rate,107 bpm
+P000690,Blood Pressure,169/96 mmHg
+P000690,Oxygen Saturation,90%
+P000690,Blood Pressure,90/68 mmHg
+P000690,Blood Pressure,176/95 mmHg
+P000691,Oxygen Saturation,98%
+P000691,Temperature,101.5°F
+P000691,Oxygen Saturation,93%
+P000691,Prescription,Atorvastatin 20mg at bedtime
+P000691,HbA1c,8.2%
+P000692,Temperature,101.7°F
+P000692,Blood Pressure,163/113 mmHg
+P000692,Heart Rate,100 bpm
+P000692,Weight,231 lbs
+P000692,Prescription,Aspirin 81mg once daily
+P000693,Heart Rate,113 bpm
+P000693,Temperature,98.4°F
+P000693,Heart Rate,94 bpm
+P000693,Diagnosis,Coronary Artery Disease
+P000693,Prescription,Lisinopril 10mg once daily
+P000694,Blood Pressure,133/97 mmHg
+P000694,Oxygen Saturation,91%
+P000694,Temperature,101.9°F
+P000694,Diagnosis,COPD
+P000694,Prescription,Metformin 500mg twice daily
+P000695,Temperature,98.6°F
+P000695,Blood Pressure,133/60 mmHg
+P000695,Weight,142 lbs
+P000695,Weight,250 lbs
+P000695,Diagnosis,Coronary Artery Disease
+P000696,Heart Rate,88 bpm
+P000696,Oxygen Saturation,100%
+P000696,Prescription,Atorvastatin 20mg at bedtime
+P000696,Prescription,Atorvastatin 20mg at bedtime
+P000696,Prescription,Atorvastatin 20mg at bedtime
+P000697,Weight,210 lbs
+P000697,Heart Rate,62 bpm
+P000697,Oxygen Saturation,99%
+P000697,Blood Pressure,150/105 mmHg
+P000697,Diagnosis,Osteoarthritis
+P000698,Blood Pressure,104/107 mmHg
+P000698,Heart Rate,92 bpm
+P000698,Diagnosis,Chronic Kidney Disease Stage 3
+P000698,Prescription,Metformin 500mg twice daily
+P000698,Prescription,Lisinopril 10mg once daily
+P000699,Heart Rate,119 bpm
+P000699,Weight,227 lbs
+P000699,Weight,234 lbs
+P000699,Oxygen Saturation,92%
+P000699,Diagnosis,COPD
+P000700,Heart Rate,66 bpm
+P000700,Blood Pressure,151/102 mmHg
+P000700,Oxygen Saturation,92%
+P000700,Blood Pressure,108/106 mmHg
+P000700,Diagnosis,COPD
+P000701,Oxygen Saturation,93%
+P000701,Blood Pressure,170/109 mmHg
+P000701,Blood Pressure,149/64 mmHg
+P000701,Oxygen Saturation,94%
+P000701,Oxygen Saturation,95%
+P000702,Oxygen Saturation,97%
+P000702,Oxygen Saturation,93%
+P000702,Weight,142 lbs
+P000702,Oxygen Saturation,99%
+P000702,Temperature,98.8°F
+P000703,Blood Pressure,119/70 mmHg
+P000703,Weight,244 lbs
+P000703,Weight,256 lbs
+P000703,Prescription,Aspirin 81mg once daily
+P000703,Prescription,Lisinopril 10mg once daily
+P000704,Oxygen Saturation,96%
+P000704,Weight,222 lbs
+P000704,Diagnosis,Hypertension Stage 2
+P000704,Prescription,Levothyroxine 50mcg once daily
+P000704,Prescription,Aspirin 81mg once daily
+P000705,Blood Pressure,149/113 mmHg
+P000705,Blood Pressure,121/75 mmHg
+P000705,Diagnosis,Hyperlipidemia
+P000705,Prescription,Metformin 500mg twice daily
+P000705,HbA1c,11.3%
+P000706,Weight,204 lbs
+P000706,Weight,124 lbs
+P000706,Oxygen Saturation,96%
+P000706,Diagnosis,Chronic Kidney Disease Stage 3
+P000706,HbA1c,7.3%
+P000707,Oxygen Saturation,94%
+P000707,Blood Pressure,174/85 mmHg
+P000707,Weight,253 lbs
+P000707,Weight,135 lbs
+P000707,Oxygen Saturation,93%
+P000708,Oxygen Saturation,97%
+P000708,Temperature,99.1°F
+P000708,Heart Rate,66 bpm
+P000708,Prescription,Levothyroxine 50mcg once daily
+P000708,Prescription,Levothyroxine 50mcg once daily
+P000709,Weight,209 lbs
+P000709,Heart Rate,116 bpm
+P000709,Diagnosis,Asthma
+P000709,Prescription,Atorvastatin 20mg at bedtime
+P000709,Prescription,Lisinopril 10mg once daily
+P000710,Blood Pressure,116/67 mmHg
+P000710,Heart Rate,112 bpm
+P000710,Temperature,100.1°F
+P000710,Diagnosis,Depression
+P000710,Prescription,Metformin 500mg twice daily
+P000711,Temperature,97.9°F
+P000711,Temperature,99.2°F
+P000711,Oxygen Saturation,97%
+P000711,Diagnosis,Depression
+P000711,Prescription,Aspirin 81mg once daily
+P000712,Oxygen Saturation,91%
+P000712,Temperature,99.0°F
+P000712,Weight,213 lbs
+P000712,Diagnosis,Osteoarthritis
+P000712,Prescription,Omeprazole 20mg once daily
+P000713,Weight,282 lbs
+P000713,Heart Rate,60 bpm
+P000713,Oxygen Saturation,92%
+P000713,Blood Pressure,122/79 mmHg
+P000713,Diagnosis,Coronary Artery Disease
+P000714,Heart Rate,54 bpm
+P000714,Temperature,101.5°F
+P000714,Diagnosis,Type 2 Diabetes Mellitus
+P000714,Prescription,Omeprazole 20mg once daily
+P000714,Prescription,Atorvastatin 20mg at bedtime
+P000715,Weight,136 lbs
+P000715,Temperature,100.6°F
+P000715,Diagnosis,Coronary Artery Disease
+P000715,Prescription,Levothyroxine 50mcg once daily
+P000715,Prescription,Omeprazole 20mg once daily
+P000716,Blood Pressure,135/74 mmHg
+P000716,Blood Pressure,105/86 mmHg
+P000716,Temperature,98.6°F
+P000716,Diagnosis,Asthma
+P000716,Fasting Blood Glucose,127 mg/dL
+P000717,Blood Pressure,145/88 mmHg
+P000717,Heart Rate,118 bpm
+P000717,Temperature,100.3°F
+P000717,Oxygen Saturation,96%
+P000717,Oxygen Saturation,96%
+P000718,Temperature,101.8°F
+P000718,Weight,287 lbs
+P000718,Weight,111 lbs
+P000718,Diagnosis,Coronary Artery Disease
+P000718,Prescription,Levothyroxine 50mcg once daily
+P000719,Oxygen Saturation,90%
+P000719,Blood Pressure,105/77 mmHg
+P000719,Diagnosis,Depression
+P000719,Fasting Blood Glucose,207 mg/dL
+P000719,Creatinine,0.73 mg/dL
+P000720,Heart Rate,75 bpm
+P000720,Oxygen Saturation,97%
+P000720,Heart Rate,112 bpm
+P000720,Weight,105 lbs
+P000720,Temperature,98.5°F
+P000721,Blood Pressure,150/113 mmHg
+P000721,Weight,116 lbs
+P000721,Oxygen Saturation,93%
+P000721,Blood Pressure,99/76 mmHg
+P000721,Temperature,100.3°F
+P000722,Blood Pressure,92/99 mmHg
+P000722,Weight,180 lbs
+P000722,Diagnosis,Chronic Kidney Disease Stage 3
+P000722,Prescription,Levothyroxine 50mcg once daily
+P000722,Prescription,Atorvastatin 20mg at bedtime
+P000723,Temperature,98.2°F
+P000723,Oxygen Saturation,97%
+P000723,Diagnosis,Hypertension Stage 2
+P000723,Prescription,Omeprazole 20mg once daily
+P000723,Prescription,Metformin 500mg twice daily
+P000724,Weight,152 lbs
+P000724,Heart Rate,74 bpm
+P000724,Diagnosis,Asthma
+P000724,Prescription,Lisinopril 10mg once daily
+P000724,Prescription,Levothyroxine 50mcg once daily
+P000725,Heart Rate,100 bpm
+P000725,Oxygen Saturation,90%
+P000725,Heart Rate,58 bpm
+P000725,Diagnosis,Depression
+P000725,Prescription,Omeprazole 20mg once daily
+P000726,Blood Pressure,117/91 mmHg
+P000726,Heart Rate,71 bpm
+P000726,Weight,224 lbs
+P000726,Diagnosis,Hyperlipidemia
+P000726,Prescription,Metformin 500mg twice daily
+P000727,Oxygen Saturation,94%
+P000727,Oxygen Saturation,99%
+P000727,Oxygen Saturation,92%
+P000727,Diagnosis,Coronary Artery Disease
+P000727,Creatinine,2.43 mg/dL
+P000728,Oxygen Saturation,96%
+P000728,Blood Pressure,180/115 mmHg
+P000728,Temperature,98.5°F
+P000728,Blood Pressure,158/62 mmHg
+P000728,Blood Pressure,95/89 mmHg
+P000729,Heart Rate,76 bpm
+P000729,Heart Rate,115 bpm
+P000729,Heart Rate,62 bpm
+P000729,Temperature,101.0°F
+P000729,Diagnosis,Hypertension Stage 1
+P000730,Oxygen Saturation,94%
+P000730,Blood Pressure,164/64 mmHg
+P000730,Heart Rate,53 bpm
+P000730,Prescription,Metformin 500mg twice daily
+P000730,HbA1c,10.2%
+P000731,Heart Rate,88 bpm
+P000731,Weight,292 lbs
+P000731,Temperature,101.1°F
+P000731,Oxygen Saturation,91%
+P000731,Diagnosis,Depression
+P000732,Oxygen Saturation,100%
+P000732,Temperature,97.2°F
+P000732,Oxygen Saturation,91%
+P000732,Prescription,Metformin 500mg twice daily
+P000732,Prescription,Omeprazole 20mg once daily
+P000733,Oxygen Saturation,94%
+P000733,Temperature,101.8°F
+P000733,Diagnosis,Type 2 Diabetes Mellitus
+P000733,Prescription,Lisinopril 10mg once daily
+P000733,Total Cholesterol,300 mg/dL
+P000734,Oxygen Saturation,90%
+P000734,Oxygen Saturation,95%
+P000734,Temperature,97.3°F
+P000734,Temperature,101.6°F
+P000734,Diagnosis,Depression
+P000735,Oxygen Saturation,96%
+P000735,Heart Rate,102 bpm
+P000735,Prescription,Omeprazole 20mg once daily
+P000735,Prescription,Atorvastatin 20mg at bedtime
+P000735,Creatinine,0.60 mg/dL
+P000736,Temperature,102.0°F
+P000736,Heart Rate,86 bpm
+P000736,Diagnosis,Asthma
+P000736,Fasting Blood Glucose,76 mg/dL
+P000736,Creatinine,1.94 mg/dL
+P000737,Weight,273 lbs
+P000737,Weight,264 lbs
+P000737,Prescription,Atorvastatin 20mg at bedtime
+P000737,Prescription,Omeprazole 20mg once daily
+P000737,HbA1c,8.0%
+P000738,Weight,233 lbs
+P000738,Oxygen Saturation,97%
+P000738,Blood Pressure,124/80 mmHg
+P000738,Temperature,99.7°F
+P000738,Temperature,99.6°F
+P000739,Heart Rate,109 bpm
+P000739,Temperature,101.2°F
+P000739,Weight,293 lbs
+P000739,Oxygen Saturation,98%
+P000739,Temperature,97.1°F
+P000740,Temperature,100.2°F
+P000740,Weight,223 lbs
+P000740,Heart Rate,51 bpm
+P000740,Temperature,98.9°F
+P000740,Weight,282 lbs
+P000741,Blood Pressure,168/88 mmHg
+P000741,Heart Rate,118 bpm
+P000741,Temperature,101.8°F
+P000741,Diagnosis,Hypertension Stage 2
+P000741,Prescription,Atorvastatin 20mg at bedtime
+P000742,Weight,110 lbs
+P000742,Temperature,98.6°F
+P000742,Oxygen Saturation,90%
+P000742,Weight,119 lbs
+P000742,Diagnosis,Hypertension Stage 1
+P000743,Heart Rate,70 bpm
+P000743,Heart Rate,51 bpm
+P000743,Weight,136 lbs
+P000743,Blood Pressure,168/113 mmHg
+P000743,Oxygen Saturation,98%
+P000744,Weight,199 lbs
+P000744,Weight,275 lbs
+P000744,Diagnosis,Osteoarthritis
+P000744,Prescription,Aspirin 81mg once daily
+P000744,Prescription,Lisinopril 10mg once daily
+P000745,Oxygen Saturation,100%
+P000745,Weight,102 lbs
+P000745,Heart Rate,96 bpm
+P000745,Prescription,Lisinopril 10mg once daily
+P000745,Fasting Blood Glucose,172 mg/dL
+P000746,Weight,120 lbs
+P000746,Temperature,99.8°F
+P000746,Blood Pressure,153/91 mmHg
+P000746,Temperature,101.0°F
+P000746,Heart Rate,72 bpm
+P000747,Oxygen Saturation,92%
+P000747,Oxygen Saturation,98%
+P000747,Weight,238 lbs
+P000747,Blood Pressure,129/84 mmHg
+P000747,Blood Pressure,96/93 mmHg
+P000748,Oxygen Saturation,95%
+P000748,Oxygen Saturation,99%
+P000748,Blood Pressure,99/93 mmHg
+P000748,Total Cholesterol,244 mg/dL
+P000748,Fasting Blood Glucose,199 mg/dL
+P000749,Blood Pressure,132/110 mmHg
+P000749,Oxygen Saturation,92%
+P000749,Heart Rate,76 bpm
+P000749,Blood Pressure,179/118 mmHg
+P000749,Blood Pressure,146/84 mmHg
+P000750,Heart Rate,103 bpm
+P000750,Oxygen Saturation,98%
+P000750,Fasting Blood Glucose,221 mg/dL
+P000751,Blood Pressure,120/91 mmHg
+P000751,Weight,240 lbs
+P000751,Temperature,100.2°F
+P000751,Diagnosis,COPD
+P000751,Prescription,Levothyroxine 50mcg once daily
+P000752,Oxygen Saturation,96%
+P000752,Blood Pressure,126/68 mmHg
+P000752,Blood Pressure,129/110 mmHg
+P000752,Temperature,98.3°F
+P000752,Temperature,101.8°F
+P000753,Heart Rate,64 bpm
+P000753,Heart Rate,104 bpm
+P000753,Heart Rate,103 bpm
+P000753,Blood Pressure,104/111 mmHg
+P000753,Diagnosis,Chronic Kidney Disease Stage 3
+P000754,Oxygen Saturation,99%
+P000754,Temperature,100.0°F
+P000754,Heart Rate,56 bpm
+P000754,Weight,194 lbs
+P000754,Diagnosis,Asthma
+P000755,Heart Rate,80 bpm
+P000755,Blood Pressure,158/112 mmHg
+P000755,Prescription,Atorvastatin 20mg at bedtime
+P000755,Total Cholesterol,222 mg/dL
+P000755,Creatinine,1.62 mg/dL
+P000756,Oxygen Saturation,95%
+P000756,Weight,277 lbs
+P000756,Diagnosis,Depression
+P000756,Fasting Blood Glucose,160 mg/dL
+P000757,Oxygen Saturation,94%
+P000757,Oxygen Saturation,93%
+P000757,Blood Pressure,160/97 mmHg
+P000757,Blood Pressure,146/77 mmHg
+P000757,HbA1c,7.7%
+P000758,Heart Rate,115 bpm
+P000758,Weight,120 lbs
+P000758,Heart Rate,119 bpm
+P000758,Diagnosis,COPD
+P000758,Prescription,Lisinopril 10mg once daily
+P000759,Heart Rate,88 bpm
+P000759,Weight,132 lbs
+P000759,Blood Pressure,101/65 mmHg
+P000759,Temperature,98.4°F
+P000759,Diagnosis,Osteoarthritis
+P000760,Blood Pressure,149/94 mmHg
+P000760,Temperature,102.0°F
+P000760,Weight,241 lbs
+P000760,Blood Pressure,148/106 mmHg
+P000760,Prescription,Metformin 500mg twice daily
+P000761,Heart Rate,119 bpm
+P000761,Oxygen Saturation,95%
+P000761,Oxygen Saturation,96%
+P000761,Diagnosis,Hypertension Stage 1
+P000761,Prescription,Lisinopril 10mg once daily
+P000762,Temperature,101.2°F
+P000762,Heart Rate,61 bpm
+P000762,Oxygen Saturation,96%
+P000762,Weight,131 lbs
+P000762,Total Cholesterol,197 mg/dL
+P000763,Heart Rate,102 bpm
+P000763,Temperature,99.3°F
+P000763,Oxygen Saturation,95%
+P000763,Diagnosis,COPD
+P000763,Total Cholesterol,177 mg/dL
+P000764,Heart Rate,70 bpm
+P000764,Oxygen Saturation,97%
+P000764,Blood Pressure,136/70 mmHg
+P000764,Diagnosis,COPD
+P000764,Prescription,Lisinopril 10mg once daily
+P000765,Temperature,100.3°F
+P000765,Heart Rate,96 bpm
+P000765,Blood Pressure,149/62 mmHg
+P000765,Blood Pressure,91/100 mmHg
+P000765,Weight,234 lbs
+P000766,Temperature,97.8°F
+P000766,Temperature,99.3°F
+P000766,Weight,162 lbs
+P000766,Blood Pressure,167/69 mmHg
+P000766,Diagnosis,Depression
+P000767,Blood Pressure,135/115 mmHg
+P000767,Heart Rate,96 bpm
+P000767,Weight,168 lbs
+P000767,Weight,263 lbs
+P000767,HbA1c,10.1%
+P000768,Weight,266 lbs
+P000768,Oxygen Saturation,91%
+P000768,Temperature,97.4°F
+P000768,Weight,164 lbs
+P000768,Blood Pressure,178/116 mmHg
+P000769,Weight,181 lbs
+P000769,Temperature,101.1°F
+P000769,Oxygen Saturation,98%
+P000769,Blood Pressure,146/67 mmHg
+P000769,Diagnosis,Depression
+P000770,Oxygen Saturation,91%
+P000770,Weight,200 lbs
+P000770,Oxygen Saturation,94%
+P000770,Diagnosis,Depression
+P000770,Prescription,Aspirin 81mg once daily
+P000771,Weight,151 lbs
+P000771,Blood Pressure,172/60 mmHg
+P000771,Heart Rate,87 bpm
+P000771,Diagnosis,Chronic Kidney Disease Stage 3
+P000771,Prescription,Metformin 500mg twice daily
+P000772,Weight,201 lbs
+P000772,Temperature,101.7°F
+P000772,Temperature,101.6°F
+P000772,Diagnosis,Depression
+P000772,Prescription,Aspirin 81mg once daily
+P000773,Blood Pressure,90/81 mmHg
+P000773,Temperature,101.8°F
+P000773,Heart Rate,91 bpm
+P000773,Heart Rate,66 bpm
+P000773,Oxygen Saturation,96%
+P000774,Heart Rate,101 bpm
+P000774,Blood Pressure,113/116 mmHg
+P000774,Prescription,Lisinopril 10mg once daily
+P000774,Total Cholesterol,154 mg/dL
+P000774,HbA1c,10.3%
+P000775,Temperature,99.1°F
+P000775,Weight,265 lbs
+P000775,Weight,230 lbs
+P000775,Prescription,Omeprazole 20mg once daily
+P000775,Fasting Blood Glucose,227 mg/dL
+P000776,Weight,189 lbs
+P000776,Heart Rate,74 bpm
+P000776,Diagnosis,Asthma
+P000776,Prescription,Lisinopril 10mg once daily
+P000776,Prescription,Atorvastatin 20mg at bedtime
+P000777,Heart Rate,58 bpm
+P000777,Weight,218 lbs
+P000777,Temperature,99.1°F
+P000777,Oxygen Saturation,97%
+P000777,Diagnosis,Hypertension Stage 2
+P000778,Oxygen Saturation,91%
+P000778,Oxygen Saturation,100%
+P000778,Weight,265 lbs
+P000778,Total Cholesterol,287 mg/dL
+P000778,Total Cholesterol,181 mg/dL
+P000779,Oxygen Saturation,91%
+P000779,Temperature,98.9°F
+P000779,Blood Pressure,174/67 mmHg
+P000779,Heart Rate,62 bpm
+P000779,Weight,271 lbs
+P000780,Temperature,98.6°F
+P000780,Temperature,99.3°F
+P000780,Temperature,99.9°F
+P000780,Diagnosis,COPD
+P000780,Prescription,Aspirin 81mg once daily
+P000781,Blood Pressure,126/76 mmHg
+P000781,Temperature,100.2°F
+P000781,Heart Rate,50 bpm
+P000781,Oxygen Saturation,93%
+P000781,Temperature,99.5°F
+P000782,Blood Pressure,167/108 mmHg
+P000782,Weight,157 lbs
+P000782,Diagnosis,Osteoarthritis
+P000782,Prescription,Atorvastatin 20mg at bedtime
+P000782,Creatinine,1.92 mg/dL
+P000783,Heart Rate,61 bpm
+P000783,Oxygen Saturation,95%
+P000783,Weight,130 lbs
+P000783,Weight,279 lbs
+P000783,Weight,259 lbs
+P000784,Temperature,99.7°F
+P000784,Blood Pressure,103/93 mmHg
+P000784,Oxygen Saturation,98%
+P000784,Temperature,97.8°F
+P000784,Diagnosis,Hypertension Stage 1
+P000785,Oxygen Saturation,99%
+P000785,Heart Rate,95 bpm
+P000785,Temperature,101.2°F
+P000785,Temperature,100.0°F
+P000785,Prescription,Levothyroxine 50mcg once daily
+P000786,Temperature,101.3°F
+P000786,Oxygen Saturation,95%
+P000786,Temperature,101.6°F
+P000786,Heart Rate,102 bpm
+P000786,Blood Pressure,117/91 mmHg
+P000787,Temperature,99.1°F
+P000787,Temperature,101.4°F
+P000787,Heart Rate,57 bpm
+P000787,Diagnosis,Osteoarthritis
+P000787,Creatinine,2.00 mg/dL
+P000788,Heart Rate,56 bpm
+P000788,Weight,264 lbs
+P000788,Temperature,98.5°F
+P000788,Prescription,Omeprazole 20mg once daily
+P000788,Prescription,Atorvastatin 20mg at bedtime
+P000789,Blood Pressure,98/62 mmHg
+P000789,Oxygen Saturation,100%
+P000789,Heart Rate,111 bpm
+P000789,Blood Pressure,162/79 mmHg
+P000789,Temperature,101.4°F
+P000790,Heart Rate,64 bpm
+P000790,Oxygen Saturation,100%
+P000790,Oxygen Saturation,92%
+P000790,Temperature,98.8°F
+P000790,Blood Pressure,131/66 mmHg
+P000791,Oxygen Saturation,90%
+P000791,Blood Pressure,155/83 mmHg
+P000791,Weight,251 lbs
+P000791,Weight,248 lbs
+P000791,Temperature,100.7°F
+P000792,Weight,247 lbs
+P000792,Oxygen Saturation,93%
+P000792,Weight,116 lbs
+P000792,Diagnosis,Depression
+P000792,Prescription,Aspirin 81mg once daily
+P000793,Oxygen Saturation,97%
+P000793,Oxygen Saturation,95%
+P000793,Heart Rate,69 bpm
+P000793,Prescription,Atorvastatin 20mg at bedtime
+P000793,Fasting Blood Glucose,112 mg/dL
+P000794,Blood Pressure,133/69 mmHg
+P000794,Temperature,97.8°F
+P000794,Diagnosis,Hypertension Stage 1
+P000794,Prescription,Metformin 500mg twice daily
+P000794,Prescription,Metformin 500mg twice daily
+P000795,Weight,251 lbs
+P000795,Blood Pressure,114/108 mmHg
+P000795,Oxygen Saturation,100%
+P000795,Diagnosis,Hyperlipidemia
+P000795,Prescription,Aspirin 81mg once daily
+P000796,Heart Rate,89 bpm
+P000796,Oxygen Saturation,92%
+P000796,Weight,264 lbs
+P000796,Diagnosis,Hypertension Stage 2
+P000796,Prescription,Omeprazole 20mg once daily
+P000797,Heart Rate,111 bpm
+P000797,Weight,246 lbs
+P000797,Weight,106 lbs
+P000797,Oxygen Saturation,92%
+P000797,Temperature,99.2°F
+P000798,Blood Pressure,129/111 mmHg
+P000798,Heart Rate,77 bpm
+P000798,Heart Rate,98 bpm
+P000798,Oxygen Saturation,99%
+P000798,Total Cholesterol,254 mg/dL
+P000799,Heart Rate,68 bpm
+P000799,Blood Pressure,174/100 mmHg
+P000799,Oxygen Saturation,97%
+P000799,Heart Rate,72 bpm
+P000799,Weight,116 lbs
+P000800,Blood Pressure,106/93 mmHg
+P000800,Heart Rate,116 bpm
+P000800,Blood Pressure,99/92 mmHg
+P000800,Prescription,Metformin 500mg twice daily
+P000800,Total Cholesterol,199 mg/dL
+P000801,Blood Pressure,164/119 mmHg
+P000801,Oxygen Saturation,95%
+P000801,Weight,202 lbs
+P000801,Oxygen Saturation,94%
+P000801,Oxygen Saturation,94%
+P000802,Temperature,98.3°F
+P000802,Weight,275 lbs
+P000802,Diagnosis,Hyperlipidemia
+P000802,Prescription,Atorvastatin 20mg at bedtime
+P000802,Prescription,Levothyroxine 50mcg once daily
+P000803,Weight,166 lbs
+P000803,Blood Pressure,125/110 mmHg
+P000803,Blood Pressure,126/77 mmHg
+P000803,Prescription,Aspirin 81mg once daily
+P000803,Prescription,Lisinopril 10mg once daily
+P000804,Oxygen Saturation,96%
+P000804,Blood Pressure,103/120 mmHg
+P000804,Diagnosis,Coronary Artery Disease
+P000804,Creatinine,0.52 mg/dL
+P000804,HbA1c,10.2%
+P000805,Weight,284 lbs
+P000805,Temperature,97.7°F
+P000805,Weight,254 lbs
+P000805,Weight,240 lbs
+P000805,Prescription,Omeprazole 20mg once daily
+P000806,Heart Rate,96 bpm
+P000806,Heart Rate,72 bpm
+P000806,Weight,244 lbs
+P000806,Heart Rate,84 bpm
+P000806,Prescription,Aspirin 81mg once daily
+P000807,Blood Pressure,106/81 mmHg
+P000807,Blood Pressure,117/93 mmHg
+P000807,Heart Rate,99 bpm
+P000807,Blood Pressure,104/114 mmHg
+P000807,Temperature,100.1°F
+P000808,Heart Rate,74 bpm
+P000808,Blood Pressure,179/94 mmHg
+P000808,Temperature,99.0°F
+P000808,Diagnosis,Hyperlipidemia
+P000808,Total Cholesterol,222 mg/dL
+P000809,Oxygen Saturation,100%
+P000809,Oxygen Saturation,93%
+P000809,Diagnosis,Asthma
+P000809,Prescription,Aspirin 81mg once daily
+P000809,Prescription,Lisinopril 10mg once daily
+P000810,Oxygen Saturation,93%
+P000810,Blood Pressure,126/82 mmHg
+P000810,Heart Rate,102 bpm
+P000810,Oxygen Saturation,96%
+P000810,Oxygen Saturation,100%
+P000811,Blood Pressure,125/67 mmHg
+P000811,Oxygen Saturation,96%
+P000811,Oxygen Saturation,92%
+P000811,Diagnosis,Hyperlipidemia
+P000811,Prescription,Levothyroxine 50mcg once daily
+P000812,Oxygen Saturation,92%
+P000812,Weight,207 lbs
+P000812,Oxygen Saturation,91%
+P000812,Prescription,Metformin 500mg twice daily
+P000812,Fasting Blood Glucose,221 mg/dL
+P000813,Weight,110 lbs
+P000813,Blood Pressure,149/89 mmHg
+P000813,Blood Pressure,164/115 mmHg
+P000813,Blood Pressure,122/93 mmHg
+P000813,Blood Pressure,149/92 mmHg
+P000814,Weight,231 lbs
+P000814,Heart Rate,113 bpm
+P000814,Diagnosis,Depression
+P000814,Prescription,Atorvastatin 20mg at bedtime
+P000814,Prescription,Levothyroxine 50mcg once daily
+P000815,Oxygen Saturation,100%
+P000815,Heart Rate,72 bpm
+P000815,Blood Pressure,153/116 mmHg
+P000815,Temperature,101.1°F
+P000815,Diagnosis,Chronic Kidney Disease Stage 3
+P000816,Blood Pressure,91/65 mmHg
+P000816,Oxygen Saturation,92%
+P000816,Diagnosis,Osteoarthritis
+P000816,Prescription,Levothyroxine 50mcg once daily
+P000816,Prescription,Aspirin 81mg once daily
+P000817,Temperature,98.3°F
+P000817,Temperature,100.5°F
+P000817,Oxygen Saturation,98%
+P000817,Diagnosis,Hypertension Stage 2
+P000817,Fasting Blood Glucose,158 mg/dL
+P000818,Blood Pressure,100/107 mmHg
+P000818,Weight,202 lbs
+P000818,Temperature,100.5°F
+P000818,Blood Pressure,126/61 mmHg
+P000818,Weight,235 lbs
+P000819,Temperature,100.5°F
+P000819,Oxygen Saturation,96%
+P000819,Oxygen Saturation,91%
+P000819,Heart Rate,93 bpm
+P000819,Diagnosis,Depression
+P000820,Blood Pressure,94/106 mmHg
+P000820,Weight,133 lbs
+P000820,Oxygen Saturation,93%
+P000820,Temperature,97.1°F
+P000820,Weight,267 lbs
+P000821,Temperature,101.4°F
+P000821,Temperature,99.2°F
+P000821,Temperature,98.7°F
+P000821,Oxygen Saturation,94%
+P000821,Heart Rate,115 bpm
+P000822,Weight,234 lbs
+P000822,Weight,252 lbs
+P000822,Diagnosis,Hypertension Stage 2
+P000822,Prescription,Omeprazole 20mg once daily
+P000822,Prescription,Atorvastatin 20mg at bedtime
+P000823,Weight,141 lbs
+P000823,Oxygen Saturation,90%
+P000823,Temperature,97.4°F
+P000823,Diagnosis,Osteoarthritis
+P000823,Prescription,Metformin 500mg twice daily
+P000824,Oxygen Saturation,98%
+P000824,Oxygen Saturation,91%
+P000824,Oxygen Saturation,92%
+P000824,Diagnosis,Type 2 Diabetes Mellitus
+P000824,Prescription,Atorvastatin 20mg at bedtime
+P000825,Temperature,99.4°F
+P000825,Blood Pressure,129/95 mmHg
+P000825,Diagnosis,Osteoarthritis
+P000825,Prescription,Omeprazole 20mg once daily
+P000825,Fasting Blood Glucose,125 mg/dL
+P000826,Blood Pressure,117/104 mmHg
+P000826,Blood Pressure,178/79 mmHg
+P000826,Prescription,Atorvastatin 20mg at bedtime
+P000826,Creatinine,1.32 mg/dL
+P000826,Creatinine,1.08 mg/dL
+P000827,Temperature,98.2°F
+P000827,Blood Pressure,160/80 mmHg
+P000827,Blood Pressure,167/64 mmHg
+P000827,Prescription,Levothyroxine 50mcg once daily
+P000827,Prescription,Lisinopril 10mg once daily
+P000828,Temperature,98.6°F
+P000828,Temperature,97.3°F
+P000828,Heart Rate,60 bpm
+P000828,Blood Pressure,112/108 mmHg
+P000828,Heart Rate,118 bpm
+P000829,Oxygen Saturation,90%
+P000829,Temperature,99.1°F
+P000829,Weight,181 lbs
+P000829,Prescription,Atorvastatin 20mg at bedtime
+P000829,Creatinine,0.82 mg/dL
+P000830,Heart Rate,71 bpm
+P000830,Temperature,99.7°F
+P000830,Diagnosis,Chronic Kidney Disease Stage 3
+P000830,Prescription,Atorvastatin 20mg at bedtime
+P000830,Total Cholesterol,274 mg/dL
+P000831,Temperature,101.3°F
+P000831,Heart Rate,62 bpm
+P000831,Temperature,99.1°F
+P000831,Temperature,99.5°F
+P000831,Blood Pressure,167/76 mmHg
+P000832,Blood Pressure,131/64 mmHg
+P000832,Heart Rate,82 bpm
+P000832,Weight,178 lbs
+P000832,Blood Pressure,110/96 mmHg
+P000832,Prescription,Atorvastatin 20mg at bedtime
+P000833,Temperature,100.0°F
+P000833,Heart Rate,71 bpm
+P000833,Heart Rate,105 bpm
+P000833,Diagnosis,Hypertension Stage 1
+P000833,Fasting Blood Glucose,128 mg/dL
+P000834,Heart Rate,78 bpm
+P000834,Temperature,101.9°F
+P000834,Heart Rate,105 bpm
+P000834,Diagnosis,Type 2 Diabetes Mellitus
+P000834,HbA1c,8.8%
+P000835,Temperature,97.3°F
+P000835,Temperature,99.9°F
+P000835,Temperature,97.7°F
+P000835,Prescription,Aspirin 81mg once daily
+P000835,Prescription,Omeprazole 20mg once daily
+P000836,Oxygen Saturation,94%
+P000836,Oxygen Saturation,92%
+P000836,Temperature,99.2°F
+P000836,Heart Rate,63 bpm
+P000836,Prescription,Metformin 500mg twice daily
+P000837,Oxygen Saturation,95%
+P000837,Temperature,97.8°F
+P000837,Blood Pressure,128/108 mmHg
+P000837,Diagnosis,COPD
+P000837,Prescription,Atorvastatin 20mg at bedtime
+P000838,Oxygen Saturation,100%
+P000838,Oxygen Saturation,95%
+P000838,Temperature,99.9°F
+P000838,Temperature,101.7°F
+P000838,Weight,157 lbs
+P000839,Heart Rate,84 bpm
+P000839,Oxygen Saturation,94%
+P000839,Oxygen Saturation,96%
+P000839,Temperature,101.5°F
+P000839,Diagnosis,Asthma
+P000840,Weight,299 lbs
+P000840,Weight,247 lbs
+P000840,Temperature,98.2°F
+P000840,Diagnosis,Asthma
+P000840,Prescription,Omeprazole 20mg once daily
+P000841,Blood Pressure,133/77 mmHg
+P000841,Heart Rate,119 bpm
+P000841,Diagnosis,Chronic Kidney Disease Stage 3
+P000841,Prescription,Atorvastatin 20mg at bedtime
+P000841,Prescription,Metformin 500mg twice daily
+P000842,Heart Rate,58 bpm
+P000842,Heart Rate,80 bpm
+P000842,Blood Pressure,131/89 mmHg
+P000842,Heart Rate,58 bpm
+P000842,Diagnosis,Hypertension Stage 2
+P000843,Heart Rate,117 bpm
+P000843,Oxygen Saturation,95%
+P000843,Heart Rate,87 bpm
+P000843,Oxygen Saturation,93%
+P000843,Diagnosis,Depression
+P000844,Oxygen Saturation,100%
+P000844,Oxygen Saturation,96%
+P000844,Diagnosis,Hyperlipidemia
+P000844,Prescription,Levothyroxine 50mcg once daily
+P000844,Prescription,Omeprazole 20mg once daily
+P000845,Temperature,101.0°F
+P000845,Blood Pressure,125/67 mmHg
+P000845,Blood Pressure,128/82 mmHg
+P000845,Diagnosis,Chronic Kidney Disease Stage 3
+P000845,Creatinine,0.93 mg/dL
+P000846,Weight,120 lbs
+P000846,Weight,129 lbs
+P000846,Diagnosis,Osteoarthritis
+P000846,Prescription,Metformin 500mg twice daily
+P000846,HbA1c,11.7%
+P000847,Weight,156 lbs
+P000847,Heart Rate,69 bpm
+P000847,Diagnosis,Osteoarthritis
+P000847,Prescription,Aspirin 81mg once daily
+P000847,Prescription,Aspirin 81mg once daily
+P000848,Blood Pressure,93/64 mmHg
+P000848,Oxygen Saturation,96%
+P000848,Oxygen Saturation,98%
+P000848,Temperature,99.1°F
+P000848,Weight,179 lbs
+P000849,Weight,201 lbs
+P000849,Weight,197 lbs
+P000849,Weight,176 lbs
+P000849,Oxygen Saturation,97%
+P000849,Diagnosis,Asthma
+P000850,Heart Rate,79 bpm
+P000850,Blood Pressure,157/97 mmHg
+P000850,Oxygen Saturation,94%
+P000850,Prescription,Metformin 500mg twice daily
+P000850,Prescription,Atorvastatin 20mg at bedtime
+P000851,Oxygen Saturation,97%
+P000851,Blood Pressure,135/72 mmHg
+P000851,Temperature,99.1°F
+P000851,Weight,214 lbs
+P000851,Blood Pressure,96/82 mmHg
+P000852,Weight,265 lbs
+P000852,Temperature,99.3°F
+P000852,Heart Rate,86 bpm
+P000852,Blood Pressure,94/71 mmHg
+P000852,Oxygen Saturation,96%
+P000853,Temperature,101.9°F
+P000853,Heart Rate,72 bpm
+P000853,HbA1c,11.9%
+P000853,Creatinine,2.08 mg/dL
+P000853,Total Cholesterol,293 mg/dL
+P000854,Weight,272 lbs
+P000854,Weight,254 lbs
+P000854,Weight,173 lbs
+P000854,Diagnosis,Type 2 Diabetes Mellitus
+P000854,Prescription,Atorvastatin 20mg at bedtime
+P000855,Oxygen Saturation,95%
+P000855,Blood Pressure,92/114 mmHg
+P000855,Oxygen Saturation,96%
+P000855,Oxygen Saturation,95%
+P000855,Diagnosis,Hyperlipidemia
+P000856,Blood Pressure,165/90 mmHg
+P000856,Weight,131 lbs
+P000856,Heart Rate,109 bpm
+P000856,Oxygen Saturation,93%
+P000856,Heart Rate,70 bpm
+P000857,Temperature,99.5°F
+P000857,Blood Pressure,144/110 mmHg
+P000857,Blood Pressure,149/116 mmHg
+P000857,Blood Pressure,104/86 mmHg
+P000857,Heart Rate,77 bpm
+P000858,Heart Rate,88 bpm
+P000858,Heart Rate,76 bpm
+P000858,Weight,242 lbs
+P000858,Oxygen Saturation,99%
+P000858,Weight,195 lbs
+P000859,Oxygen Saturation,97%
+P000859,Blood Pressure,170/88 mmHg
+P000859,Temperature,99.2°F
+P000859,Weight,279 lbs
+P000859,Blood Pressure,170/76 mmHg
+P000860,Oxygen Saturation,92%
+P000860,Temperature,98.8°F
+P000860,Weight,115 lbs
+P000860,Diagnosis,Hypertension Stage 2
+P000860,Prescription,Metformin 500mg twice daily
+P000861,Temperature,98.2°F
+P000861,Temperature,98.3°F
+P000861,Blood Pressure,96/98 mmHg
+P000861,Temperature,101.3°F
+P000861,Temperature,97.4°F
+P000862,Weight,241 lbs
+P000862,Heart Rate,66 bpm
+P000862,Blood Pressure,118/88 mmHg
+P000862,Temperature,101.7°F
+P000862,Total Cholesterol,245 mg/dL
+P000863,Temperature,100.1°F
+P000863,Oxygen Saturation,99%
+P000863,Blood Pressure,111/76 mmHg
+P000863,Oxygen Saturation,91%
+P000863,Diagnosis,Osteoarthritis
+P000864,Oxygen Saturation,90%
+P000864,Weight,246 lbs
+P000864,Temperature,99.8°F
+P000864,Diagnosis,Hypertension Stage 2
+P000864,Prescription,Lisinopril 10mg once daily
+P000865,Blood Pressure,179/61 mmHg
+P000865,Weight,248 lbs
+P000865,Diagnosis,COPD
+P000865,HbA1c,5.8%
+P000866,Weight,275 lbs
+P000866,Temperature,100.1°F
+P000866,Diagnosis,Hypertension Stage 2
+P000866,Total Cholesterol,167 mg/dL
+P000866,Fasting Blood Glucose,228 mg/dL
+P000867,Oxygen Saturation,98%
+P000867,Weight,227 lbs
+P000867,Prescription,Aspirin 81mg once daily
+P000867,Total Cholesterol,225 mg/dL
+P000867,Total Cholesterol,242 mg/dL
+P000868,Oxygen Saturation,99%
+P000868,Oxygen Saturation,100%
+P000868,Heart Rate,105 bpm
+P000868,Diagnosis,Chronic Kidney Disease Stage 3
+P000868,Total Cholesterol,213 mg/dL
+P000869,Blood Pressure,146/71 mmHg
+P000869,Weight,282 lbs
+P000869,Temperature,99.5°F
+P000869,Temperature,98.0°F
+P000869,Heart Rate,118 bpm
+P000870,Oxygen Saturation,96%
+P000870,Heart Rate,77 bpm
+P000870,Prescription,Omeprazole 20mg once daily
+P000870,Prescription,Lisinopril 10mg once daily
+P000870,Creatinine,2.37 mg/dL
+P000871,Weight,250 lbs
+P000871,Blood Pressure,148/63 mmHg
+P000871,Heart Rate,54 bpm
+P000871,Weight,130 lbs
+P000871,Diagnosis,Hypertension Stage 1
+P000872,Oxygen Saturation,92%
+P000872,Blood Pressure,130/64 mmHg
+P000872,Temperature,98.7°F
+P000872,Weight,216 lbs
+P000872,HbA1c,8.6%
+P000873,Weight,287 lbs
+P000873,Oxygen Saturation,94%
+P000873,Oxygen Saturation,98%
+P000873,Heart Rate,92 bpm
+P000873,Weight,141 lbs
+P000874,Oxygen Saturation,91%
+P000874,Temperature,101.8°F
+P000874,Blood Pressure,136/80 mmHg
+P000874,Blood Pressure,99/75 mmHg
+P000874,Prescription,Metformin 500mg twice daily
+P000875,Oxygen Saturation,94%
+P000875,Heart Rate,54 bpm
+P000875,Blood Pressure,164/90 mmHg
+P000875,Heart Rate,69 bpm
+P000875,Blood Pressure,145/98 mmHg
+P000876,Heart Rate,102 bpm
+P000876,Weight,181 lbs
+P000876,Blood Pressure,97/90 mmHg
+P000876,Oxygen Saturation,92%
+P000876,Diagnosis,Coronary Artery Disease
+P000877,Blood Pressure,111/115 mmHg
+P000877,Weight,252 lbs
+P000877,Temperature,99.8°F
+P000877,Blood Pressure,102/97 mmHg
+P000877,Weight,296 lbs
+P000878,Temperature,98.7°F
+P000878,Heart Rate,104 bpm
+P000878,Blood Pressure,119/80 mmHg
+P000878,Blood Pressure,179/78 mmHg
+P000878,Diagnosis,Hypertension Stage 2
+P000879,Oxygen Saturation,95%
+P000879,Blood Pressure,173/114 mmHg
+P000879,Prescription,Metformin 500mg twice daily
+P000879,Prescription,Levothyroxine 50mcg once daily
+P000879,Total Cholesterol,219 mg/dL
+P000880,Blood Pressure,147/70 mmHg
+P000880,Oxygen Saturation,100%
+P000880,Diagnosis,Hypertension Stage 1
+P000880,Fasting Blood Glucose,229 mg/dL
+P000880,Total Cholesterol,211 mg/dL
+P000881,Weight,140 lbs
+P000881,Heart Rate,112 bpm
+P000881,Heart Rate,50 bpm
+P000881,Diagnosis,Asthma
+P000881,Prescription,Aspirin 81mg once daily
+P000882,Heart Rate,82 bpm
+P000882,Oxygen Saturation,90%
+P000882,Prescription,Aspirin 81mg once daily
+P000882,Prescription,Lisinopril 10mg once daily
+P000882,Prescription,Atorvastatin 20mg at bedtime
+P000883,Temperature,97.8°F
+P000883,Heart Rate,116 bpm
+P000883,Diagnosis,Hypertension Stage 1
+P000883,Total Cholesterol,276 mg/dL
+P000883,HbA1c,6.0%
+P000884,Weight,300 lbs
+P000884,Weight,215 lbs
+P000884,Blood Pressure,145/103 mmHg
+P000884,Blood Pressure,136/94 mmHg
+P000884,Blood Pressure,148/95 mmHg
+P000885,Weight,271 lbs
+P000885,Heart Rate,85 bpm
+P000885,Total Cholesterol,288 mg/dL
+P000885,Total Cholesterol,270 mg/dL
+P000885,Fasting Blood Glucose,222 mg/dL
+P000886,Blood Pressure,141/96 mmHg
+P000886,Temperature,98.9°F
+P000886,Blood Pressure,152/62 mmHg
+P000886,Diagnosis,COPD
+P000886,Total Cholesterol,159 mg/dL
+P000887,Temperature,101.8°F
+P000887,Blood Pressure,137/83 mmHg
+P000887,Oxygen Saturation,91%
+P000887,Fasting Blood Glucose,199 mg/dL
+P000887,Total Cholesterol,258 mg/dL
+P000888,Oxygen Saturation,94%
+P000888,Weight,100 lbs
+P000888,Weight,262 lbs
+P000888,Heart Rate,105 bpm
+P000888,Blood Pressure,143/108 mmHg
+P000889,Blood Pressure,129/79 mmHg
+P000889,Blood Pressure,100/84 mmHg
+P000889,Blood Pressure,146/98 mmHg
+P000889,Diagnosis,COPD
+P000889,Prescription,Omeprazole 20mg once daily
+P000890,Temperature,101.3°F
+P000890,Temperature,101.6°F
+P000890,Diagnosis,Asthma
+P000890,Prescription,Atorvastatin 20mg at bedtime
+P000890,Prescription,Levothyroxine 50mcg once daily
+P000891,Oxygen Saturation,97%
+P000891,Blood Pressure,149/82 mmHg
+P000891,Temperature,99.8°F
+P000891,Oxygen Saturation,95%
+P000891,Heart Rate,75 bpm
+P000892,Weight,124 lbs
+P000892,Blood Pressure,134/107 mmHg
+P000892,Blood Pressure,156/104 mmHg
+P000892,Heart Rate,80 bpm
+P000892,Oxygen Saturation,94%
+P000893,Weight,293 lbs
+P000893,Heart Rate,84 bpm
+P000893,Diagnosis,Asthma
+P000893,Prescription,Omeprazole 20mg once daily
+P000893,Prescription,Metformin 500mg twice daily
+P000894,Oxygen Saturation,92%
+P000894,Temperature,100.3°F
+P000894,Heart Rate,120 bpm
+P000894,Diagnosis,Type 2 Diabetes Mellitus
+P000894,Prescription,Atorvastatin 20mg at bedtime
+P000895,Blood Pressure,129/114 mmHg
+P000895,Weight,134 lbs
+P000895,Heart Rate,115 bpm
+P000895,Diagnosis,COPD
+P000895,Prescription,Omeprazole 20mg once daily
+P000896,Temperature,100.1°F
+P000896,Oxygen Saturation,98%
+P000896,Weight,200 lbs
+P000896,Blood Pressure,179/85 mmHg
+P000896,Diagnosis,Asthma
+P000897,Temperature,99.1°F
+P000897,Weight,218 lbs
+P000897,Temperature,100.7°F
+P000897,Total Cholesterol,200 mg/dL
+P000897,Total Cholesterol,200 mg/dL
+P000898,Weight,176 lbs
+P000898,Blood Pressure,91/67 mmHg
+P000898,Oxygen Saturation,94%
+P000898,Oxygen Saturation,96%
+P000898,Diagnosis,COPD
+P000899,Oxygen Saturation,91%
+P000899,Blood Pressure,176/116 mmHg
+P000899,Diagnosis,Hypertension Stage 1
+P000899,Fasting Blood Glucose,173 mg/dL
+P000899,Creatinine,0.57 mg/dL
+P000900,Oxygen Saturation,99%
+P000900,Weight,109 lbs
+P000900,Blood Pressure,164/111 mmHg
+P000900,Temperature,98.7°F
+P000900,Weight,219 lbs
+P000901,Blood Pressure,120/88 mmHg
+P000901,Blood Pressure,175/119 mmHg
+P000901,Diagnosis,Hypertension Stage 1
+P000901,Prescription,Lisinopril 10mg once daily
+P000901,Prescription,Atorvastatin 20mg at bedtime
+P000902,Oxygen Saturation,95%
+P000902,Weight,297 lbs
+P000902,Diagnosis,Chronic Kidney Disease Stage 3
+P000902,Prescription,Levothyroxine 50mcg once daily
+P000902,Creatinine,0.99 mg/dL
+P000903,Temperature,101.5°F
+P000903,Temperature,101.4°F
+P000903,Heart Rate,85 bpm
+P000903,Oxygen Saturation,94%
+P000903,Diagnosis,Asthma
+P000904,Temperature,99.0°F
+P000904,Blood Pressure,129/73 mmHg
+P000904,Blood Pressure,97/95 mmHg
+P000904,Blood Pressure,173/99 mmHg
+P000904,Diagnosis,Hyperlipidemia
+P000905,Weight,150 lbs
+P000905,Weight,286 lbs
+P000905,Diagnosis,Hyperlipidemia
+P000905,Prescription,Metformin 500mg twice daily
+P000905,Total Cholesterol,156 mg/dL
+P000906,Heart Rate,117 bpm
+P000906,Temperature,97.5°F
+P000906,Diagnosis,Hyperlipidemia
+P000906,Creatinine,0.78 mg/dL
+P000906,Total Cholesterol,159 mg/dL
+P000907,Blood Pressure,162/80 mmHg
+P000907,Oxygen Saturation,92%
+P000907,Weight,113 lbs
+P000907,Weight,136 lbs
+P000907,Oxygen Saturation,94%
+P000908,Temperature,99.3°F
+P000908,Blood Pressure,160/110 mmHg
+P000908,Oxygen Saturation,92%
+P000908,Oxygen Saturation,93%
+P000908,Temperature,101.4°F
+P000909,Heart Rate,76 bpm
+P000909,Weight,198 lbs
+P000909,Temperature,100.6°F
+P000909,Diagnosis,Coronary Artery Disease
+P000909,Prescription,Atorvastatin 20mg at bedtime
+P000910,Blood Pressure,176/99 mmHg
+P000910,Blood Pressure,100/71 mmHg
+P000910,Temperature,101.4°F
+P000910,Weight,171 lbs
+P000910,Prescription,Atorvastatin 20mg at bedtime
+P000911,Heart Rate,86 bpm
+P000911,Blood Pressure,112/109 mmHg
+P000911,Temperature,97.6°F
+P000911,Weight,157 lbs
+P000911,Diagnosis,Coronary Artery Disease
+P000912,Blood Pressure,155/92 mmHg
+P000912,Heart Rate,65 bpm
+P000912,Oxygen Saturation,97%
+P000912,Weight,116 lbs
+P000912,Prescription,Aspirin 81mg once daily
+P000913,Oxygen Saturation,96%
+P000913,Heart Rate,110 bpm
+P000913,Blood Pressure,119/70 mmHg
+P000913,Blood Pressure,169/68 mmHg
+P000913,Diagnosis,Osteoarthritis
+P000914,Oxygen Saturation,98%
+P000914,Temperature,97.3°F
+P000914,Temperature,99.1°F
+P000914,Heart Rate,120 bpm
+P000914,Heart Rate,58 bpm
+P000915,Oxygen Saturation,91%
+P000915,Weight,225 lbs
+P000915,Weight,259 lbs
+P000915,Diagnosis,Osteoarthritis
+P000915,Prescription,Omeprazole 20mg once daily
+P000916,Blood Pressure,136/90 mmHg
+P000916,Heart Rate,118 bpm
+P000916,Diagnosis,Hypertension Stage 1
+P000916,Creatinine,1.07 mg/dL
+P000916,HbA1c,5.6%
+P000917,Blood Pressure,94/109 mmHg
+P000917,Temperature,97.7°F
+P000917,Blood Pressure,169/65 mmHg
+P000917,Temperature,100.3°F
+P000917,Blood Pressure,99/89 mmHg
+P000918,Heart Rate,113 bpm
+P000918,Oxygen Saturation,99%
+P000918,Blood Pressure,120/99 mmHg
+P000918,Heart Rate,120 bpm
+P000918,Oxygen Saturation,97%
+P000919,Blood Pressure,140/72 mmHg
+P000919,Blood Pressure,109/99 mmHg
+P000919,Prescription,Omeprazole 20mg once daily
+P000919,Total Cholesterol,184 mg/dL
+P000919,Total Cholesterol,296 mg/dL
+P000920,Heart Rate,67 bpm
+P000920,Blood Pressure,177/101 mmHg
+P000920,Prescription,Aspirin 81mg once daily
+P000920,Prescription,Aspirin 81mg once daily
+P000920,HbA1c,7.3%
+P000921,Oxygen Saturation,90%
+P000921,Oxygen Saturation,93%
+P000921,Diagnosis,Coronary Artery Disease
+P000921,Prescription,Metformin 500mg twice daily
+P000921,Prescription,Atorvastatin 20mg at bedtime
+P000922,Oxygen Saturation,94%
+P000922,Weight,296 lbs
+P000922,Oxygen Saturation,100%
+P000922,Diagnosis,Depression
+P000922,Total Cholesterol,246 mg/dL
+P000923,Oxygen Saturation,90%
+P000923,Heart Rate,90 bpm
+P000923,Blood Pressure,105/114 mmHg
+P000923,Blood Pressure,115/68 mmHg
+P000923,Temperature,100.3°F
+P000924,Heart Rate,79 bpm
+P000924,Oxygen Saturation,94%
+P000924,Temperature,97.6°F
+P000924,Diagnosis,Hypertension Stage 1
+P000924,Prescription,Aspirin 81mg once daily
+P000925,Oxygen Saturation,98%
+P000925,Oxygen Saturation,91%
+P000925,Temperature,98.3°F
+P000925,Diagnosis,Chronic Kidney Disease Stage 3
+P000925,Creatinine,0.94 mg/dL
+P000926,Temperature,98.1°F
+P000926,Temperature,99.4°F
+P000926,Temperature,97.2°F
+P000926,Blood Pressure,170/116 mmHg
+P000926,Prescription,Lisinopril 10mg once daily
+P000927,Temperature,99.7°F
+P000927,Temperature,99.4°F
+P000927,Blood Pressure,167/114 mmHg
+P000927,Oxygen Saturation,98%
+P000927,Diagnosis,Chronic Kidney Disease Stage 3
+P000928,Oxygen Saturation,91%
+P000928,Temperature,97.9°F
+P000928,Weight,267 lbs
+P000928,Heart Rate,65 bpm
+P000928,Temperature,99.3°F
+P000929,Oxygen Saturation,92%
+P000929,Temperature,99.6°F
+P000929,Diagnosis,Hypertension Stage 2
+P000929,Creatinine,0.65 mg/dL
+P000930,Oxygen Saturation,95%
+P000930,Weight,135 lbs
+P000930,Temperature,101.9°F
+P000930,Blood Pressure,167/118 mmHg
+P000930,Heart Rate,70 bpm
+P000931,Weight,183 lbs
+P000931,Heart Rate,70 bpm
+P000931,Diagnosis,Chronic Kidney Disease Stage 3
+P000931,Prescription,Omeprazole 20mg once daily
+P000931,Prescription,Lisinopril 10mg once daily
+P000932,Oxygen Saturation,95%
+P000932,Heart Rate,104 bpm
+P000932,Temperature,101.6°F
+P000932,Blood Pressure,123/97 mmHg
+P000932,Diagnosis,Asthma
+P000933,Heart Rate,66 bpm
+P000933,Temperature,98.2°F
+P000933,Heart Rate,51 bpm
+P000933,Blood Pressure,133/61 mmHg
+P000933,Blood Pressure,134/103 mmHg
+P000934,Blood Pressure,133/79 mmHg
+P000934,Blood Pressure,109/68 mmHg
+P000934,Temperature,100.4°F
+P000934,Diagnosis,Chronic Kidney Disease Stage 3
+P000934,Prescription,Lisinopril 10mg once daily
+P000935,Blood Pressure,152/92 mmHg
+P000935,Heart Rate,74 bpm
+P000935,Blood Pressure,159/117 mmHg
+P000935,Weight,259 lbs
+P000935,Diagnosis,Type 2 Diabetes Mellitus
+P000936,Heart Rate,100 bpm
+P000936,Blood Pressure,163/62 mmHg
+P000936,Blood Pressure,135/67 mmHg
+P000936,Oxygen Saturation,98%
+P000936,Prescription,Aspirin 81mg once daily
+P000937,Heart Rate,118 bpm
+P000937,Oxygen Saturation,96%
+P000937,Weight,141 lbs
+P000937,Blood Pressure,162/67 mmHg
+P000937,Diagnosis,Depression
+P000938,Oxygen Saturation,90%
+P000938,Blood Pressure,109/97 mmHg
+P000938,Prescription,Levothyroxine 50mcg once daily
+P000938,Prescription,Lisinopril 10mg once daily
+P000938,HbA1c,8.0%
+P000939,Heart Rate,83 bpm
+P000939,Blood Pressure,155/120 mmHg
+P000939,Weight,276 lbs
+P000939,Heart Rate,73 bpm
+P000939,Diagnosis,COPD
+P000940,Heart Rate,85 bpm
+P000940,Weight,147 lbs
+P000940,Oxygen Saturation,97%
+P000940,Oxygen Saturation,91%
+P000940,Diagnosis,Hypertension Stage 1
+P000941,Oxygen Saturation,93%
+P000941,Blood Pressure,109/117 mmHg
+P000941,Heart Rate,89 bpm
+P000941,Blood Pressure,160/98 mmHg
+P000941,Diagnosis,Hypertension Stage 2
+P000942,Temperature,99.4°F
+P000942,Heart Rate,100 bpm
+P000942,Temperature,100.2°F
+P000942,Heart Rate,93 bpm
+P000942,Diagnosis,Hypertension Stage 2
+P000943,Weight,157 lbs
+P000943,Weight,150 lbs
+P000943,Heart Rate,97 bpm
+P000943,Diagnosis,Hypertension Stage 2
+P000943,Prescription,Metformin 500mg twice daily
+P000944,Oxygen Saturation,96%
+P000944,Weight,194 lbs
+P000944,Blood Pressure,115/98 mmHg
+P000944,Oxygen Saturation,90%
+P000944,Oxygen Saturation,91%
+P000945,Heart Rate,101 bpm
+P000945,Oxygen Saturation,90%
+P000945,Weight,156 lbs
+P000945,Heart Rate,66 bpm
+P000945,Diagnosis,Asthma
+P000946,Blood Pressure,129/62 mmHg
+P000946,Oxygen Saturation,97%
+P000946,Diagnosis,Chronic Kidney Disease Stage 3
+P000946,Prescription,Omeprazole 20mg once daily
+P000946,Prescription,Levothyroxine 50mcg once daily
+P000947,Blood Pressure,171/86 mmHg
+P000947,Heart Rate,110 bpm
+P000947,Oxygen Saturation,93%
+P000947,Blood Pressure,93/120 mmHg
+P000947,Fasting Blood Glucose,86 mg/dL
+P000948,Heart Rate,118 bpm
+P000948,Heart Rate,107 bpm
+P000948,Diagnosis,Asthma
+P000948,Creatinine,2.30 mg/dL
+P000948,HbA1c,6.6%
+P000949,Blood Pressure,160/91 mmHg
+P000949,Weight,121 lbs
+P000949,HbA1c,10.4%
+P000949,Creatinine,1.64 mg/dL
+P000949,Creatinine,0.53 mg/dL
+P000950,Temperature,100.1°F
+P000950,Temperature,101.7°F
+P000950,Diagnosis,Depression
+P000950,Prescription,Omeprazole 20mg once daily
+P000950,Prescription,Aspirin 81mg once daily
+P000951,Weight,135 lbs
+P000951,Blood Pressure,102/62 mmHg
+P000951,Blood Pressure,117/120 mmHg
+P000951,Oxygen Saturation,96%
+P000951,Heart Rate,85 bpm
+P000952,Heart Rate,90 bpm
+P000952,Heart Rate,59 bpm
+P000952,Blood Pressure,121/105 mmHg
+P000952,Oxygen Saturation,97%
+P000952,Diagnosis,Coronary Artery Disease
+P000953,Oxygen Saturation,98%
+P000953,Temperature,99.7°F
+P000953,Prescription,Atorvastatin 20mg at bedtime
+P000953,Prescription,Omeprazole 20mg once daily
+P000953,Prescription,Atorvastatin 20mg at bedtime
+P000954,Blood Pressure,91/67 mmHg
+P000954,Blood Pressure,158/103 mmHg
+P000954,Prescription,Metformin 500mg twice daily
+P000954,Creatinine,1.01 mg/dL
+P000955,Blood Pressure,140/82 mmHg
+P000955,Weight,294 lbs
+P000955,Diagnosis,Osteoarthritis
+P000955,Prescription,Metformin 500mg twice daily
+P000955,Creatinine,2.08 mg/dL
+P000956,Blood Pressure,148/113 mmHg
+P000956,Heart Rate,87 bpm
+P000956,Oxygen Saturation,95%
+P000956,Prescription,Aspirin 81mg once daily
+P000956,HbA1c,9.6%
+P000957,Temperature,101.8°F
+P000957,Oxygen Saturation,99%
+P000957,Prescription,Atorvastatin 20mg at bedtime
+P000957,Prescription,Levothyroxine 50mcg once daily
+P000957,Prescription,Lisinopril 10mg once daily
+P000958,Blood Pressure,144/72 mmHg
+P000958,Blood Pressure,97/99 mmHg
+P000958,Weight,270 lbs
+P000958,Blood Pressure,174/119 mmHg
+P000958,Diagnosis,Type 2 Diabetes Mellitus
+P000959,Oxygen Saturation,98%
+P000959,Temperature,100.8°F
+P000959,Temperature,98.6°F
+P000959,Diagnosis,Asthma
+P000959,Total Cholesterol,219 mg/dL
+P000960,Temperature,98.9°F
+P000960,Temperature,98.9°F
+P000960,Weight,292 lbs
+P000960,Temperature,101.0°F
+P000960,Heart Rate,70 bpm
+P000961,Blood Pressure,100/108 mmHg
+P000961,Temperature,97.8°F
+P000961,Temperature,99.4°F
+P000961,Total Cholesterol,186 mg/dL
+P000962,Blood Pressure,142/84 mmHg
+P000962,Temperature,101.3°F
+P000962,Temperature,99.0°F
+P000962,Creatinine,0.55 mg/dL
+P000962,Total Cholesterol,241 mg/dL
+P000963,Weight,180 lbs
+P000963,Temperature,99.8°F
+P000963,Weight,251 lbs
+P000963,Total Cholesterol,268 mg/dL
+P000963,Total Cholesterol,195 mg/dL
+P000964,Heart Rate,66 bpm
+P000964,Heart Rate,59 bpm
+P000964,Temperature,101.3°F
+P000964,Oxygen Saturation,93%
+P000964,Diagnosis,Hyperlipidemia
+P000965,Blood Pressure,138/81 mmHg
+P000965,Blood Pressure,169/93 mmHg
+P000965,Blood Pressure,124/90 mmHg
+P000965,Heart Rate,53 bpm
+P000965,Diagnosis,Depression
+P000966,Heart Rate,86 bpm
+P000966,Temperature,97.2°F
+P000966,Blood Pressure,143/81 mmHg
+P000966,Oxygen Saturation,95%
+P000966,Diagnosis,Osteoarthritis
+P000967,Oxygen Saturation,93%
+P000967,Temperature,99.2°F
+P000967,Heart Rate,81 bpm
+P000967,Heart Rate,86 bpm
+P000967,Temperature,97.4°F
+P000968,Weight,113 lbs
+P000968,Blood Pressure,102/99 mmHg
+P000968,Prescription,Atorvastatin 20mg at bedtime
+P000968,HbA1c,6.5%
+P000968,Creatinine,2.15 mg/dL
+P000969,Weight,253 lbs
+P000969,Oxygen Saturation,92%
+P000969,Heart Rate,114 bpm
+P000969,Blood Pressure,106/74 mmHg
+P000969,Heart Rate,105 bpm
+P000970,Oxygen Saturation,96%
+P000970,Heart Rate,57 bpm
+P000970,Heart Rate,119 bpm
+P000970,Heart Rate,107 bpm
+P000970,Diagnosis,Depression
+P000971,Oxygen Saturation,91%
+P000971,Oxygen Saturation,92%
+P000971,Heart Rate,115 bpm
+P000971,Temperature,100.3°F
+P000971,Diagnosis,Type 2 Diabetes Mellitus
+P000972,Temperature,100.1°F
+P000972,Heart Rate,102 bpm
+P000972,Blood Pressure,135/106 mmHg
+P000972,Blood Pressure,103/91 mmHg
+P000972,Weight,210 lbs
+P000973,Blood Pressure,165/88 mmHg
+P000973,Blood Pressure,95/101 mmHg
+P000973,Weight,132 lbs
+P000973,Blood Pressure,125/88 mmHg
+P000973,Oxygen Saturation,90%
+P000974,Heart Rate,119 bpm
+P000974,Oxygen Saturation,99%
+P000974,Diagnosis,Hypertension Stage 2
+P000974,Prescription,Aspirin 81mg once daily
+P000974,Prescription,Atorvastatin 20mg at bedtime
+P000975,Oxygen Saturation,99%
+P000975,Temperature,97.8°F
+P000975,Temperature,98.6°F
+P000975,Prescription,Atorvastatin 20mg at bedtime
+P000975,Fasting Blood Glucose,214 mg/dL
+P000976,Temperature,99.1°F
+P000976,Temperature,100.0°F
+P000976,Diagnosis,Coronary Artery Disease
+P000976,Prescription,Levothyroxine 50mcg once daily
+P000976,Prescription,Aspirin 81mg once daily
+P000977,Blood Pressure,146/102 mmHg
+P000977,Blood Pressure,174/82 mmHg
+P000977,Diagnosis,Hypertension Stage 1
+P000977,Prescription,Lisinopril 10mg once daily
+P000977,Prescription,Atorvastatin 20mg at bedtime
+P000978,Weight,149 lbs
+P000978,Oxygen Saturation,100%
+P000978,Diagnosis,Type 2 Diabetes Mellitus
+P000978,Prescription,Atorvastatin 20mg at bedtime
+P000978,Prescription,Omeprazole 20mg once daily
+P000979,Heart Rate,70 bpm
+P000979,Oxygen Saturation,95%
+P000979,Blood Pressure,93/116 mmHg
+P000979,Prescription,Levothyroxine 50mcg once daily
+P000979,Fasting Blood Glucose,97 mg/dL
+P000980,Oxygen Saturation,97%
+P000980,Oxygen Saturation,95%
+P000980,Weight,179 lbs
+P000980,Temperature,98.5°F
+P000980,Prescription,Atorvastatin 20mg at bedtime
+P000981,Heart Rate,65 bpm
+P000981,Oxygen Saturation,100%
+P000981,Blood Pressure,143/113 mmHg
+P000981,Blood Pressure,161/100 mmHg
+P000981,Temperature,99.9°F
+P000982,Oxygen Saturation,94%
+P000982,Temperature,101.6°F
+P000982,Oxygen Saturation,97%
+P000982,Oxygen Saturation,98%
+P000982,Diagnosis,Type 2 Diabetes Mellitus
+P000983,Blood Pressure,96/60 mmHg
+P000983,Temperature,101.6°F
+P000983,Weight,124 lbs
+P000983,Blood Pressure,162/107 mmHg
+P000983,Prescription,Atorvastatin 20mg at bedtime
+P000984,Temperature,98.1°F
+P000984,Blood Pressure,144/116 mmHg
+P000984,Temperature,97.4°F
+P000984,Weight,253 lbs
+P000984,Oxygen Saturation,94%
+P000985,Blood Pressure,134/66 mmHg
+P000985,Blood Pressure,169/109 mmHg
+P000985,Weight,212 lbs
+P000985,Oxygen Saturation,100%
+P000985,Prescription,Atorvastatin 20mg at bedtime
+P000986,Temperature,99.8°F
+P000986,Heart Rate,111 bpm
+P000986,Temperature,97.3°F
+P000986,Prescription,Omeprazole 20mg once daily
+P000986,Prescription,Atorvastatin 20mg at bedtime
+P000987,Blood Pressure,134/104 mmHg
+P000987,Oxygen Saturation,90%
+P000987,Diagnosis,Asthma
+P000987,Prescription,Omeprazole 20mg once daily
+P000987,Prescription,Atorvastatin 20mg at bedtime
+P000988,Temperature,101.9°F
+P000988,Temperature,100.2°F
+P000988,Blood Pressure,152/101 mmHg
+P000988,Blood Pressure,159/97 mmHg
+P000988,Weight,196 lbs
+P000989,Blood Pressure,118/113 mmHg
+P000989,Weight,270 lbs
+P000989,Heart Rate,118 bpm
+P000989,Diagnosis,Coronary Artery Disease
+P000989,Prescription,Metformin 500mg twice daily
+P000990,Blood Pressure,109/115 mmHg
+P000990,Weight,269 lbs
+P000990,Diagnosis,Hypertension Stage 1
+P000990,Prescription,Atorvastatin 20mg at bedtime
+P000990,Prescription,Lisinopril 10mg once daily
+P000991,Temperature,99.4°F
+P000991,Oxygen Saturation,100%
+P000991,Blood Pressure,119/102 mmHg
+P000991,Heart Rate,88 bpm
+P000991,Prescription,Levothyroxine 50mcg once daily
+P000992,Temperature,100.7°F
+P000992,Oxygen Saturation,97%
+P000992,Weight,126 lbs
+P000992,Weight,156 lbs
+P000992,Diagnosis,Chronic Kidney Disease Stage 3
+P000993,Heart Rate,109 bpm
+P000993,Blood Pressure,180/66 mmHg
+P000993,Oxygen Saturation,100%
+P000993,Diagnosis,Hypertension Stage 2
+P000993,HbA1c,9.3%
+P000994,Oxygen Saturation,94%
+P000994,Oxygen Saturation,99%
+P000994,Temperature,101.0°F
+P000994,Prescription,Omeprazole 20mg once daily
+P000994,Prescription,Aspirin 81mg once daily
+P000995,Temperature,99.6°F
+P000995,Oxygen Saturation,94%
+P000995,Temperature,101.6°F
+P000995,Heart Rate,62 bpm
+P000995,Heart Rate,78 bpm
+P000996,Weight,180 lbs
+P000996,Weight,194 lbs
+P000996,Heart Rate,90 bpm
+P000996,Blood Pressure,169/96 mmHg
+P000996,Diagnosis,Coronary Artery Disease
+P000997,Weight,223 lbs
+P000997,Temperature,101.4°F
+P000997,Diagnosis,Hyperlipidemia
+P000997,Prescription,Lisinopril 10mg once daily
+P000997,Prescription,Lisinopril 10mg once daily
+P000998,Oxygen Saturation,98%
+P000998,Heart Rate,83 bpm
+P000998,HbA1c,9.8%
+P000998,Total Cholesterol,191 mg/dL
+P000998,Creatinine,2.03 mg/dL
+P000999,Oxygen Saturation,92%
+P000999,Blood Pressure,149/82 mmHg
+P000999,Oxygen Saturation,97%
+P000999,Weight,131 lbs
+P000999,Diagnosis,Hypertension Stage 1
+P001000,Weight,268 lbs
+P001000,Oxygen Saturation,92%
+P001000,Oxygen Saturation,95%
+P001000,Oxygen Saturation,90%
+P001000,Diagnosis,Osteoarthritis

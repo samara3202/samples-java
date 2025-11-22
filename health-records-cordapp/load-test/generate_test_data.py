@@ -9,6 +9,7 @@ import csv
 from faker import Faker
 import argparse
 from collections import defaultdict
+import os
 
 fake = Faker()
 
@@ -77,6 +78,9 @@ def generate_medical_records(patient_id, count):
 
 def save_data(data, filename, fieldnames=None):
     """Save data to JSON and CSV"""
+    # Ensure directory exists
+    os.makedirs(os.path.dirname(filename) if os.path.dirname(filename) else '.', exist_ok=True)
+    
     # JSON
     with open(f"{filename}.json", 'w') as f:
         json.dump(data, f, indent=2)
@@ -95,7 +99,7 @@ def main():
     parser = argparse.ArgumentParser(description='Generate test data')
     parser.add_argument('--patients', type=int, default=1000, help='Number of patients')
     parser.add_argument('--records-per-patient', type=int, default=10, help='Records per patient')
-    parser.add_argument('--output-dir', default='.', help='Output directory')
+    parser.add_argument('--output-dir', default='data', help='Output directory')
     
     args = parser.parse_args()
     
@@ -119,5 +123,4 @@ def main():
 
 
 if __name__ == '__main__':
-    import os
     main()
