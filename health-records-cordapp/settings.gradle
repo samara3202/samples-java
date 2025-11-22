@@ -1,0 +1,4 @@
+rootProject.name = 'health-records-cordapp'
+include 'contracts'
+include 'workflows'
+include 'clients'
