@@ -44,7 +44,22 @@ This application demonstrates:
 
 ## Quick Start
 
-### 1. Build the CorDapp
+### One-Command Start (Easiest)
+
+```bash
+cd health-records-cordapp
+./start-all.sh
+```
+
+This automatically:
+- Builds the project
+- Deploys nodes
+- Runs migrations
+- Starts all services
+
+**API Available at:** http://localhost:50005/api
+
+### Manual Build
 
 ```bash
 cd health-records-cordapp

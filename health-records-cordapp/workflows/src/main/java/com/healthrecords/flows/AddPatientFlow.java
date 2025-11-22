@@ -25,32 +25,10 @@ public class AddPatientFlow {
         private final String name;
         private final Integer age;
         
-        private final Step GENERATING_TRANSACTION = new Step("Generating transaction for patient record.");
-        private final Step VERIFYING_TRANSACTION = new Step("Verifying contract constraints.");
-        private final Step SIGNING_TRANSACTION = new Step("Signing transaction with our private key.");
-        private final Step FINALISING_TRANSACTION = new Step("Obtaining notary signature and recording transaction.") {
-            @Override
-            public ProgressTracker childProgressTracker() {
-                return FinalityFlow.Companion.tracker();
-            }
-        };
-        
-        private final ProgressTracker progressTracker = new ProgressTracker(
-                GENERATING_TRANSACTION,
-                VERIFYING_TRANSACTION,
-                SIGNING_TRANSACTION,
-                FINALISING_TRANSACTION
-        );
-        
         public Initiator(String patientId, String name, Integer age) {
             this.patientId = patientId;
             this.name = name;
             this.age = age;
-        }
-        
-        @Override
-        public ProgressTracker getProgressTracker() {
-            return progressTracker;
         }
         
         @Suspendable
@@ -59,7 +37,6 @@ public class AddPatientFlow {
             final Party notary = getServiceHub().getNetworkMapCache()
                     .getNotary(CordaX500Name.parse("O=Notary,L=London,C=GB"));
             
-            progressTracker.setCurrentStep(GENERATING_TRANSACTION);
             Party hospital = getOurIdentity();
             PatientState patientState = new PatientState(
                     patientId,
@@ -78,13 +55,10 @@ public class AddPatientFlow {
                     .addOutputState(patientState, PatientContract.ID)
                     .addCommand(txCommand);
             
-            progressTracker.setCurrentStep(VERIFYING_TRANSACTION);
             txBuilder.verify(getServiceHub());
             
-            progressTracker.setCurrentStep(SIGNING_TRANSACTION);
             final SignedTransaction signedTx = getServiceHub().signInitialTransaction(txBuilder);
             
-            progressTracker.setCurrentStep(FINALISING_TRANSACTION);
             return subFlow(new FinalityFlow(signedTx, Arrays.asList()));
         }
     }

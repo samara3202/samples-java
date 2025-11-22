@@ -1,0 +1,84 @@
+version: '3.8'
+
+services:
+  # Notary Node
+  notary:
+    build: .
+    container_name: corda-notary
+    hostname: notary
+    ports:
+      - "10002:10002"
+      - "10003:10003"
+    environment:
+      - JAVA_OPTS=-Xmx512m
+    command: bash -c "cd build/nodes/Notary && java -jar corda.jar"
+    networks:
+      - corda-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:10003"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # Hospital Node
+  hospital:
+    build: .
+    container_name: corda-hospital
+    hostname: hospital
+    ports:
+      - "10005:10005"
+      - "10006:10006"
+      - "50005:50005"
+    environment:
+      - JAVA_OPTS=-Xmx512m
+    command: bash -c "cd build/nodes/Hospital && java -jar corda.jar"
+    depends_on:
+      - notary
+    networks:
+      - corda-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:10006"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # Doctor Node
+  doctor:
+    build: .
+    container_name: corda-doctor
+    hostname: doctor
+    ports:
+      - "10008:10008"
+      - "10009:10009"
+      - "50006:50006"
+    environment:
+      - JAVA_OPTS=-Xmx512m
+    command: bash -c "cd build/nodes/Doctor && java -jar corda.jar"
+    depends_on:
+      - notary
+    networks:
+      - corda-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:10009"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # Hospital Web Server
+  hospital-web:
+    build: .
+    container_name: hospital-web
+    hostname: hospital-web
+    ports:
+      - "50005:50005"
+    environment:
+      - JAVA_OPTS=-Xmx256m
+    command: bash -c "./gradlew clients:runHospitalServer"
+    depends_on:
+      - hospital
+    networks:
+      - corda-network
+
+networks:
+  corda-network:
+    driver: bridge

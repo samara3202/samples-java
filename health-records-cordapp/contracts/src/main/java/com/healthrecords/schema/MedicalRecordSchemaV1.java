@@ -27,7 +27,7 @@ public class MedicalRecordSchemaV1 extends MappedSchema {
         @Column(name = "title")
         private final String title;
 
-        @Column(name = "value")
+        @Column(name = "record_value", length = 4096)
         private final String value;
 
         @Column(name = "hospital")

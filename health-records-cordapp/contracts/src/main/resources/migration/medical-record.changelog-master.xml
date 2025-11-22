@@ -18,7 +18,7 @@
             <column name="title" type="VARCHAR(255)">
                 <constraints nullable="false"/>
             </column>
-            <column name="value" type="TEXT">
+            <column name="record_value" type="VARCHAR(4096)">
                 <constraints nullable="false"/>
             </column>
             <column name="hospital" type="VARCHAR(255)">

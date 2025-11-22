@@ -23,32 +23,10 @@ public class AddMedicalRecordFlow extends FlowLogic<SignedTransaction> {
     private final String title;
     private final String value;
     
-    private final Step GENERATING_TRANSACTION = new Step("Generating transaction for medical record.");
-    private final Step VERIFYING_TRANSACTION = new Step("Verifying contract constraints.");
-    private final Step SIGNING_TRANSACTION = new Step("Signing transaction with our private key.");
-    private final Step FINALISING_TRANSACTION = new Step("Obtaining notary signature and recording transaction.") {
-        @Override
-        public ProgressTracker childProgressTracker() {
-            return FinalityFlow.Companion.tracker();
-        }
-    };
-    
-    private final ProgressTracker progressTracker = new ProgressTracker(
-            GENERATING_TRANSACTION,
-            VERIFYING_TRANSACTION,
-            SIGNING_TRANSACTION,
-            FINALISING_TRANSACTION
-    );
-    
     public AddMedicalRecordFlow(String patientId, String title, String value) {
         this.patientId = patientId;
         this.title = title;
         this.value = value;
-    }
-    
-    @Override
-    public ProgressTracker getProgressTracker() {
-        return progressTracker;
     }
     
     @Suspendable
@@ -57,7 +35,6 @@ public class AddMedicalRecordFlow extends FlowLogic<SignedTransaction> {
         final Party notary = getServiceHub().getNetworkMapCache()
                 .getNotary(CordaX500Name.parse("O=Notary,L=London,C=GB"));
         
-        progressTracker.setCurrentStep(GENERATING_TRANSACTION);
         Party hospital = getOurIdentity();
         MedicalRecordState medicalRecordState = new MedicalRecordState(
                 patientId,
@@ -76,13 +53,10 @@ public class AddMedicalRecordFlow extends FlowLogic<SignedTransaction> {
                 .addOutputState(medicalRecordState, MedicalRecordContract.ID)
                 .addCommand(txCommand);
         
-        progressTracker.setCurrentStep(VERIFYING_TRANSACTION);
         txBuilder.verify(getServiceHub());
         
-        progressTracker.setCurrentStep(SIGNING_TRANSACTION);
         final SignedTransaction signedTx = getServiceHub().signInitialTransaction(txBuilder);
         
-        progressTracker.setCurrentStep(FINALISING_TRANSACTION);
         return subFlow(new FinalityFlow(signedTx, Arrays.asList()));
     }
 }
